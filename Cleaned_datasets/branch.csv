@@ -1,0 +1,201 @@
+branch_id,branch_name,city,state,region
+1,Jaipur North Branch,Jaipur,Rajasthan,North
+2,Bengaluru East Branch,Bengaluru,Karnataka,South
+3,Thane South Branch,Thane,Maharashtra,West
+4,Srinagar West Branch,Srinagar,Jammu & Kashmir,North
+5,Vijayawada East Branch,Vijayawada,Andhra Pradesh,South
+6,Ludhiana Central Branch,Ludhiana,Punjab,North
+7,Chennai West Branch,Chennai,Tamil Nadu,South
+8,Surat South Branch,Surat,Gujarat,West
+9,Ludhiana South Branch,Ludhiana,Punjab,North
+10,Ahmedabad West Branch,Ahmedabad,Gujarat,West
+11,Nashik South Branch,Nashik,Maharashtra,West
+12,Hyderabad South Branch,Hyderabad,Telangana,South
+13,Lucknow South Branch,Lucknow,Uttar Pradesh,North
+14,Nashik Main Branch,Nashik,Maharashtra,West
+15,Mumbai Main Branch,Mumbai,Maharashtra,West
+16,Pune West Branch,Pune,Maharashtra,West
+17,Varanasi Central Branch,Varanasi,Uttar Pradesh,North
+18,Agra East Branch,Agra,Uttar Pradesh,North
+19,Indore North Branch,Indore,Madhya Pradesh,West
+20,Madurai Main Branch,Madurai,Tamil Nadu,South
+21,Kochi North Branch,Kochi,Kerala,South
+22,Chennai Central Branch,Chennai,Tamil Nadu,South
+23,Agra Central Branch,Agra,Uttar Pradesh,North
+24,Nagpur North Branch,Nagpur,Maharashtra,West
+25,Ranchi North Branch,Ranchi,Jharkhand,East
+26,Agra Main Branch,Agra,Uttar Pradesh,North
+27,Surat South Branch,Surat,Gujarat,West
+28,Chennai South Branch,Chennai,Tamil Nadu,South
+29,Pune East Branch,Pune,Maharashtra,West
+30,Kochi Central Branch,Kochi,Kerala,South
+31,Aurangabad Main Branch,Aurangabad,Maharashtra,West
+32,Ludhiana West Branch,Ludhiana,Punjab,North
+33,Mysuru South Branch,Mysuru,Karnataka,South
+34,Kanpur Main Branch,Kanpur,Uttar Pradesh,North
+35,Kolkata Main Branch,Kolkata,West Bengal,East
+36,Ahmedabad East Branch,Ahmedabad,Gujarat,West
+37,Kochi North Branch,Kochi,Kerala,South
+38,Ranchi Main Branch,Ranchi,Jharkhand,East
+39,Ghaziabad West Branch,Ghaziabad,Uttar Pradesh,North
+40,Pune South Branch,Pune,Maharashtra,West
+41,Lucknow South Branch,Lucknow,Uttar Pradesh,North
+42,Delhi South Branch,Delhi,Delhi,North
+43,Ahmedabad Main Branch,Ahmedabad,Gujarat,West
+44,Pune North Branch,Pune,Maharashtra,West
+45,Madurai Central Branch,Madurai,Tamil Nadu,South
+46,Visakhapatnam South Branch,Visakhapatnam,Andhra Pradesh,South
+47,Pune West Branch,Pune,Maharashtra,West
+48,Hyderabad East Branch,Hyderabad,Telangana,South
+49,Kanpur Main Branch,Kanpur,Uttar Pradesh,North
+50,Mysuru West Branch,Mysuru,Karnataka,South
+51,Mysuru West Branch,Mysuru,Karnataka,South
+52,Pune West Branch,Pune,Maharashtra,West
+53,Hyderabad West Branch,Hyderabad,Telangana,South
+54,Bengaluru North Branch,Bengaluru,Karnataka,South
+55,Bhopal North Branch,Bhopal,Madhya Pradesh,West
+56,Rajkot Central Branch,Rajkot,Gujarat,West
+57,Jaipur North Branch,Jaipur,Rajasthan,North
+58,Rajkot North Branch,Rajkot,Gujarat,West
+59,Mysuru Central Branch,Mysuru,Karnataka,South
+60,Thane North Branch,Thane,Maharashtra,West
+61,Hyderabad South Branch,Hyderabad,Telangana,South
+62,Mysuru West Branch,Mysuru,Karnataka,South
+63,Visakhapatnam West Branch,Visakhapatnam,Andhra Pradesh,South
+64,Ahmedabad East Branch,Ahmedabad,Gujarat,West
+65,Agra East Branch,Agra,Uttar Pradesh,North
+66,Indore South Branch,Indore,Madhya Pradesh,West
+67,Ghaziabad Main Branch,Ghaziabad,Uttar Pradesh,North
+68,Patna Main Branch,Patna,Bihar,East
+69,Vijayawada Main Branch,Vijayawada,Andhra Pradesh,South
+70,Varanasi Main Branch,Varanasi,Uttar Pradesh,North
+71,Ghaziabad North Branch,Ghaziabad,Uttar Pradesh,North
+72,Nagpur North Branch,Nagpur,Maharashtra,West
+73,Vijayawada North Branch,Vijayawada,Andhra Pradesh,South
+74,Bhopal North Branch,Bhopal,Madhya Pradesh,West
+75,Varanasi West Branch,Varanasi,Uttar Pradesh,North
+76,Vadodara Central Branch,Vadodara,Gujarat,West
+77,Visakhapatnam West Branch,Visakhapatnam,Andhra Pradesh,South
+78,Surat South Branch,Surat,Gujarat,West
+79,Ranchi Central Branch,Ranchi,Jharkhand,East
+80,Visakhapatnam South Branch,Visakhapatnam,Andhra Pradesh,South
+81,Patna North Branch,Patna,Bihar,East
+82,Chennai South Branch,Chennai,Tamil Nadu,South
+83,Pune West Branch,Pune,Maharashtra,West
+84,Mumbai East Branch,Mumbai,Maharashtra,West
+85,Kolkata Main Branch,Kolkata,West Bengal,East
+86,Chennai Central Branch,Chennai,Tamil Nadu,South
+87,Pune Main Branch,Pune,Maharashtra,West
+88,Rajkot North Branch,Rajkot,Gujarat,West
+89,Bhopal South Branch,Bhopal,Madhya Pradesh,West
+90,Nagpur North Branch,Nagpur,Maharashtra,West
+91,Thane North Branch,Thane,Maharashtra,West
+92,Mysuru Central Branch,Mysuru,Karnataka,South
+93,Kolkata Central Branch,Kolkata,West Bengal,East
+94,Jaipur Central Branch,Jaipur,Rajasthan,North
+95,Varanasi Main Branch,Varanasi,Uttar Pradesh,North
+96,Nagpur Main Branch,Nagpur,Maharashtra,West
+97,Agra North Branch,Agra,Uttar Pradesh,North
+98,Rajkot South Branch,Rajkot,Gujarat,West
+99,Ranchi Main Branch,Ranchi,Jharkhand,East
+100,Bengaluru Main Branch,Bengaluru,Karnataka,South
+101,Agra Main Branch,Agra,Uttar Pradesh,North
+102,Patna West Branch,Patna,Bihar,East
+103,Kochi North Branch,Kochi,Kerala,South
+104,Madurai West Branch,Madurai,Tamil Nadu,South
+105,Ludhiana East Branch,Ludhiana,Punjab,North
+106,Srinagar East Branch,Srinagar,Jammu & Kashmir,North
+107,Ahmedabad West Branch,Ahmedabad,Gujarat,West
+108,Srinagar East Branch,Srinagar,Jammu & Kashmir,North
+109,Vadodara West Branch,Vadodara,Gujarat,West
+110,Bhopal Central Branch,Bhopal,Madhya Pradesh,West
+111,Mysuru South Branch,Mysuru,Karnataka,South
+112,Ranchi Central Branch,Ranchi,Jharkhand,East
+113,Ahmedabad North Branch,Ahmedabad,Gujarat,West
+114,Kolkata Main Branch,Kolkata,West Bengal,East
+115,Bengaluru Main Branch,Bengaluru,Karnataka,South
+116,Kanpur East Branch,Kanpur,Uttar Pradesh,North
+117,Jaipur North Branch,Jaipur,Rajasthan,North
+118,Ghaziabad Main Branch,Ghaziabad,Uttar Pradesh,North
+119,Nagpur South Branch,Nagpur,Maharashtra,West
+120,Varanasi Central Branch,Varanasi,Uttar Pradesh,North
+121,Vijayawada Central Branch,Vijayawada,Andhra Pradesh,South
+122,Rajkot Central Branch,Rajkot,Gujarat,West
+123,Kochi Main Branch,Kochi,Kerala,South
+124,Thane South Branch,Thane,Maharashtra,West
+125,Guwahati West Branch,Guwahati,Assam,East
+126,Ludhiana West Branch,Ludhiana,Punjab,North
+127,Bhopal South Branch,Bhopal,Madhya Pradesh,West
+128,Bhopal Central Branch,Bhopal,Madhya Pradesh,West
+129,Pune East Branch,Pune,Maharashtra,West
+130,Chennai Main Branch,Chennai,Tamil Nadu,South
+131,Delhi Main Branch,Delhi,Delhi,North
+132,Vadodara West Branch,Vadodara,Gujarat,West
+133,Lucknow South Branch,Lucknow,Uttar Pradesh,North
+134,Indore North Branch,Indore,Madhya Pradesh,West
+135,Ludhiana Main Branch,Ludhiana,Punjab,North
+136,Guwahati East Branch,Guwahati,Assam,East
+137,Visakhapatnam North Branch,Visakhapatnam,Andhra Pradesh,South
+138,Hyderabad East Branch,Hyderabad,Telangana,South
+139,Bengaluru South Branch,Bengaluru,Karnataka,South
+140,Madurai East Branch,Madurai,Tamil Nadu,South
+141,Srinagar East Branch,Srinagar,Jammu & Kashmir,North
+142,Bhopal West Branch,Bhopal,Madhya Pradesh,West
+143,Mumbai East Branch,Mumbai,Maharashtra,West
+144,Bhopal East Branch,Bhopal,Madhya Pradesh,West
+145,Kolkata East Branch,Kolkata,West Bengal,East
+146,Nagpur South Branch,Nagpur,Maharashtra,West
+147,Ahmedabad West Branch,Ahmedabad,Gujarat,West
+148,Coimbatore Main Branch,Coimbatore,Tamil Nadu,South
+149,Agra North Branch,Agra,Uttar Pradesh,North
+150,Guwahati Central Branch,Guwahati,Assam,East
+151,Nagpur South Branch,Nagpur,Maharashtra,West
+152,Kochi South Branch,Kochi,Kerala,South
+153,Indore Central Branch,Indore,Madhya Pradesh,West
+154,Nashik West Branch,Nashik,Maharashtra,West
+155,Ahmedabad East Branch,Ahmedabad,Gujarat,West
+156,Kolkata Main Branch,Kolkata,West Bengal,East
+157,Kochi Central Branch,Kochi,Kerala,South
+158,Delhi North Branch,Delhi,Delhi,North
+159,Vadodara Main Branch,Vadodara,Gujarat,West
+160,Kochi Main Branch,Kochi,Kerala,South
+161,Mumbai Main Branch,Mumbai,Maharashtra,West
+162,Madurai East Branch,Madurai,Tamil Nadu,South
+163,Thane Main Branch,Thane,Maharashtra,West
+164,Ludhiana West Branch,Ludhiana,Punjab,North
+165,Visakhapatnam West Branch,Visakhapatnam,Andhra Pradesh,South
+166,Nashik South Branch,Nashik,Maharashtra,West
+167,Coimbatore Central Branch,Coimbatore,Tamil Nadu,South
+168,Mysuru East Branch,Mysuru,Karnataka,South
+169,Ludhiana Central Branch,Ludhiana,Punjab,North
+170,Lucknow Central Branch,Lucknow,Uttar Pradesh,North
+171,Patna Central Branch,Patna,Bihar,East
+172,Varanasi West Branch,Varanasi,Uttar Pradesh,North
+173,Mumbai West Branch,Mumbai,Maharashtra,West
+174,Kanpur West Branch,Kanpur,Uttar Pradesh,North
+175,Varanasi South Branch,Varanasi,Uttar Pradesh,North
+176,Ludhiana Main Branch,Ludhiana,Punjab,North
+177,Guwahati Central Branch,Guwahati,Assam,East
+178,Guwahati West Branch,Guwahati,Assam,East
+179,Nashik Main Branch,Nashik,Maharashtra,West
+180,Visakhapatnam East Branch,Visakhapatnam,Andhra Pradesh,South
+181,Coimbatore Central Branch,Coimbatore,Tamil Nadu,South
+182,Jaipur South Branch,Jaipur,Rajasthan,North
+183,Kochi South Branch,Kochi,Kerala,South
+184,Kochi West Branch,Kochi,Kerala,South
+185,Ludhiana West Branch,Ludhiana,Punjab,North
+186,Rajkot Central Branch,Rajkot,Gujarat,West
+187,Mumbai East Branch,Mumbai,Maharashtra,West
+188,Ranchi East Branch,Ranchi,Jharkhand,East
+189,Ghaziabad West Branch,Ghaziabad,Uttar Pradesh,North
+190,Surat South Branch,Surat,Gujarat,West
+191,Madurai West Branch,Madurai,Tamil Nadu,South
+192,Vadodara West Branch,Vadodara,Gujarat,West
+193,Delhi North Branch,Delhi,Delhi,North
+194,Jaipur West Branch,Jaipur,Rajasthan,North
+195,Agra Central Branch,Agra,Uttar Pradesh,North
+196,Hyderabad South Branch,Hyderabad,Telangana,South
+197,Nashik North Branch,Nashik,Maharashtra,West
+198,Chennai East Branch,Chennai,Tamil Nadu,South
+199,Mumbai South Branch,Mumbai,Maharashtra,West
+200,Rajkot East Branch,Rajkot,Gujarat,West

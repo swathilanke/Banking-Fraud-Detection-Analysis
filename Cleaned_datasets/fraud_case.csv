@@ -1,0 +1,2501 @@
+fraud_id,transaction_id,fraud_type,detection_method,report_date,resolution_status,loss_amount
+1,4,Vishing,AI Alert,2024-02-17,Closed,2911.34
+2,8197,Smishing,Customer Complaint,2019-06-25,Investigating,5331.17
+3,8199,Chargeback Fraud,AI Alert,2020-09-14,Resolved,28211.42
+4,7,Account Takeover,AI Alert,2024-06-29,Resolved,10280.88
+5,9,Vishing,Customer Complaint,2020-12-31,Closed,5322.88
+6,8202,Card Cloning,AI Alert,2023-07-25,Resolved,23506.53
+7,12,Phishing,AI Alert,2024-03-18,Closed,12936.15
+8,8205,Identity Theft,Manual Review,2025-02-16,Resolved,19689.27
+9,14,Phishing,Customer Complaint,2023-04-14,Investigating,14998.51
+10,15,Identity Theft,Customer Complaint,2024-07-26,Closed,82.03
+11,16,Smishing,Manual Review,2025-08-10,Closed,34607.74
+12,8207,Vishing,Customer Complaint,2024-01-06,Closed,2853.71
+13,21,Phishing,Manual Review,2021-10-26,Closed,24778.54
+14,22,Smishing,Manual Review,2023-10-15,Closed,2950.03
+15,24,Account Takeover,Manual Review,2025-03-22,Closed,5668.51
+16,8216,Identity Theft,AI Alert,2019-05-28,Closed,838.63
+17,8220,Smishing,Customer Complaint,2024-09-27,Resolved,171.05
+18,33,Phishing,AI Alert,2022-09-20,Investigating,9386.17
+19,8226,Smishing,Manual Review,2024-01-24,Closed,22982.83
+20,34,Vishing,AI Alert,2019-01-26,Resolved,235.31
+21,8227,Phishing,AI Alert,2020-12-14,Investigating,11581.27
+22,40,Chargeback Fraud,AI Alert,2022-04-13,Investigating,1257.06
+23,41,Account Takeover,Customer Complaint,2025-02-02,Closed,8758.75
+24,42,Vishing,Manual Review,2024-04-08,Resolved,910.11
+25,8235,Vishing,Customer Complaint,2023-01-17,Investigating,16652.36
+26,8236,Account Takeover,Customer Complaint,2022-11-02,Investigating,122.28
+27,46,Smishing,Manual Review,2022-09-24,Resolved,26295.43
+28,47,Chargeback Fraud,Manual Review,2023-05-24,Investigating,3160.8
+29,8239,Smishing,AI Alert,2023-09-16,Investigating,15010.29
+30,8247,Smishing,Manual Review,2023-06-15,Resolved,19495.85
+31,8249,Chargeback Fraud,Customer Complaint,2025-08-14,Closed,589.89
+32,8252,Identity Theft,Manual Review,2021-02-06,Closed,992.21
+33,8256,Phishing,Customer Complaint,2024-10-16,Investigating,10486.04
+34,65,Smishing,Manual Review,2021-03-20,Resolved,21628.73
+35,67,Phishing,AI Alert,2019-01-05,Investigating,22428.28
+36,8260,Phishing,Manual Review,2025-04-19,Investigating,26472.74
+37,8261,Identity Theft,Manual Review,2025-07-25,Resolved,3520.14
+38,69,Smishing,Manual Review,2020-07-16,Investigating,32.87
+39,8259,Chargeback Fraud,Manual Review,2021-09-22,Closed,7347.85
+40,70,Smishing,Customer Complaint,2025-04-30,Investigating,11630.41
+41,8267,Smishing,Manual Review,2023-08-21,Investigating,14468.66
+42,8270,Vishing,AI Alert,2024-02-16,Closed,11433.47
+43,8271,Account Takeover,Customer Complaint,2024-11-02,Resolved,23654.72
+44,8273,Identity Theft,Manual Review,2020-05-18,Resolved,13093.17
+45,81,Card Cloning,AI Alert,2024-06-18,Investigating,35391.85
+46,83,Identity Theft,Customer Complaint,2019-07-03,Resolved,11150.61
+47,87,Chargeback Fraud,AI Alert,2020-10-04,Closed,5320.65
+48,8284,Chargeback Fraud,Customer Complaint,2020-01-13,Investigating,14644.63
+49,93,Account Takeover,Customer Complaint,2021-04-10,Resolved,16525.92
+50,94,Card Cloning,AI Alert,2019-08-26,Investigating,2218.69
+51,96,Vishing,AI Alert,2021-09-16,Investigating,11251.81
+52,8289,Account Takeover,Customer Complaint,2019-10-30,Closed,18168.58
+53,98,Vishing,AI Alert,2020-03-26,Investigating,11654.76
+54,97,Account Takeover,Manual Review,2024-05-05,Resolved,16148.71
+55,8293,Account Takeover,Customer Complaint,2019-03-01,Resolved,2191.09
+56,8294,Identity Theft,Customer Complaint,2021-08-18,Closed,13869.39
+57,107,Smishing,Manual Review,2019-03-18,Investigating,24187.71
+58,108,Phishing,AI Alert,2023-01-03,Resolved,6328.7
+59,109,Identity Theft,AI Alert,2025-06-26,Resolved,19703.49
+60,110,Account Takeover,AI Alert,2023-04-24,Resolved,9195.4
+61,8300,Chargeback Fraud,Customer Complaint,2025-01-26,Closed,3513.97
+62,114,Chargeback Fraud,Customer Complaint,2024-07-29,Investigating,14900.86
+63,8311,Account Takeover,AI Alert,2025-03-01,Investigating,10781.93
+64,120,Account Takeover,Manual Review,2022-07-09,Closed,4911.74
+65,8313,Vishing,AI Alert,2023-09-03,Closed,14740.54
+66,8320,Identity Theft,Customer Complaint,2022-09-24,Resolved,97.62
+67,131,Phishing,Manual Review,2019-12-23,Investigating,10093.1
+68,134,Card Cloning,AI Alert,2022-10-27,Resolved,5914.3
+69,12214,Smishing,Customer Complaint,2022-07-19,Resolved,19607.43
+70,8338,Phishing,AI Alert,2021-07-03,Investigating,2729.9
+71,145,Vishing,Manual Review,2019-08-18,Investigating,3774.51
+72,148,Card Cloning,Manual Review,2025-04-15,Investigating,6691.73
+73,149,Phishing,Customer Complaint,2019-08-06,Investigating,9361.91
+74,150,Phishing,Customer Complaint,2021-08-12,Closed,7524.88
+75,8345,Identity Theft,AI Alert,2023-01-26,Investigating,3207.13
+76,8347,Chargeback Fraud,Manual Review,2022-05-10,Resolved,8349.37
+77,156,Phishing,AI Alert,2019-11-03,Investigating,3864.09
+78,8353,Smishing,AI Alert,2022-09-10,Investigating,391.59
+79,162,Account Takeover,Customer Complaint,2023-05-31,Resolved,1949.35
+80,8354,Smishing,Customer Complaint,2025-05-15,Investigating,14835.77
+81,8358,Chargeback Fraud,Manual Review,2020-08-13,Investigating,4416.74
+82,8359,Vishing,AI Alert,2019-11-04,Investigating,5269.26
+83,167,Vishing,Manual Review,2020-01-21,Closed,1399.03
+84,169,Smishing,Manual Review,2020-04-12,Investigating,15526.63
+85,8362,Card Cloning,AI Alert,2025-04-18,Closed,3170.48
+86,170,Phishing,Customer Complaint,2023-04-19,Investigating,4598.48
+87,174,Smishing,Manual Review,2021-07-05,Closed,11088.64
+88,175,Identity Theft,Customer Complaint,2023-05-04,Resolved,4014.79
+89,176,Chargeback Fraud,Customer Complaint,2025-09-29,Resolved,419.43
+90,8367,Account Takeover,Customer Complaint,2021-06-10,Closed,15583.42
+91,8374,Chargeback Fraud,Customer Complaint,2019-06-12,Investigating,1041.55
+92,184,Smishing,Manual Review,2021-12-26,Investigating,11835.81
+93,185,Card Cloning,AI Alert,2020-04-01,Resolved,13705.01
+94,8379,Chargeback Fraud,Manual Review,2020-04-02,Closed,24046.44
+95,188,Card Cloning,AI Alert,2024-08-10,Closed,4339.01
+96,8387,Card Cloning,Manual Review,2023-04-20,Resolved,4588.15
+97,199,Vishing,AI Alert,2024-06-15,Investigating,12215.31
+98,201,Account Takeover,Customer Complaint,2020-05-21,Closed,21427.34
+99,8394,Smishing,Manual Review,2025-01-13,Investigating,1528.37
+100,8395,Phishing,Manual Review,2024-04-12,Resolved,5461.6
+101,8396,Card Cloning,Manual Review,2023-12-13,Investigating,633.25
+102,203,Smishing,AI Alert,2025-10-01,Closed,25745.75
+103,8402,Account Takeover,Manual Review,2024-02-05,Resolved,14802.24
+104,12160,Account Takeover,Customer Complaint,2024-05-16,Closed,8616.82
+105,212,Chargeback Fraud,Customer Complaint,2022-08-13,Investigating,4390.1
+106,217,Phishing,AI Alert,2023-10-30,Resolved,9566.7
+107,219,Vishing,AI Alert,2019-05-06,Closed,4489.42
+108,8412,Vishing,Manual Review,2023-12-19,Investigating,12132.24
+109,8418,Account Takeover,AI Alert,2019-12-02,Resolved,2798.47
+110,12177,Card Cloning,Manual Review,2021-01-04,Resolved,456.72
+111,232,Phishing,AI Alert,2024-11-10,Investigating,13515.46
+112,8428,Phishing,Customer Complaint,2021-09-12,Resolved,14069.44
+113,8430,Vishing,Customer Complaint,2019-06-16,Investigating,12191.27
+114,8439,Chargeback Fraud,Manual Review,2023-12-02,Closed,3195.85
+115,250,Chargeback Fraud,AI Alert,2021-07-22,Closed,2601.04
+116,8443,Card Cloning,Manual Review,2021-12-26,Resolved,14932.24
+117,255,Phishing,Customer Complaint,2019-05-29,Closed,13193.25
+118,8451,Card Cloning,AI Alert,2022-08-15,Resolved,23899.58
+119,263,Account Takeover,Customer Complaint,2021-05-04,Resolved,9920.19
+120,12065,Phishing,Customer Complaint,2021-12-03,Closed,3934.15
+121,268,Identity Theft,AI Alert,2025-08-15,Closed,15207.43
+122,269,Chargeback Fraud,Customer Complaint,2019-10-08,Investigating,6605.9
+123,8462,Vishing,Manual Review,2025-02-20,Investigating,965.59
+124,8468,Chargeback Fraud,Manual Review,2023-12-24,Investigating,11245.34
+125,276,Chargeback Fraud,Manual Review,2020-03-14,Investigating,22048.95
+126,8472,Smishing,Customer Complaint,2023-10-06,Closed,12600.42
+127,283,Vishing,Manual Review,2023-06-06,Resolved,9367.22
+128,286,Phishing,Customer Complaint,2024-06-20,Resolved,12005.76
+129,287,Chargeback Fraud,Manual Review,2020-12-14,Investigating,24112.56
+130,289,Vishing,Customer Complaint,2021-08-13,Closed,11309.89
+131,8484,Identity Theft,Customer Complaint,2021-08-16,Investigating,982.57
+132,296,Vishing,AI Alert,2022-04-16,Closed,5558.17
+133,8489,Phishing,AI Alert,2022-12-03,Closed,15654.98
+134,301,Identity Theft,AI Alert,2024-10-22,Closed,6257.58
+135,8493,Card Cloning,AI Alert,2024-12-27,Investigating,4609.41
+136,305,Vishing,Manual Review,2025-09-18,Closed,8084.01
+137,8498,Identity Theft,AI Alert,2021-03-02,Closed,24897.02
+138,8499,Account Takeover,Manual Review,2022-05-15,Resolved,5483.68
+139,309,Phishing,Manual Review,2020-02-18,Investigating,2464.72
+140,314,Smishing,Manual Review,2019-06-14,Resolved,327.51
+141,12229,Smishing,Manual Review,2023-10-02,Investigating,11693.67
+142,319,Identity Theft,AI Alert,2021-01-31,Resolved,13128.18
+143,8515,Vishing,Customer Complaint,2024-06-16,Closed,18213.68
+144,324,Vishing,Manual Review,2020-02-16,Closed,22987.9
+145,8516,Identity Theft,AI Alert,2019-02-25,Resolved,3056.58
+146,323,Vishing,AI Alert,2025-09-19,Investigating,26396.6
+147,8520,Vishing,Customer Complaint,2021-02-02,Resolved,3495.82
+148,329,Account Takeover,Customer Complaint,2022-10-23,Investigating,3328.96
+149,8522,Phishing,Manual Review,2024-12-03,Closed,13784.48
+150,330,Vishing,Manual Review,2022-07-14,Closed,11866.14
+151,8533,Vishing,Manual Review,2022-06-11,Resolved,5472.82
+152,343,Vishing,AI Alert,2024-05-09,Investigating,17111.28
+153,8537,Phishing,Manual Review,2024-05-11,Investigating,21094.13
+154,8538,Chargeback Fraud,Manual Review,2025-01-11,Resolved,9600.19
+155,8540,Phishing,Manual Review,2019-12-16,Investigating,9234.72
+156,356,Identity Theft,AI Alert,2019-10-28,Closed,22592.32
+157,8552,Card Cloning,Manual Review,2020-08-04,Investigating,1593.34
+158,361,Chargeback Fraud,Customer Complaint,2020-02-13,Investigating,1923.16
+159,8553,Card Cloning,AI Alert,2021-03-26,Resolved,4450.1
+160,8558,Vishing,Manual Review,2019-06-28,Closed,11852.86
+161,371,Account Takeover,Customer Complaint,2023-02-28,Closed,4184.93
+162,8571,Identity Theft,Manual Review,2022-10-24,Resolved,8751.52
+163,380,Card Cloning,AI Alert,2019-11-29,Closed,12064.57
+164,385,Card Cloning,AI Alert,2023-06-06,Investigating,7803.5
+165,8584,Phishing,AI Alert,2024-02-10,Closed,4059.44
+166,8589,Account Takeover,Customer Complaint,2020-12-12,Closed,18101.59
+167,399,Chargeback Fraud,AI Alert,2024-10-11,Resolved,17377.5
+168,8592,Phishing,AI Alert,2020-10-08,Closed,7084.1
+169,8603,Smishing,AI Alert,2019-07-19,Investigating,7025.97
+170,414,Card Cloning,AI Alert,2019-01-12,Closed,3294.6
+171,8610,Account Takeover,AI Alert,2019-01-02,Closed,3456.33
+172,8612,Identity Theft,AI Alert,2024-01-16,Investigating,18002.88
+173,421,Card Cloning,Customer Complaint,2024-04-29,Closed,1982.32
+174,422,Identity Theft,Manual Review,2021-07-21,Investigating,4028.77
+175,8621,Chargeback Fraud,Manual Review,2025-10-03,Closed,5352.68
+176,431,Vishing,AI Alert,2019-01-12,Resolved,1088.98
+177,8623,Identity Theft,AI Alert,2025-03-07,Investigating,13093.77
+178,8624,Card Cloning,Manual Review,2024-04-14,Resolved,1391.64
+179,436,Phishing,Customer Complaint,2023-09-28,Closed,4705.46
+180,8629,Phishing,AI Alert,2023-06-06,Investigating,16386.35
+181,438,Identity Theft,Manual Review,2020-02-10,Resolved,17399.14
+182,439,Account Takeover,Manual Review,2023-06-12,Resolved,768.75
+183,8634,Chargeback Fraud,AI Alert,2021-05-04,Resolved,264.15
+184,8639,Phishing,Customer Complaint,2020-11-12,Investigating,202.9
+185,8642,Card Cloning,AI Alert,2019-06-26,Investigating,11284.2
+186,8645,Phishing,Customer Complaint,2020-10-14,Resolved,6323.39
+187,454,Account Takeover,AI Alert,2022-07-25,Resolved,6326.34
+188,456,Chargeback Fraud,Manual Review,2019-05-10,Closed,10692.11
+189,8651,Smishing,Manual Review,2021-11-13,Investigating,17122.74
+190,8655,Identity Theft,Customer Complaint,2020-02-18,Investigating,9547.09
+191,8656,Account Takeover,Manual Review,2021-11-19,Investigating,26161.11
+192,465,Chargeback Fraud,AI Alert,2022-02-17,Resolved,22394.53
+193,8661,Account Takeover,AI Alert,2022-05-26,Resolved,15782.68
+194,473,Smishing,AI Alert,2020-07-09,Closed,18191.33
+195,475,Chargeback Fraud,AI Alert,2024-08-17,Closed,14890.13
+196,476,Account Takeover,Customer Complaint,2020-06-22,Resolved,21650.18
+197,478,Chargeback Fraud,AI Alert,2023-02-14,Investigating,2462.25
+198,8671,Vishing,AI Alert,2019-01-29,Investigating,5057.19
+199,8672,Identity Theft,Manual Review,2019-10-09,Investigating,23645.85
+200,481,Chargeback Fraud,Customer Complaint,2022-06-25,Closed,13919.03
+201,480,Chargeback Fraud,AI Alert,2024-02-22,Investigating,1065.89
+202,482,Identity Theft,AI Alert,2020-02-07,Closed,7623.06
+203,8670,Account Takeover,Customer Complaint,2023-11-24,Closed,11535.65
+204,488,Smishing,AI Alert,2023-07-07,Investigating,13815.35
+205,500,Card Cloning,AI Alert,2025-05-16,Closed,4803.65
+206,8693,Account Takeover,Manual Review,2025-10-27,Investigating,4985.78
+207,8694,Card Cloning,Manual Review,2021-04-26,Investigating,17934.98
+208,8697,Vishing,Customer Complaint,2024-05-30,Closed,4102.94
+209,8699,Vishing,Manual Review,2021-03-01,Closed,7717.89
+210,8700,Chargeback Fraud,Manual Review,2025-05-11,Closed,23046.0
+211,8702,Chargeback Fraud,Customer Complaint,2021-11-18,Investigating,17256.8
+212,8703,Phishing,Customer Complaint,2019-08-07,Resolved,17343.7
+213,8709,Chargeback Fraud,Manual Review,2023-03-16,Resolved,3552.11
+214,518,Vishing,AI Alert,2019-07-11,Investigating,6848.07
+215,520,Identity Theft,AI Alert,2023-01-26,Resolved,12813.05
+216,8721,Account Takeover,Manual Review,2022-08-13,Resolved,10000.15
+217,8722,Chargeback Fraud,AI Alert,2025-02-20,Resolved,3090.35
+218,540,Account Takeover,Manual Review,2019-05-09,Closed,10343.02
+219,542,Vishing,AI Alert,2022-01-08,Investigating,14890.2
+220,551,Phishing,Manual Review,2024-04-30,Closed,2796.8
+221,8743,Vishing,Customer Complaint,2020-03-22,Closed,17890.36
+222,555,Account Takeover,Manual Review,2025-02-12,Resolved,4645.29
+223,8748,Chargeback Fraud,Customer Complaint,2022-11-10,Resolved,11565.35
+224,559,Phishing,Customer Complaint,2023-12-03,Closed,16698.29
+225,560,Account Takeover,Manual Review,2023-10-13,Resolved,14096.05
+226,562,Smishing,AI Alert,2024-04-27,Resolved,3578.79
+227,8757,Smishing,AI Alert,2024-04-11,Closed,3306.95
+228,8760,Smishing,Manual Review,2019-01-02,Closed,3230.76
+229,569,Vishing,AI Alert,2022-05-04,Resolved,15775.7
+230,8767,Account Takeover,AI Alert,2023-11-04,Resolved,6054.09
+231,8769,Smishing,AI Alert,2019-10-13,Resolved,2789.37
+232,579,Chargeback Fraud,Manual Review,2025-02-03,Investigating,7780.21
+233,583,Smishing,Manual Review,2025-03-27,Closed,60.62
+234,8780,Phishing,AI Alert,2023-02-23,Investigating,5402.38
+235,8784,Account Takeover,Customer Complaint,2024-04-13,Resolved,3323.4
+236,594,Account Takeover,AI Alert,2020-05-25,Closed,16355.1
+237,595,Chargeback Fraud,AI Alert,2019-04-18,Investigating,12084.5
+238,8786,Chargeback Fraud,Customer Complaint,2020-09-25,Closed,11104.38
+239,8789,Smishing,Customer Complaint,2022-05-17,Investigating,550.5
+240,8792,Vishing,Manual Review,2023-12-15,Closed,20530.17
+241,601,Account Takeover,AI Alert,2023-10-21,Resolved,12858.32
+242,8793,Card Cloning,AI Alert,2023-10-14,Investigating,6283.81
+243,605,Account Takeover,Customer Complaint,2021-11-17,Resolved,1479.1
+244,8798,Smishing,AI Alert,2025-10-21,Closed,4725.41
+245,8799,Phishing,Manual Review,2021-07-24,Resolved,7043.4
+246,609,Phishing,Customer Complaint,2024-12-12,Resolved,2215.34
+247,610,Chargeback Fraud,Customer Complaint,2021-08-09,Investigating,35464.2
+248,8805,Smishing,AI Alert,2019-10-19,Closed,6476.68
+249,8808,Chargeback Fraud,AI Alert,2025-03-07,Resolved,587.58
+250,8810,Vishing,Manual Review,2019-05-20,Closed,8807.87
+251,12146,Account Takeover,Customer Complaint,2025-10-02,Resolved,10408.03
+252,620,Smishing,Manual Review,2025-08-27,Closed,6394.33
+253,621,Card Cloning,Customer Complaint,2021-03-22,Resolved,13704.27
+254,622,Account Takeover,Manual Review,2024-08-27,Resolved,3801.5
+255,8814,Identity Theft,Manual Review,2022-12-31,Closed,9846.39
+256,8816,Account Takeover,Customer Complaint,2023-07-12,Closed,2309.5
+257,625,Account Takeover,Customer Complaint,2021-09-08,Investigating,2328.93
+258,623,Chargeback Fraud,AI Alert,2024-07-19,Investigating,3177.68
+259,627,Smishing,Manual Review,2021-03-08,Closed,15343.29
+260,8812,Phishing,Customer Complaint,2025-07-30,Closed,8849.87
+261,8822,Phishing,AI Alert,2020-11-25,Resolved,6577.3
+262,8823,Chargeback Fraud,Manual Review,2022-01-27,Investigating,11781.31
+263,8824,Card Cloning,AI Alert,2021-11-05,Resolved,8312.26
+264,8827,Vishing,AI Alert,2024-04-17,Investigating,14058.18
+265,638,Vishing,Manual Review,2024-12-27,Investigating,16899.99
+266,8831,Chargeback Fraud,Customer Complaint,2025-03-27,Closed,2409.82
+267,641,Vishing,Customer Complaint,2025-10-27,Resolved,27003.65
+268,642,Account Takeover,Manual Review,2024-02-12,Closed,4798.07
+269,643,Account Takeover,Manual Review,2024-02-11,Investigating,28646.39
+270,8839,Chargeback Fraud,Customer Complaint,2024-07-14,Investigating,9576.48
+271,656,Card Cloning,AI Alert,2022-05-10,Investigating,5214.59
+272,662,Account Takeover,Manual Review,2025-08-20,Investigating,171.71
+273,8855,Vishing,Manual Review,2019-04-20,Resolved,18587.02
+274,8857,Phishing,Manual Review,2021-03-15,Investigating,4308.28
+275,670,Chargeback Fraud,Manual Review,2025-06-07,Closed,16152.52
+276,8868,Account Takeover,Customer Complaint,2023-05-07,Investigating,38307.1
+277,677,Vishing,Customer Complaint,2024-07-30,Investigating,1105.0
+278,681,Account Takeover,AI Alert,2021-05-02,Closed,5713.6
+279,8876,Phishing,Manual Review,2021-12-15,Investigating,10927.09
+280,684,Account Takeover,Manual Review,2025-06-22,Closed,20679.8
+281,687,Vishing,Customer Complaint,2021-11-11,Closed,12119.84
+282,8880,Identity Theft,Customer Complaint,2022-11-21,Closed,2089.96
+283,8882,Account Takeover,AI Alert,2019-12-24,Closed,12952.69
+284,8892,Identity Theft,AI Alert,2021-08-05,Closed,3271.05
+285,700,Card Cloning,Customer Complaint,2024-08-01,Investigating,5692.53
+286,8894,Smishing,Customer Complaint,2021-02-02,Resolved,2721.64
+287,8896,Chargeback Fraud,Manual Review,2023-04-29,Closed,21512.65
+288,710,Vishing,Manual Review,2024-02-20,Resolved,1447.33
+289,712,Chargeback Fraud,Manual Review,2024-05-19,Closed,3180.76
+290,8907,Smishing,Manual Review,2021-10-21,Closed,9331.23
+291,718,Smishing,Customer Complaint,2024-07-05,Resolved,6417.93
+292,719,Account Takeover,AI Alert,2020-11-04,Resolved,2935.55
+293,8914,Smishing,Customer Complaint,2022-10-11,Closed,13390.61
+294,723,Account Takeover,Customer Complaint,2021-06-03,Closed,13066.59
+295,722,Identity Theft,Customer Complaint,2019-03-31,Investigating,8735.38
+296,8918,Identity Theft,AI Alert,2019-11-10,Investigating,11274.85
+297,728,Vishing,AI Alert,2021-08-05,Resolved,112.33
+298,729,Account Takeover,Manual Review,2022-11-21,Closed,13415.06
+299,8922,Card Cloning,Customer Complaint,2022-02-02,Closed,15290.65
+300,732,Phishing,Manual Review,2019-11-03,Closed,19733.06
+301,8925,Phishing,Manual Review,2025-02-15,Investigating,11235.27
+302,8929,Card Cloning,Customer Complaint,2025-07-15,Investigating,552.01
+303,738,Account Takeover,AI Alert,2021-08-12,Closed,2296.04
+304,8935,Card Cloning,Manual Review,2023-08-02,Investigating,24850.55
+305,744,Chargeback Fraud,AI Alert,2024-07-06,Closed,12252.99
+306,746,Chargeback Fraud,Customer Complaint,2025-07-22,Investigating,287.7
+307,747,Identity Theft,Customer Complaint,2020-02-16,Closed,5068.16
+308,749,Phishing,AI Alert,2021-03-19,Investigating,1937.99
+309,8941,Card Cloning,AI Alert,2024-07-26,Closed,5310.68
+310,8943,Chargeback Fraud,Manual Review,2024-12-06,Resolved,1733.29
+311,8944,Account Takeover,Customer Complaint,2019-10-27,Resolved,34870.17
+312,8946,Card Cloning,Customer Complaint,2024-06-15,Closed,11757.0
+313,757,Chargeback Fraud,AI Alert,2020-04-01,Investigating,2376.05
+314,761,Chargeback Fraud,AI Alert,2021-07-20,Investigating,6895.43
+315,8955,Account Takeover,Customer Complaint,2024-03-04,Closed,25431.19
+316,8959,Card Cloning,Manual Review,2025-04-26,Investigating,4044.43
+317,8962,Smishing,AI Alert,2023-07-13,Closed,3793.0
+318,8964,Card Cloning,AI Alert,2022-09-27,Closed,2653.75
+319,774,Card Cloning,Manual Review,2021-04-10,Resolved,5827.85
+320,8969,Smishing,AI Alert,2021-07-28,Closed,70.26
+321,781,Smishing,Customer Complaint,2025-09-05,Closed,9715.98
+322,8973,Account Takeover,Customer Complaint,2024-09-13,Closed,4100.97
+323,783,Card Cloning,Customer Complaint,2025-03-05,Closed,3498.3
+324,786,Vishing,Customer Complaint,2024-05-27,Resolved,2798.41
+325,8981,Vishing,AI Alert,2025-10-04,Investigating,10551.51
+326,793,Vishing,Customer Complaint,2022-06-25,Closed,7547.87
+327,8988,Phishing,Manual Review,2024-08-30,Resolved,12405.88
+328,8994,Chargeback Fraud,Manual Review,2020-08-02,Investigating,3314.18
+329,802,Card Cloning,Manual Review,2024-01-04,Resolved,211.62
+330,804,Phishing,Manual Review,2022-12-29,Investigating,10028.32
+331,807,Identity Theft,AI Alert,2022-09-13,Investigating,2126.12
+332,9004,Card Cloning,Manual Review,2025-05-06,Investigating,12414.78
+333,818,Chargeback Fraud,Manual Review,2023-08-19,Resolved,16287.08
+334,819,Smishing,AI Alert,2024-08-06,Resolved,11772.75
+335,9013,Vishing,Manual Review,2022-01-07,Investigating,7155.29
+336,822,Chargeback Fraud,Customer Complaint,2024-10-28,Resolved,10556.1
+337,832,Smishing,Manual Review,2019-06-02,Resolved,18427.08
+338,9033,Card Cloning,Manual Review,2023-10-08,Closed,3889.49
+339,844,Smishing,AI Alert,2019-11-26,Closed,10994.53
+340,9037,Smishing,Manual Review,2020-12-07,Resolved,17418.38
+341,846,Smishing,AI Alert,2024-07-15,Closed,25893.13
+342,851,Account Takeover,Manual Review,2023-03-14,Closed,16786.97
+343,9045,Card Cloning,Customer Complaint,2023-02-21,Resolved,5007.37
+344,854,Account Takeover,AI Alert,2020-10-21,Investigating,19907.64
+345,855,Vishing,Manual Review,2020-06-25,Closed,11735.29
+346,856,Identity Theft,Manual Review,2024-08-09,Closed,405.96
+347,857,Phishing,Manual Review,2024-12-30,Resolved,30550.51
+348,858,Smishing,Manual Review,2020-01-26,Closed,3810.32
+349,9051,Account Takeover,Manual Review,2020-02-13,Investigating,2117.17
+350,862,Chargeback Fraud,Customer Complaint,2024-06-29,Resolved,9491.31
+351,867,Phishing,Manual Review,2024-05-02,Closed,5332.7
+352,9059,Identity Theft,Customer Complaint,2020-10-15,Resolved,22770.19
+353,878,Identity Theft,AI Alert,2023-10-14,Closed,21849.51
+354,9073,Smishing,AI Alert,2025-07-18,Closed,11119.69
+355,881,Account Takeover,Customer Complaint,2021-12-27,Investigating,7978.34
+356,883,Chargeback Fraud,Customer Complaint,2025-07-13,Resolved,3063.89
+357,9074,Card Cloning,Customer Complaint,2021-05-21,Resolved,22007.29
+358,884,Chargeback Fraud,AI Alert,2024-02-13,Investigating,13521.39
+359,9084,Vishing,AI Alert,2022-05-10,Closed,2418.58
+360,892,Identity Theft,Customer Complaint,2025-03-30,Investigating,14490.63
+361,9087,Chargeback Fraud,Manual Review,2025-10-10,Closed,2247.05
+362,895,Vishing,Manual Review,2020-05-27,Investigating,17340.63
+363,9089,Vishing,Customer Complaint,2019-03-15,Investigating,15563.62
+364,9094,Phishing,Customer Complaint,2023-03-01,Resolved,17295.87
+365,9100,Identity Theft,Manual Review,2023-08-03,Investigating,8457.6
+366,9104,Phishing,AI Alert,2020-07-01,Closed,1202.58
+367,913,Phishing,Customer Complaint,2019-12-27,Investigating,7822.4
+368,917,Smishing,Manual Review,2024-07-19,Resolved,2572.02
+369,9112,Chargeback Fraud,Customer Complaint,2019-10-25,Investigating,11334.38
+370,9113,Phishing,AI Alert,2024-08-10,Investigating,14921.77
+371,9114,Identity Theft,Customer Complaint,2021-10-27,Investigating,7809.16
+372,927,Card Cloning,Manual Review,2019-01-21,Investigating,7709.93
+373,9120,Card Cloning,AI Alert,2024-07-19,Investigating,26676.25
+374,930,Smishing,Manual Review,2024-02-11,Closed,5643.1
+375,9122,Smishing,Manual Review,2020-10-07,Closed,8068.92
+376,9124,Smishing,Manual Review,2019-03-31,Investigating,9193.43
+377,933,Account Takeover,Customer Complaint,2023-07-16,Closed,35102.36
+378,12066,Phishing,AI Alert,2024-10-21,Investigating,37043.26
+379,938,Phishing,Customer Complaint,2021-02-27,Resolved,6749.68
+380,939,Smishing,Customer Complaint,2024-11-10,Investigating,6315.24
+381,9131,Chargeback Fraud,Customer Complaint,2023-04-26,Resolved,11483.21
+382,9133,Chargeback Fraud,Manual Review,2020-05-09,Closed,8040.61
+383,9136,Account Takeover,Customer Complaint,2019-04-16,Resolved,14437.78
+384,9139,Account Takeover,Customer Complaint,2019-06-22,Investigating,5638.31
+385,12218,Card Cloning,Customer Complaint,2021-10-15,Closed,9441.37
+386,9148,Card Cloning,Customer Complaint,2020-12-09,Investigating,6481.98
+387,957,Phishing,Manual Review,2020-01-27,Resolved,6962.25
+388,958,Phishing,Manual Review,2020-02-08,Closed,7868.49
+389,9150,Card Cloning,Customer Complaint,2019-10-23,Resolved,6425.42
+390,962,Identity Theft,AI Alert,2021-12-28,Closed,1621.82
+391,9154,Chargeback Fraud,AI Alert,2024-02-20,Resolved,6596.61
+392,967,Identity Theft,AI Alert,2024-10-19,Closed,11567.75
+393,9160,Identity Theft,Customer Complaint,2022-11-13,Closed,2732.78
+394,968,Phishing,Customer Complaint,2022-01-14,Closed,6215.65
+395,972,Smishing,Manual Review,2021-08-31,Closed,9135.49
+396,9165,Smishing,Manual Review,2021-09-21,Resolved,11269.97
+397,974,Chargeback Fraud,Customer Complaint,2023-10-08,Investigating,1163.42
+398,978,Chargeback Fraud,Customer Complaint,2022-05-04,Resolved,5359.28
+399,12178,Phishing,Manual Review,2020-10-04,Investigating,9243.65
+400,9175,Smishing,AI Alert,2022-11-01,Investigating,10047.16
+401,9176,Card Cloning,Manual Review,2025-02-27,Investigating,12166.03
+402,9177,Identity Theft,Manual Review,2020-01-13,Closed,5854.64
+403,9179,Phishing,AI Alert,2022-06-20,Closed,5008.11
+404,992,Identity Theft,AI Alert,2019-07-06,Closed,2888.44
+405,9187,Vishing,AI Alert,2022-10-22,Resolved,16868.53
+406,9189,Card Cloning,Manual Review,2025-06-07,Investigating,8722.81
+407,997,Vishing,Manual Review,2020-03-12,Resolved,5408.19
+408,999,Vishing,AI Alert,2022-01-31,Resolved,36311.92
+409,1002,Vishing,AI Alert,2024-10-18,Closed,4656.38
+410,1004,Vishing,AI Alert,2022-04-28,Resolved,2899.6
+411,9198,Card Cloning,AI Alert,2019-02-18,Investigating,6381.53
+412,1006,Phishing,Manual Review,2021-04-06,Closed,4184.92
+413,1008,Smishing,AI Alert,2022-12-04,Investigating,9769.95
+414,9201,Vishing,AI Alert,2022-09-11,Resolved,6886.28
+415,9202,Chargeback Fraud,Manual Review,2023-07-16,Resolved,617.08
+416,9200,Smishing,AI Alert,2023-02-06,Closed,9544.18
+417,1013,Phishing,AI Alert,2020-10-29,Closed,13587.57
+418,1014,Phishing,Customer Complaint,2021-02-07,Closed,2238.11
+419,9208,Vishing,Customer Complaint,2019-06-24,Investigating,2675.98
+420,9209,Card Cloning,AI Alert,2024-11-15,Resolved,15130.64
+421,1018,Phishing,AI Alert,2024-09-24,Closed,489.06
+422,1019,Card Cloning,Customer Complaint,2023-12-03,Investigating,11194.77
+423,1020,Identity Theft,AI Alert,2019-02-19,Closed,7582.04
+424,9214,Card Cloning,Manual Review,2020-12-03,Resolved,3266.84
+425,1022,Vishing,Customer Complaint,2025-10-13,Investigating,8835.68
+426,1027,Card Cloning,Manual Review,2024-11-06,Resolved,2393.28
+427,1034,Phishing,AI Alert,2021-04-28,Resolved,29742.33
+428,1037,Chargeback Fraud,Customer Complaint,2022-05-02,Investigating,6045.86
+429,1038,Phishing,Customer Complaint,2021-08-10,Resolved,2874.78
+430,1039,Smishing,Manual Review,2022-02-02,Closed,4141.15
+431,1048,Identity Theft,AI Alert,2024-12-25,Investigating,1907.6
+432,9240,Card Cloning,Manual Review,2025-02-01,Investigating,9200.75
+433,1049,Phishing,Customer Complaint,2025-07-16,Investigating,11515.04
+434,1052,Phishing,Manual Review,2019-04-28,Investigating,1808.99
+435,9245,Card Cloning,Customer Complaint,2024-09-09,Investigating,17222.87
+436,1055,Smishing,Customer Complaint,2021-01-31,Investigating,16407.82
+437,1059,Phishing,AI Alert,2023-06-01,Resolved,25019.64
+438,9253,Smishing,Manual Review,2019-05-01,Resolved,12852.38
+439,1066,Phishing,Manual Review,2021-12-16,Resolved,11756.9
+440,9260,Account Takeover,Manual Review,2019-11-13,Resolved,9407.16
+441,1069,Identity Theft,Manual Review,2021-11-28,Resolved,16189.0
+442,1074,Chargeback Fraud,Manual Review,2020-11-07,Resolved,1890.44
+443,1079,Identity Theft,Manual Review,2022-12-30,Closed,4814.42
+444,9271,Card Cloning,Customer Complaint,2020-12-08,Closed,3724.75
+445,9284,Smishing,Customer Complaint,2025-07-02,Resolved,7529.6
+446,1093,Smishing,Customer Complaint,2023-07-09,Closed,10193.79
+447,9286,Identity Theft,Customer Complaint,2024-07-08,Resolved,1936.02
+448,9295,Smishing,Customer Complaint,2025-08-08,Investigating,112.87
+449,1110,Chargeback Fraud,AI Alert,2024-12-31,Closed,4627.53
+450,12066,Vishing,Customer Complaint,2023-10-28,Resolved,7480.03
+451,9304,Card Cloning,AI Alert,2023-10-26,Investigating,7597.9
+452,1114,Card Cloning,Customer Complaint,2020-08-04,Investigating,14171.45
+453,1122,Chargeback Fraud,Customer Complaint,2019-05-16,Investigating,8465.49
+454,1123,Card Cloning,Manual Review,2023-07-20,Investigating,4348.27
+455,9319,Phishing,Manual Review,2025-06-22,Closed,6649.9
+456,1128,Identity Theft,Manual Review,2025-09-25,Investigating,6128.92
+457,9322,Phishing,Manual Review,2023-04-28,Investigating,16800.8
+458,1131,Phishing,Customer Complaint,2021-05-24,Closed,3501.31
+459,1135,Account Takeover,AI Alert,2023-02-20,Closed,4417.07
+460,1143,Chargeback Fraud,AI Alert,2024-06-03,Investigating,6937.03
+461,1144,Phishing,AI Alert,2023-12-23,Closed,2257.34
+462,1147,Chargeback Fraud,Customer Complaint,2022-07-07,Investigating,32938.68
+463,9340,Chargeback Fraud,AI Alert,2023-11-17,Closed,8539.98
+464,9341,Identity Theft,AI Alert,2019-07-09,Resolved,14078.8
+465,9343,Vishing,Customer Complaint,2019-03-22,Resolved,6352.78
+466,1154,Card Cloning,Customer Complaint,2019-04-02,Investigating,4584.58
+467,9349,Vishing,Manual Review,2021-05-02,Closed,8114.17
+468,1160,Identity Theft,AI Alert,2021-03-31,Investigating,2932.75
+469,9353,Card Cloning,Manual Review,2024-08-05,Resolved,9677.01
+470,1163,Account Takeover,Customer Complaint,2023-09-30,Investigating,32441.69
+471,1164,Phishing,Manual Review,2019-08-02,Resolved,1922.51
+472,9356,Chargeback Fraud,Manual Review,2021-11-28,Closed,644.08
+473,1166,Chargeback Fraud,AI Alert,2023-02-03,Investigating,14548.43
+474,9359,Account Takeover,AI Alert,2024-01-15,Investigating,3883.01
+475,9360,Card Cloning,Customer Complaint,2021-08-11,Investigating,4735.27
+476,9357,Chargeback Fraud,Customer Complaint,2022-06-19,Resolved,4443.67
+477,1170,Identity Theft,AI Alert,2019-05-18,Investigating,2305.57
+478,9362,Vishing,Manual Review,2023-05-02,Resolved,1640.4
+479,9361,Identity Theft,Manual Review,2021-11-16,Resolved,10285.15
+480,1174,Card Cloning,Customer Complaint,2021-07-15,Resolved,3802.65
+481,9373,Card Cloning,AI Alert,2025-07-22,Investigating,5518.87
+482,9377,Vishing,Manual Review,2019-12-12,Closed,9731.33
+483,12202,Smishing,AI Alert,2021-09-25,Investigating,9988.44
+484,1186,Vishing,AI Alert,2023-04-12,Closed,2103.59
+485,1189,Smishing,Manual Review,2019-09-14,Resolved,7532.06
+486,1190,Phishing,Customer Complaint,2019-05-09,Resolved,24872.9
+487,9381,Account Takeover,Manual Review,2022-10-11,Closed,2460.64
+488,9383,Smishing,AI Alert,2023-11-16,Closed,473.63
+489,9388,Identity Theft,AI Alert,2024-12-16,Investigating,26252.01
+490,9389,Vishing,Customer Complaint,2019-01-06,Resolved,3742.71
+491,9391,Vishing,Customer Complaint,2019-04-08,Resolved,24014.61
+492,1200,Account Takeover,Manual Review,2023-06-11,Investigating,5617.15
+493,1201,Account Takeover,Manual Review,2023-08-25,Investigating,25336.74
+494,1204,Smishing,Manual Review,2023-08-01,Closed,15642.05
+495,1205,Chargeback Fraud,Customer Complaint,2019-09-04,Closed,30589.05
+496,9398,Card Cloning,Customer Complaint,2023-04-29,Resolved,227.88
+497,1207,Chargeback Fraud,AI Alert,2020-06-04,Resolved,21848.08
+498,9404,Phishing,AI Alert,2025-03-24,Investigating,15492.06
+499,1212,Identity Theft,AI Alert,2023-09-18,Investigating,11321.39
+500,9407,Identity Theft,Customer Complaint,2024-03-11,Investigating,5128.45
+501,1216,Vishing,Manual Review,2021-02-26,Investigating,8445.5
+502,9411,Phishing,Customer Complaint,2023-04-13,Resolved,5027.43
+503,1221,Account Takeover,Customer Complaint,2023-03-01,Closed,6232.31
+504,9414,Smishing,Customer Complaint,2023-06-03,Investigating,6579.06
+505,9416,Phishing,Customer Complaint,2019-11-19,Investigating,4512.14
+506,9418,Chargeback Fraud,AI Alert,2025-08-11,Investigating,5434.55
+507,1227,Card Cloning,Customer Complaint,2020-01-20,Resolved,7823.37
+508,1230,Identity Theft,AI Alert,2024-11-23,Investigating,4663.88
+509,9422,Chargeback Fraud,Customer Complaint,2021-10-07,Resolved,7772.03
+510,9423,Identity Theft,AI Alert,2023-02-20,Investigating,20153.13
+511,1235,Card Cloning,Customer Complaint,2023-06-18,Investigating,3153.69
+512,9430,Vishing,AI Alert,2019-08-18,Investigating,1690.18
+513,1239,Smishing,Customer Complaint,2025-10-12,Closed,13098.95
+514,1240,Account Takeover,AI Alert,2022-01-13,Investigating,1957.62
+515,9433,Identity Theft,AI Alert,2020-11-01,Resolved,2030.65
+516,12110,Card Cloning,Customer Complaint,2021-12-12,Closed,7198.75
+517,1246,Chargeback Fraud,AI Alert,2024-06-27,Investigating,10211.24
+518,9439,Chargeback Fraud,Manual Review,2020-07-29,Closed,1055.1
+519,9451,Chargeback Fraud,Customer Complaint,2023-10-17,Closed,10146.75
+520,9453,Phishing,Manual Review,2019-10-16,Closed,8068.39
+521,1262,Vishing,Manual Review,2023-06-27,Closed,1364.54
+522,1265,Account Takeover,Customer Complaint,2025-04-20,Investigating,720.83
+523,9458,Identity Theft,Customer Complaint,2019-08-30,Resolved,10156.39
+524,9459,Card Cloning,Manual Review,2021-11-09,Resolved,3671.77
+525,1268,Chargeback Fraud,Manual Review,2024-12-21,Investigating,13807.09
+526,1269,Phishing,Customer Complaint,2019-09-04,Resolved,15686.7
+527,1270,Vishing,AI Alert,2025-06-17,Investigating,31595.57
+528,1273,Account Takeover,Manual Review,2024-11-30,Investigating,4534.03
+529,1284,Account Takeover,AI Alert,2024-09-25,Closed,13916.94
+530,9477,Phishing,Customer Complaint,2021-07-26,Resolved,1689.01
+531,1285,Identity Theft,Customer Complaint,2021-07-11,Investigating,25144.28
+532,1287,Identity Theft,AI Alert,2021-02-19,Investigating,1292.24
+533,9481,Identity Theft,Manual Review,2019-12-18,Investigating,14446.74
+534,1290,Card Cloning,Manual Review,2020-09-29,Investigating,21204.52
+535,9483,Phishing,Customer Complaint,2024-01-09,Closed,18478.33
+536,9484,Chargeback Fraud,Customer Complaint,2021-03-23,Resolved,7799.94
+537,9482,Phishing,Manual Review,2023-04-02,Resolved,11969.34
+538,1294,Smishing,Customer Complaint,2020-10-24,Resolved,18871.31
+539,9488,Identity Theft,AI Alert,2020-12-08,Resolved,43307.59
+540,9489,Smishing,Customer Complaint,2021-10-02,Resolved,2004.33
+541,9495,Vishing,Customer Complaint,2021-05-29,Closed,5315.38
+542,1313,Identity Theft,Customer Complaint,2020-10-13,Resolved,3166.71
+543,9508,Card Cloning,Manual Review,2020-07-06,Investigating,4233.67
+544,1317,Smishing,AI Alert,2020-09-16,Closed,9445.69
+545,9512,Account Takeover,Manual Review,2024-05-05,Closed,13857.76
+546,1322,Vishing,Manual Review,2021-05-04,Resolved,35910.56
+547,1324,Phishing,Customer Complaint,2022-04-09,Resolved,10396.78
+548,1326,Account Takeover,Customer Complaint,2024-01-31,Investigating,6477.69
+549,1327,Chargeback Fraud,AI Alert,2024-10-22,Investigating,30424.43
+550,9519,Smishing,Manual Review,2025-02-10,Closed,12340.69
+551,9520,Account Takeover,Manual Review,2023-09-10,Investigating,9791.66
+552,1330,Identity Theft,Customer Complaint,2020-12-08,Resolved,3950.37
+553,9522,Chargeback Fraud,AI Alert,2025-01-11,Resolved,15926.37
+554,9523,Account Takeover,AI Alert,2025-01-28,Closed,5719.49
+555,1331,Vishing,Customer Complaint,2025-04-25,Investigating,3329.99
+556,9521,Account Takeover,Customer Complaint,2019-06-11,Investigating,8947.97
+557,1334,Vishing,Customer Complaint,2019-12-03,Closed,27199.64
+558,1337,Smishing,AI Alert,2020-08-16,Investigating,23081.85
+559,1339,Card Cloning,AI Alert,2019-07-01,Resolved,18401.94
+560,9531,Vishing,Manual Review,2025-06-14,Closed,24634.04
+561,1343,Phishing,Customer Complaint,2020-05-21,Resolved,15248.26
+562,1344,Card Cloning,Manual Review,2022-09-14,Investigating,21176.09
+563,9537,Account Takeover,AI Alert,2020-06-18,Resolved,10162.11
+564,9535,Vishing,AI Alert,2021-03-30,Resolved,19285.35
+565,1347,Identity Theft,Manual Review,2021-11-24,Investigating,7502.36
+566,9539,Vishing,AI Alert,2025-07-17,Closed,6517.46
+567,9545,Account Takeover,AI Alert,2024-07-15,Closed,17419.98
+568,1354,Phishing,Manual Review,2024-10-25,Closed,20372.41
+569,1355,Account Takeover,Customer Complaint,2021-07-04,Resolved,5408.17
+570,1357,Identity Theft,Customer Complaint,2020-01-29,Resolved,10227.18
+571,9550,Account Takeover,Manual Review,2019-09-30,Closed,3278.17
+572,1360,Smishing,Customer Complaint,2022-12-02,Closed,15855.92
+573,1365,Chargeback Fraud,AI Alert,2022-06-14,Closed,873.6
+574,9559,Identity Theft,Customer Complaint,2024-07-09,Investigating,8962.3
+575,1372,Phishing,Customer Complaint,2019-09-23,Investigating,15032.5
+576,9566,Card Cloning,Manual Review,2021-07-07,Closed,6906.68
+577,9567,Identity Theft,Manual Review,2023-01-05,Closed,18639.98
+578,1378,Vishing,Manual Review,2023-11-22,Closed,5115.15
+579,9571,Vishing,AI Alert,2021-11-20,Resolved,21180.07
+580,9572,Phishing,AI Alert,2024-11-13,Resolved,12757.44
+581,9573,Identity Theft,Customer Complaint,2021-04-23,Resolved,15255.8
+582,1383,Account Takeover,AI Alert,2024-09-04,Closed,15026.25
+583,1394,Identity Theft,Manual Review,2020-06-02,Closed,9994.07
+584,9591,Identity Theft,Manual Review,2021-01-05,Resolved,8776.28
+585,1399,Vishing,Manual Review,2019-11-12,Closed,219.15
+586,9596,Account Takeover,Customer Complaint,2020-11-25,Closed,7030.16
+587,1406,Account Takeover,AI Alert,2022-11-24,Closed,311.14
+588,9601,Chargeback Fraud,Manual Review,2021-05-13,Closed,1178.83
+589,9602,Account Takeover,Manual Review,2024-04-08,Closed,27035.53
+590,1411,Smishing,AI Alert,2023-08-13,Closed,10003.96
+591,1412,Account Takeover,AI Alert,2019-11-25,Closed,8691.58
+592,1413,Identity Theft,Manual Review,2019-12-22,Resolved,13049.65
+593,1410,Phishing,AI Alert,2022-08-18,Investigating,12288.68
+594,9610,Chargeback Fraud,Manual Review,2021-06-27,Resolved,16597.08
+595,9611,Account Takeover,AI Alert,2023-04-11,Resolved,28792.41
+596,1420,Phishing,Customer Complaint,2021-04-17,Investigating,4834.92
+597,1422,Smishing,AI Alert,2024-06-18,Resolved,3002.16
+598,9616,Account Takeover,AI Alert,2021-03-04,Investigating,6403.94
+599,9619,Phishing,Manual Review,2025-04-23,Closed,11604.98
+600,1429,Smishing,Manual Review,2025-01-19,Closed,38888.79
+601,9621,Identity Theft,Customer Complaint,2021-09-05,Resolved,18024.9
+602,1433,Account Takeover,Customer Complaint,2020-11-07,Resolved,19464.09
+603,9628,Vishing,Manual Review,2024-03-07,Resolved,26643.32
+604,1440,Identity Theft,Manual Review,2019-05-28,Investigating,20132.78
+605,1441,Phishing,Manual Review,2024-05-03,Resolved,15741.65
+606,9637,Account Takeover,Customer Complaint,2021-05-09,Investigating,10447.06
+607,1449,Identity Theft,Manual Review,2023-08-26,Investigating,20060.63
+608,1451,Smishing,Customer Complaint,2023-04-20,Investigating,9365.37
+609,9645,Vishing,AI Alert,2023-08-07,Resolved,6936.11
+610,1453,Smishing,Manual Review,2023-12-18,Resolved,4365.6
+611,1455,Card Cloning,Customer Complaint,2020-09-25,Investigating,13892.43
+612,1458,Vishing,Customer Complaint,2022-05-20,Resolved,650.89
+613,9651,Identity Theft,Customer Complaint,2022-03-16,Resolved,24446.66
+614,9653,Account Takeover,Manual Review,2023-01-24,Closed,7652.43
+615,1462,Identity Theft,Manual Review,2024-07-09,Closed,19900.69
+616,9655,Chargeback Fraud,AI Alert,2024-02-17,Resolved,7381.37
+617,9661,Identity Theft,Manual Review,2023-03-22,Closed,6489.1
+618,1471,Account Takeover,Customer Complaint,2023-04-25,Investigating,4559.36
+619,1472,Smishing,AI Alert,2025-02-16,Closed,4923.0
+620,1474,Card Cloning,Manual Review,2021-07-10,Investigating,4670.46
+621,9672,Card Cloning,Customer Complaint,2022-11-23,Investigating,1488.0
+622,1480,Identity Theft,Manual Review,2020-04-22,Resolved,4668.96
+623,9673,Chargeback Fraud,Customer Complaint,2019-08-15,Resolved,4930.38
+624,1482,Identity Theft,AI Alert,2020-01-05,Investigating,16435.13
+625,1488,Card Cloning,Manual Review,2021-01-08,Investigating,939.48
+626,1489,Vishing,Manual Review,2024-12-06,Closed,709.03
+627,9682,Chargeback Fraud,Customer Complaint,2024-05-02,Closed,25066.33
+628,9688,Smishing,AI Alert,2020-07-18,Investigating,7650.5
+629,1497,Smishing,AI Alert,2020-12-03,Closed,1749.06
+630,9689,Chargeback Fraud,Manual Review,2021-11-05,Investigating,6467.46
+631,9690,Chargeback Fraud,Manual Review,2024-02-05,Resolved,8017.36
+632,9692,Identity Theft,Customer Complaint,2022-11-01,Resolved,27541.65
+633,1503,Smishing,Customer Complaint,2022-04-07,Closed,11256.92
+634,9697,Identity Theft,AI Alert,2022-04-26,Closed,10454.24
+635,1507,Phishing,Customer Complaint,2025-08-12,Investigating,23026.11
+636,9700,Smishing,Customer Complaint,2022-02-07,Investigating,165.31
+637,9699,Identity Theft,Manual Review,2021-04-28,Investigating,8055.2
+638,1510,Phishing,Manual Review,2019-07-10,Resolved,10343.24
+639,1508,Chargeback Fraud,Customer Complaint,2024-01-20,Closed,8490.92
+640,9704,Phishing,Manual Review,2025-04-15,Resolved,16911.34
+641,9702,Chargeback Fraud,AI Alert,2025-08-24,Resolved,1219.13
+642,1514,Phishing,AI Alert,2023-04-26,Closed,16594.45
+643,9710,Chargeback Fraud,AI Alert,2024-09-30,Investigating,13719.24
+644,1520,Chargeback Fraud,AI Alert,2020-03-28,Closed,13079.91
+645,9713,Identity Theft,Customer Complaint,2022-07-13,Investigating,6293.13
+646,9715,Smishing,Manual Review,2023-07-23,Investigating,544.2
+647,1524,Identity Theft,Manual Review,2023-04-23,Investigating,13497.3
+648,9717,Card Cloning,Manual Review,2021-07-04,Resolved,13305.95
+649,1527,Vishing,Customer Complaint,2021-04-13,Investigating,4389.4
+650,9719,Account Takeover,Manual Review,2024-03-03,Investigating,6016.51
+651,9721,Card Cloning,AI Alert,2021-01-09,Resolved,11419.49
+652,1528,Phishing,AI Alert,2021-01-17,Investigating,25186.19
+653,9723,Phishing,Customer Complaint,2023-12-04,Investigating,954.31
+654,9725,Account Takeover,Customer Complaint,2024-10-07,Closed,4059.56
+655,1540,Account Takeover,Customer Complaint,2023-08-20,Investigating,3159.89
+656,9733,Account Takeover,Manual Review,2021-08-08,Resolved,20607.95
+657,12164,Chargeback Fraud,Customer Complaint,2024-09-13,Investigating,4730.11
+658,1541,Card Cloning,AI Alert,2023-04-03,Resolved,9356.16
+659,9735,Chargeback Fraud,AI Alert,2019-07-28,Closed,15280.74
+660,9738,Phishing,Manual Review,2021-06-20,Investigating,12593.44
+661,1547,Card Cloning,Customer Complaint,2025-06-30,Resolved,5229.19
+662,1548,Chargeback Fraud,Customer Complaint,2023-06-15,Resolved,8965.56
+663,9742,Account Takeover,Manual Review,2024-03-02,Resolved,32414.92
+664,9743,Account Takeover,Customer Complaint,2022-11-17,Investigating,7924.29
+665,9744,Phishing,AI Alert,2022-02-16,Closed,9661.4
+666,1556,Phishing,AI Alert,2021-11-15,Resolved,32129.64
+667,9753,Vishing,Manual Review,2020-09-26,Investigating,4086.06
+668,1571,Smishing,AI Alert,2021-12-06,Closed,12070.49
+669,1576,Phishing,Manual Review,2023-12-05,Resolved,263.46
+670,9769,Phishing,Manual Review,2022-03-30,Investigating,7351.94
+671,1577,Card Cloning,Customer Complaint,2021-08-26,Resolved,3884.71
+672,1584,Smishing,Customer Complaint,2023-01-09,Investigating,10455.98
+673,9776,Chargeback Fraud,Manual Review,2022-10-02,Resolved,6811.78
+674,9783,Card Cloning,AI Alert,2020-04-08,Closed,11510.71
+675,1592,Card Cloning,AI Alert,2022-05-06,Closed,16896.21
+676,1593,Chargeback Fraud,Customer Complaint,2019-01-19,Closed,10579.04
+677,9788,Account Takeover,Manual Review,2024-12-02,Resolved,16480.79
+678,1596,Account Takeover,AI Alert,2024-12-23,Closed,3757.11
+679,9791,Chargeback Fraud,AI Alert,2019-01-22,Closed,3252.29
+680,9793,Vishing,Customer Complaint,2021-04-07,Resolved,15587.47
+681,1602,Account Takeover,Customer Complaint,2021-09-09,Resolved,6428.3
+682,9795,Chargeback Fraud,AI Alert,2021-08-30,Resolved,7223.43
+683,9796,Smishing,Manual Review,2024-06-08,Closed,554.46
+684,1605,Vishing,Manual Review,2021-02-01,Closed,21026.67
+685,1610,Phishing,Customer Complaint,2019-10-31,Investigating,17636.35
+686,1616,Identity Theft,AI Alert,2019-06-14,Closed,1682.7
+687,1617,Smishing,Manual Review,2024-09-13,Closed,6406.98
+688,1619,Account Takeover,Manual Review,2020-08-25,Resolved,461.57
+689,9811,Smishing,Manual Review,2020-04-10,Resolved,4868.41
+690,9813,Chargeback Fraud,AI Alert,2022-06-25,Closed,14511.36
+691,1622,Account Takeover,AI Alert,2023-03-19,Resolved,3365.76
+692,9816,Card Cloning,AI Alert,2021-04-13,Closed,5466.58
+693,1625,Identity Theft,Manual Review,2022-04-16,Resolved,3590.35
+694,1627,Account Takeover,AI Alert,2025-02-24,Resolved,3456.44
+695,9819,Phishing,Customer Complaint,2022-01-10,Closed,11900.28
+696,1632,Smishing,Manual Review,2023-07-31,Investigating,4158.46
+697,12140,Chargeback Fraud,Customer Complaint,2024-06-07,Resolved,5865.95
+698,1636,Card Cloning,Customer Complaint,2025-06-29,Resolved,6181.95
+699,9830,Vishing,Customer Complaint,2022-12-20,Investigating,5838.09
+700,9832,Phishing,AI Alert,2019-01-02,Resolved,15510.5
+701,1642,Vishing,AI Alert,2024-12-01,Resolved,9920.53
+702,1644,Chargeback Fraud,Customer Complaint,2022-01-07,Investigating,5979.32
+703,1648,Card Cloning,Manual Review,2022-05-28,Closed,4164.78
+704,1650,Account Takeover,Manual Review,2020-04-23,Investigating,3347.09
+705,9843,Chargeback Fraud,AI Alert,2025-05-27,Investigating,14870.16
+706,9848,Account Takeover,Customer Complaint,2022-03-11,Closed,7493.19
+707,1656,Phishing,Manual Review,2021-11-11,Closed,4075.67
+708,1658,Card Cloning,Customer Complaint,2024-09-23,Investigating,1490.46
+709,1664,Card Cloning,Manual Review,2022-06-14,Closed,2510.14
+710,1665,Identity Theft,Manual Review,2019-10-28,Investigating,9039.96
+711,1667,Identity Theft,AI Alert,2023-08-01,Investigating,11168.21
+712,1668,Card Cloning,AI Alert,2025-10-25,Resolved,5503.75
+713,9862,Account Takeover,Manual Review,2019-06-27,Investigating,4469.31
+714,1671,Chargeback Fraud,Customer Complaint,2021-08-13,Resolved,3527.47
+715,1670,Vishing,AI Alert,2022-12-27,Resolved,10736.4
+716,9870,Vishing,Customer Complaint,2019-06-21,Closed,16444.55
+717,9871,Card Cloning,Customer Complaint,2024-11-21,Closed,1295.66
+718,9876,Chargeback Fraud,Customer Complaint,2023-01-30,Resolved,10368.68
+719,1686,Chargeback Fraud,Customer Complaint,2021-11-19,Closed,5152.01
+720,9879,Phishing,Manual Review,2020-08-09,Investigating,12964.71
+721,9880,Phishing,AI Alert,2020-03-09,Investigating,8856.29
+722,9887,Vishing,Manual Review,2025-07-13,Closed,16657.26
+723,9889,Chargeback Fraud,Manual Review,2024-02-14,Closed,23777.68
+724,9893,Identity Theft,AI Alert,2022-05-31,Resolved,3841.74
+725,1706,Chargeback Fraud,AI Alert,2020-02-26,Resolved,12677.37
+726,9898,Card Cloning,Customer Complaint,2020-01-15,Resolved,11334.82
+727,1710,Vishing,AI Alert,2021-06-03,Investigating,8207.54
+728,9906,Smishing,AI Alert,2024-01-22,Resolved,3471.76
+729,9910,Chargeback Fraud,Manual Review,2020-10-22,Closed,1055.65
+730,9911,Identity Theft,AI Alert,2019-05-09,Closed,11939.95
+731,12067,Chargeback Fraud,Customer Complaint,2020-10-29,Resolved,4577.15
+732,9914,Card Cloning,AI Alert,2022-03-03,Resolved,14018.68
+733,1726,Chargeback Fraud,Customer Complaint,2025-04-03,Closed,2755.48
+734,1728,Chargeback Fraud,Manual Review,2024-10-20,Investigating,9359.78
+735,1730,Phishing,Customer Complaint,2020-03-27,Closed,9488.22
+736,9925,Account Takeover,Customer Complaint,2019-07-21,Investigating,16040.55
+737,9926,Phishing,Customer Complaint,2021-01-24,Closed,7955.41
+738,9931,Account Takeover,Manual Review,2022-08-18,Investigating,6716.72
+739,1741,Identity Theft,AI Alert,2025-04-29,Closed,10842.62
+740,9935,Chargeback Fraud,Customer Complaint,2019-02-28,Resolved,3517.91
+741,9945,Chargeback Fraud,Customer Complaint,2021-04-24,Investigating,4566.81
+742,1753,Card Cloning,Manual Review,2023-06-04,Closed,1623.99
+743,1756,Vishing,Customer Complaint,2024-01-02,Resolved,3721.88
+744,1757,Card Cloning,AI Alert,2023-05-26,Resolved,14086.3
+745,9950,Identity Theft,Manual Review,2022-05-09,Closed,511.43
+746,9951,Phishing,Manual Review,2019-10-05,Resolved,18679.79
+747,9948,Card Cloning,AI Alert,2024-11-25,Investigating,507.66
+748,1761,Card Cloning,Customer Complaint,2024-02-11,Resolved,2279.53
+749,1764,Smishing,Customer Complaint,2024-06-26,Investigating,9251.17
+750,1766,Phishing,AI Alert,2020-04-03,Closed,19913.43
+751,1768,Card Cloning,AI Alert,2019-01-24,Resolved,10218.87
+752,9962,Chargeback Fraud,Customer Complaint,2023-12-14,Resolved,7989.24
+753,9963,Account Takeover,Manual Review,2021-01-15,Investigating,540.34
+754,1774,Phishing,AI Alert,2020-11-01,Closed,5138.62
+755,1777,Card Cloning,Manual Review,2019-03-01,Resolved,20409.72
+756,9970,Chargeback Fraud,Manual Review,2024-05-19,Resolved,6047.88
+757,1778,Vishing,AI Alert,2025-01-03,Closed,4763.25
+758,9972,Smishing,Customer Complaint,2024-10-13,Closed,7633.88
+759,1789,Vishing,Customer Complaint,2019-04-09,Investigating,583.7
+760,9982,Chargeback Fraud,AI Alert,2023-04-06,Investigating,5178.07
+761,1792,Account Takeover,AI Alert,2022-09-07,Investigating,13728.42
+762,9984,Card Cloning,AI Alert,2022-06-29,Closed,15603.38
+763,9985,Card Cloning,AI Alert,2020-04-02,Resolved,8997.14
+764,1796,Chargeback Fraud,AI Alert,2022-11-19,Resolved,8723.77
+765,1799,Vishing,AI Alert,2020-09-30,Investigating,16945.34
+766,1800,Smishing,Manual Review,2022-12-26,Closed,12147.55
+767,9995,Chargeback Fraud,Manual Review,2025-03-31,Resolved,14367.64
+768,1806,Card Cloning,AI Alert,2024-11-05,Closed,4596.75
+769,10003,Vishing,AI Alert,2020-01-20,Resolved,10145.97
+770,10007,Card Cloning,AI Alert,2020-03-30,Resolved,4195.3
+771,1817,Smishing,Manual Review,2024-02-26,Investigating,2772.13
+772,1820,Account Takeover,Customer Complaint,2022-06-08,Investigating,25539.8
+773,10015,Card Cloning,Manual Review,2023-02-18,Resolved,2606.55
+774,1826,Chargeback Fraud,Customer Complaint,2021-01-20,Resolved,16497.13
+775,1828,Card Cloning,Customer Complaint,2019-08-22,Investigating,9976.97
+776,1833,Identity Theft,Customer Complaint,2022-03-16,Closed,29473.41
+777,1834,Identity Theft,AI Alert,2020-11-29,Resolved,5129.19
+778,1838,Phishing,Manual Review,2019-12-13,Resolved,10503.16
+779,1839,Account Takeover,Customer Complaint,2023-01-24,Resolved,3712.44
+780,10030,Account Takeover,Customer Complaint,2019-05-16,Resolved,6972.5
+781,1844,Smishing,AI Alert,2020-03-28,Resolved,18696.55
+782,10037,Chargeback Fraud,Customer Complaint,2020-01-23,Investigating,8731.45
+783,12122,Card Cloning,AI Alert,2022-08-14,Investigating,2352.57
+784,1845,Vishing,AI Alert,2023-01-04,Resolved,23193.06
+785,1851,Vishing,Manual Review,2025-06-23,Resolved,6773.9
+786,1855,Vishing,Manual Review,2019-11-07,Resolved,11408.02
+787,10050,Account Takeover,AI Alert,2020-06-16,Investigating,4899.67
+788,10051,Account Takeover,Manual Review,2024-03-18,Investigating,20095.39
+789,1859,Account Takeover,Customer Complaint,2019-10-01,Resolved,17256.58
+790,10053,Identity Theft,Customer Complaint,2025-07-01,Closed,5163.59
+791,10054,Identity Theft,Manual Review,2021-02-17,Resolved,2860.62
+792,1863,Card Cloning,Manual Review,2023-10-22,Investigating,17626.6
+793,10056,Phishing,AI Alert,2020-07-06,Investigating,6975.98
+794,10063,Identity Theft,AI Alert,2020-03-21,Resolved,3431.85
+795,1872,Account Takeover,Manual Review,2024-08-27,Closed,16709.09
+796,10070,Smishing,Customer Complaint,2024-03-06,Closed,2416.06
+797,10072,Account Takeover,Manual Review,2024-07-03,Resolved,22625.69
+798,10075,Smishing,Manual Review,2022-01-19,Closed,26756.65
+799,1884,Phishing,Customer Complaint,2020-01-30,Investigating,12103.01
+800,10079,Account Takeover,Customer Complaint,2024-03-24,Investigating,9567.97
+801,10085,Chargeback Fraud,Customer Complaint,2024-10-18,Resolved,20292.72
+802,10087,Identity Theft,Customer Complaint,2021-06-10,Investigating,3317.17
+803,10092,Identity Theft,Customer Complaint,2019-01-02,Resolved,2311.38
+804,1904,Phishing,Customer Complaint,2024-05-07,Closed,9034.7
+805,1905,Account Takeover,Manual Review,2020-01-20,Investigating,7669.48
+806,10100,Vishing,AI Alert,2024-07-12,Resolved,7677.46
+807,1913,Smishing,Manual Review,2021-05-26,Resolved,16824.07
+808,1915,Smishing,AI Alert,2019-02-24,Closed,20919.13
+809,12097,Chargeback Fraud,Customer Complaint,2021-05-16,Resolved,15502.88
+810,1919,Card Cloning,AI Alert,2024-04-04,Investigating,3839.16
+811,1921,Vishing,Manual Review,2020-02-11,Investigating,9419.99
+812,1925,Chargeback Fraud,Manual Review,2020-06-09,Investigating,11909.87
+813,1926,Chargeback Fraud,AI Alert,2022-08-04,Resolved,12159.81
+814,10119,Smishing,Customer Complaint,2023-05-08,Closed,20571.65
+815,1932,Vishing,Manual Review,2020-12-29,Investigating,1639.0
+816,10125,Account Takeover,Customer Complaint,2024-11-07,Resolved,14302.69
+817,1936,Account Takeover,Customer Complaint,2022-06-15,Closed,2965.01
+818,10129,Phishing,Manual Review,2022-10-22,Investigating,5050.7
+819,1940,Card Cloning,Manual Review,2020-08-10,Closed,11969.92
+820,10134,Phishing,Manual Review,2021-09-04,Resolved,1667.91
+821,1943,Vishing,AI Alert,2022-02-28,Closed,21422.54
+822,10138,Account Takeover,AI Alert,2024-12-22,Closed,12991.66
+823,1947,Vishing,AI Alert,2021-01-07,Closed,2867.6
+824,1949,Identity Theft,Customer Complaint,2025-10-05,Closed,15853.5
+825,1951,Identity Theft,Customer Complaint,2023-05-18,Investigating,8612.13
+826,1952,Smishing,AI Alert,2024-08-25,Resolved,10917.88
+827,1953,Chargeback Fraud,Manual Review,2022-02-06,Closed,25349.76
+828,1954,Smishing,AI Alert,2025-05-05,Closed,13822.71
+829,10148,Chargeback Fraud,Manual Review,2020-04-15,Resolved,8669.92
+830,1956,Chargeback Fraud,AI Alert,2021-05-21,Closed,11067.88
+831,10149,Card Cloning,Customer Complaint,2022-07-30,Investigating,11498.46
+832,10156,Smishing,AI Alert,2022-12-15,Resolved,3582.07
+833,10159,Identity Theft,Customer Complaint,2023-06-17,Investigating,12743.95
+834,10160,Smishing,AI Alert,2019-09-14,Closed,4022.67
+835,1970,Smishing,Customer Complaint,2023-02-22,Resolved,14364.14
+836,1971,Phishing,Customer Complaint,2025-02-25,Closed,1294.65
+837,1978,Account Takeover,Customer Complaint,2019-05-23,Resolved,5383.14
+838,1982,Account Takeover,AI Alert,2024-03-08,Resolved,14089.18
+839,10174,Smishing,AI Alert,2023-12-03,Resolved,1616.05
+840,10177,Account Takeover,Customer Complaint,2025-02-03,Resolved,16496.91
+841,10179,Card Cloning,Customer Complaint,2021-02-05,Closed,13061.58
+842,1988,Phishing,AI Alert,2022-04-10,Investigating,9635.36
+843,1989,Vishing,AI Alert,2024-01-08,Closed,7558.56
+844,1993,Chargeback Fraud,Customer Complaint,2023-05-05,Closed,19493.18
+845,10196,Smishing,AI Alert,2020-08-15,Resolved,7892.74
+846,10197,Chargeback Fraud,Customer Complaint,2024-05-26,Resolved,14880.24
+847,2007,Identity Theft,Customer Complaint,2019-04-24,Resolved,8569.05
+848,10202,Identity Theft,Customer Complaint,2022-06-26,Resolved,148.24
+849,10204,Phishing,Manual Review,2024-05-05,Resolved,8832.8
+850,10205,Chargeback Fraud,Manual Review,2021-02-10,Investigating,4368.89
+851,2015,Phishing,Manual Review,2023-05-01,Resolved,3326.44
+852,10213,Card Cloning,Customer Complaint,2023-02-07,Investigating,10759.14
+853,10214,Vishing,Manual Review,2020-03-29,Closed,9359.39
+854,2021,Chargeback Fraud,AI Alert,2019-03-08,Resolved,10668.87
+855,10220,Chargeback Fraud,Customer Complaint,2022-08-26,Closed,3664.68
+856,10223,Identity Theft,Customer Complaint,2022-08-26,Investigating,11106.66
+857,2032,Account Takeover,Manual Review,2025-06-22,Investigating,3933.23
+858,10225,Chargeback Fraud,Manual Review,2023-06-20,Closed,6686.56
+859,2034,Smishing,AI Alert,2021-01-04,Closed,8825.12
+860,10228,Chargeback Fraud,AI Alert,2022-09-04,Closed,7464.64
+861,10230,Identity Theft,Manual Review,2025-10-07,Closed,6368.53
+862,2039,Vishing,Customer Complaint,2023-08-10,Closed,24507.43
+863,2041,Phishing,Customer Complaint,2020-09-16,Closed,21581.44
+864,2042,Account Takeover,Customer Complaint,2023-08-18,Closed,25831.98
+865,2043,Card Cloning,AI Alert,2023-03-11,Closed,11976.11
+866,2046,Chargeback Fraud,Customer Complaint,2024-12-19,Closed,1638.45
+867,10242,Smishing,Customer Complaint,2019-03-12,Closed,14342.97
+868,10247,Phishing,Customer Complaint,2024-06-10,Closed,10379.59
+869,10252,Identity Theft,Customer Complaint,2024-06-19,Investigating,27805.37
+870,2063,Vishing,AI Alert,2019-11-30,Investigating,2492.09
+871,2064,Smishing,Manual Review,2019-02-14,Resolved,7671.15
+872,2066,Chargeback Fraud,Manual Review,2022-04-28,Resolved,21886.74
+873,10262,Identity Theft,Customer Complaint,2019-07-24,Resolved,5952.72
+874,10265,Chargeback Fraud,Manual Review,2020-09-06,Closed,9428.76
+875,10266,Account Takeover,Manual Review,2020-05-31,Investigating,9545.94
+876,2077,Smishing,AI Alert,2019-03-19,Closed,16401.55
+877,10272,Smishing,Customer Complaint,2022-04-27,Closed,11114.03
+878,10274,Vishing,Customer Complaint,2021-01-03,Resolved,36972.64
+879,2082,Card Cloning,Manual Review,2020-01-24,Investigating,10653.09
+880,2090,Vishing,Manual Review,2020-03-13,Resolved,4800.64
+881,2101,Smishing,AI Alert,2019-04-28,Closed,3824.75
+882,10303,Card Cloning,Customer Complaint,2020-09-26,Closed,18596.01
+883,2114,Chargeback Fraud,AI Alert,2024-03-02,Resolved,1605.27
+884,2117,Chargeback Fraud,Customer Complaint,2023-05-09,Closed,13429.84
+885,10317,Chargeback Fraud,Customer Complaint,2025-06-21,Closed,10512.84
+886,2126,Identity Theft,Manual Review,2019-10-13,Resolved,13285.17
+887,10319,Chargeback Fraud,AI Alert,2020-11-12,Closed,8364.75
+888,2130,Account Takeover,AI Alert,2025-11-01,Closed,12925.07
+889,10328,Phishing,Customer Complaint,2024-04-30,Resolved,9365.1
+890,10333,Card Cloning,Manual Review,2023-12-31,Closed,12401.86
+891,2142,Card Cloning,AI Alert,2020-12-15,Investigating,11155.11
+892,2144,Identity Theft,Customer Complaint,2020-12-27,Resolved,14289.17
+893,10340,Smishing,Manual Review,2024-02-29,Resolved,13127.28
+894,10348,Phishing,Manual Review,2019-01-21,Resolved,6363.06
+895,2157,Vishing,Manual Review,2020-12-05,Closed,7468.72
+896,2160,Card Cloning,AI Alert,2023-05-12,Closed,1895.06
+897,10354,Vishing,Manual Review,2019-06-28,Closed,5781.61
+898,2163,Identity Theft,AI Alert,2024-02-15,Closed,16879.09
+899,10358,Card Cloning,AI Alert,2020-05-09,Closed,11607.11
+900,2169,Smishing,AI Alert,2024-06-03,Closed,24632.25
+901,2170,Phishing,AI Alert,2020-12-02,Investigating,16528.06
+902,10367,Account Takeover,Customer Complaint,2024-03-04,Closed,2086.12
+903,2176,Phishing,AI Alert,2024-06-02,Closed,15047.06
+904,10368,Account Takeover,Customer Complaint,2021-08-19,Investigating,16938.09
+905,2182,Phishing,Manual Review,2023-02-09,Investigating,8357.15
+906,2183,Smishing,AI Alert,2019-10-06,Resolved,8829.88
+907,2184,Identity Theft,Manual Review,2025-08-24,Resolved,9951.17
+908,10375,Identity Theft,Manual Review,2024-10-27,Investigating,10560.97
+909,10376,Vishing,AI Alert,2023-12-17,Closed,8627.85
+910,2188,Identity Theft,Customer Complaint,2023-11-15,Investigating,7475.89
+911,10383,Smishing,AI Alert,2019-05-23,Resolved,8609.59
+912,2191,Card Cloning,AI Alert,2022-08-19,Investigating,20826.07
+913,2193,Card Cloning,Customer Complaint,2022-09-08,Resolved,10337.83
+914,10386,Account Takeover,Manual Review,2022-11-19,Closed,13278.87
+915,2195,Smishing,AI Alert,2020-12-24,Resolved,10558.83
+916,2197,Phishing,AI Alert,2019-06-24,Investigating,19997.99
+917,2198,Account Takeover,Manual Review,2025-03-26,Closed,258.52
+918,10394,Phishing,AI Alert,2021-08-23,Resolved,14687.77
+919,10395,Identity Theft,AI Alert,2019-07-25,Investigating,9418.09
+920,10397,Phishing,Customer Complaint,2024-11-19,Resolved,11244.19
+921,2206,Chargeback Fraud,Manual Review,2023-12-02,Closed,3931.81
+922,10398,Phishing,AI Alert,2022-01-30,Investigating,29929.86
+923,10403,Smishing,Customer Complaint,2023-08-07,Closed,16800.4
+924,10404,Phishing,Customer Complaint,2022-01-16,Resolved,24150.46
+925,10411,Chargeback Fraud,Customer Complaint,2025-06-20,Resolved,1282.96
+926,2220,Chargeback Fraud,AI Alert,2019-07-13,Investigating,36667.34
+927,10414,Chargeback Fraud,AI Alert,2024-11-21,Closed,8597.76
+928,2224,Identity Theft,Customer Complaint,2025-10-08,Closed,6686.21
+929,2228,Smishing,Customer Complaint,2020-06-02,Investigating,8275.75
+930,2234,Vishing,Customer Complaint,2024-01-18,Closed,5244.05
+931,2236,Account Takeover,Customer Complaint,2022-08-27,Investigating,4592.73
+932,2237,Account Takeover,Customer Complaint,2021-02-19,Closed,12921.8
+933,2239,Phishing,Customer Complaint,2022-01-18,Resolved,11560.72
+934,2242,Vishing,AI Alert,2019-11-06,Resolved,21132.39
+935,10437,Account Takeover,Manual Review,2022-03-26,Investigating,4573.18
+936,10438,Chargeback Fraud,Customer Complaint,2019-06-04,Investigating,26604.72
+937,2247,Phishing,AI Alert,2024-12-09,Resolved,3044.63
+938,2249,Chargeback Fraud,Customer Complaint,2019-10-16,Resolved,13993.04
+939,10441,Account Takeover,Manual Review,2024-05-08,Investigating,4976.12
+940,10446,Account Takeover,AI Alert,2025-06-09,Investigating,22370.88
+941,10448,Smishing,Customer Complaint,2022-10-22,Resolved,5565.22
+942,10449,Smishing,AI Alert,2025-04-11,Investigating,14216.31
+943,2262,Smishing,AI Alert,2021-09-11,Investigating,6749.14
+944,12220,Vishing,AI Alert,2022-06-23,Closed,2357.87
+945,2269,Chargeback Fraud,Manual Review,2024-06-23,Investigating,5732.53
+946,10468,Vishing,Customer Complaint,2019-12-10,Investigating,12585.68
+947,10470,Card Cloning,Manual Review,2024-04-09,Resolved,13625.51
+948,10477,Account Takeover,Manual Review,2022-10-16,Investigating,7984.37
+949,10478,Vishing,AI Alert,2020-08-24,Investigating,34518.28
+950,2285,Chargeback Fraud,Manual Review,2020-12-17,Resolved,18267.19
+951,2289,Identity Theft,Customer Complaint,2024-02-10,Resolved,20518.42
+952,2293,Identity Theft,AI Alert,2022-12-07,Closed,2707.55
+953,10487,Vishing,AI Alert,2020-10-30,Resolved,1926.21
+954,2300,Phishing,Customer Complaint,2024-04-27,Investigating,3226.32
+955,10492,Phishing,Customer Complaint,2022-12-08,Investigating,11765.6
+956,2302,Identity Theft,AI Alert,2024-02-19,Resolved,24925.82
+957,10493,Vishing,Manual Review,2023-10-30,Investigating,1597.31
+958,2307,Phishing,AI Alert,2023-09-10,Investigating,19356.71
+959,10503,Account Takeover,Manual Review,2019-09-08,Investigating,16847.67
+960,2311,Phishing,Manual Review,2024-08-21,Resolved,19229.34
+961,10504,Phishing,Manual Review,2025-08-11,Investigating,17938.41
+962,10506,Smishing,Customer Complaint,2019-01-14,Closed,2356.9
+963,2318,Smishing,Manual Review,2024-04-29,Investigating,2130.99
+964,12228,Account Takeover,Customer Complaint,2019-12-10,Investigating,1578.51
+965,2321,Identity Theft,Customer Complaint,2019-11-15,Investigating,484.69
+966,10515,Phishing,AI Alert,2020-05-01,Closed,9295.95
+967,10516,Identity Theft,Manual Review,2019-01-26,Investigating,4514.15
+968,10520,Identity Theft,Manual Review,2019-07-02,Investigating,12615.43
+969,10522,Card Cloning,AI Alert,2022-01-08,Investigating,8383.02
+970,10525,Identity Theft,Manual Review,2023-05-13,Investigating,27079.32
+971,2334,Phishing,AI Alert,2022-12-03,Closed,259.06
+972,10527,Smishing,AI Alert,2025-04-29,Closed,5662.05
+973,10528,Phishing,Manual Review,2020-06-09,Resolved,4142.48
+974,12129,Card Cloning,AI Alert,2019-01-04,Investigating,3909.55
+975,2339,Identity Theft,AI Alert,2022-09-24,Closed,17986.17
+976,10531,Account Takeover,AI Alert,2019-08-25,Resolved,6605.19
+977,10533,Identity Theft,AI Alert,2024-02-27,Closed,13298.62
+978,2340,Vishing,Manual Review,2023-09-30,Closed,14012.05
+979,2343,Chargeback Fraud,AI Alert,2019-05-18,Resolved,20661.73
+980,2344,Account Takeover,Manual Review,2019-10-17,Resolved,9392.8
+981,10537,Vishing,AI Alert,2023-07-21,Closed,18279.48
+982,10538,Phishing,Customer Complaint,2019-07-12,Resolved,6437.29
+983,12148,Account Takeover,Manual Review,2019-03-28,Closed,19499.63
+984,10541,Phishing,Manual Review,2021-01-09,Resolved,7579.41
+985,2351,Account Takeover,Customer Complaint,2024-11-19,Investigating,9673.54
+986,2354,Vishing,Manual Review,2020-10-16,Resolved,25169.08
+987,2356,Identity Theft,Customer Complaint,2021-11-18,Resolved,973.86
+988,2360,Chargeback Fraud,Manual Review,2022-05-12,Resolved,13702.8
+989,2361,Smishing,Manual Review,2024-08-12,Investigating,4513.25
+990,2365,Vishing,Manual Review,2023-02-08,Closed,28455.29
+991,10560,Smishing,AI Alert,2022-07-26,Investigating,5461.28
+992,2369,Chargeback Fraud,Manual Review,2024-01-04,Resolved,2850.85
+993,2371,Account Takeover,Customer Complaint,2021-06-13,Closed,30696.92
+994,2373,Account Takeover,Manual Review,2019-08-15,Resolved,9907.14
+995,2376,Account Takeover,Manual Review,2022-12-27,Closed,2143.95
+996,2388,Card Cloning,Customer Complaint,2024-02-04,Investigating,2082.68
+997,10589,Card Cloning,AI Alert,2020-09-14,Investigating,6977.55
+998,10591,Identity Theft,Manual Review,2025-04-30,Resolved,2645.42
+999,2402,Identity Theft,Customer Complaint,2025-04-05,Investigating,9255.69
+1000,10595,Card Cloning,Manual Review,2025-09-04,Resolved,15020.33
+1001,12113,Chargeback Fraud,Manual Review,2024-04-21,Closed,21788.99
+1002,2407,Card Cloning,Customer Complaint,2020-01-10,Resolved,9271.7
+1003,2410,Account Takeover,Customer Complaint,2022-09-14,Closed,21869.27
+1004,10603,Identity Theft,Manual Review,2020-02-16,Investigating,12018.34
+1005,12062,Chargeback Fraud,Manual Review,2024-02-24,Closed,4864.02
+1006,10607,Identity Theft,AI Alert,2020-10-06,Closed,22806.38
+1007,10611,Smishing,AI Alert,2020-07-09,Resolved,12573.43
+1008,10612,Chargeback Fraud,AI Alert,2025-10-05,Investigating,6546.98
+1009,10619,Card Cloning,Manual Review,2019-10-11,Investigating,2766.28
+1010,2437,Smishing,AI Alert,2023-01-08,Resolved,10822.47
+1011,10630,Vishing,AI Alert,2025-04-07,Resolved,13151.8
+1012,10632,Phishing,Manual Review,2024-06-15,Closed,3822.04
+1013,2441,Smishing,AI Alert,2020-11-29,Investigating,3324.36
+1014,10636,Vishing,AI Alert,2023-08-01,Investigating,13224.08
+1015,10637,Chargeback Fraud,Manual Review,2025-09-07,Resolved,2812.39
+1016,10639,Smishing,AI Alert,2024-11-05,Resolved,1748.18
+1017,2452,Identity Theft,Customer Complaint,2024-04-28,Investigating,7718.39
+1018,12203,Identity Theft,AI Alert,2020-04-03,Resolved,976.75
+1019,10650,Account Takeover,Manual Review,2025-10-15,Investigating,17347.08
+1020,2463,Phishing,AI Alert,2024-04-24,Investigating,6984.88
+1021,12212,Chargeback Fraud,Manual Review,2025-03-14,Resolved,15270.27
+1022,2466,Smishing,Customer Complaint,2021-03-12,Resolved,12713.65
+1023,12046,Identity Theft,AI Alert,2019-10-30,Investigating,24156.82
+1024,2468,Phishing,Customer Complaint,2019-12-09,Investigating,11886.81
+1025,10660,Identity Theft,AI Alert,2021-01-08,Investigating,9202.09
+1026,10663,Account Takeover,AI Alert,2020-05-13,Closed,1254.73
+1027,2474,Account Takeover,AI Alert,2024-02-04,Closed,986.19
+1028,2476,Vishing,Customer Complaint,2024-04-06,Resolved,6175.69
+1029,2478,Identity Theft,Manual Review,2021-01-09,Investigating,13184.78
+1030,10670,Phishing,AI Alert,2019-08-29,Investigating,12409.49
+1031,10673,Vishing,AI Alert,2020-09-13,Resolved,13031.83
+1032,2482,Account Takeover,AI Alert,2024-10-07,Closed,1235.65
+1033,10675,Identity Theft,Manual Review,2023-08-27,Closed,18368.19
+1034,10676,Vishing,AI Alert,2025-04-18,Investigating,10196.62
+1035,2483,Vishing,AI Alert,2019-01-28,Resolved,10892.29
+1036,10682,Chargeback Fraud,AI Alert,2019-02-22,Resolved,5395.19
+1037,10683,Identity Theft,AI Alert,2024-09-27,Investigating,6191.32
+1038,2502,Phishing,Manual Review,2019-04-20,Investigating,11726.93
+1039,10702,Vishing,Customer Complaint,2022-04-21,Investigating,15480.25
+1040,10703,Vishing,Customer Complaint,2024-12-07,Resolved,9797.53
+1041,2513,Account Takeover,AI Alert,2019-10-19,Resolved,478.75
+1042,10710,Smishing,Manual Review,2022-02-26,Investigating,28422.08
+1043,2519,Chargeback Fraud,Customer Complaint,2024-07-26,Investigating,8907.53
+1044,10713,Account Takeover,Customer Complaint,2023-08-26,Closed,14662.55
+1045,2521,Vishing,Customer Complaint,2022-11-16,Investigating,15553.56
+1046,10715,Phishing,Manual Review,2024-01-21,Investigating,11898.84
+1047,10719,Phishing,Manual Review,2021-12-13,Closed,5835.54
+1048,2527,Phishing,Customer Complaint,2020-06-04,Resolved,6208.8
+1049,12123,Identity Theft,Manual Review,2024-05-03,Investigating,13016.19
+1050,10724,Phishing,AI Alert,2025-04-20,Investigating,22318.47
+1051,10729,Identity Theft,Manual Review,2020-03-20,Resolved,1423.47
+1052,2538,Chargeback Fraud,Manual Review,2025-03-21,Investigating,11759.17
+1053,2541,Card Cloning,Customer Complaint,2023-06-28,Closed,802.09
+1054,2544,Phishing,Customer Complaint,2024-12-15,Investigating,11155.31
+1055,2545,Account Takeover,Customer Complaint,2020-11-19,Closed,7857.58
+1056,2546,Chargeback Fraud,AI Alert,2021-04-14,Closed,1304.68
+1057,2548,Vishing,Manual Review,2019-10-28,Investigating,5135.21
+1058,10740,Account Takeover,Manual Review,2019-12-06,Resolved,12104.57
+1059,10745,Card Cloning,Customer Complaint,2024-03-30,Investigating,8614.27
+1060,2554,Identity Theft,AI Alert,2021-05-06,Resolved,16982.75
+1061,10751,Phishing,Manual Review,2021-01-07,Closed,3406.81
+1062,10753,Identity Theft,Customer Complaint,2020-09-13,Investigating,7841.78
+1063,10754,Vishing,Manual Review,2025-01-13,Investigating,18531.69
+1064,2562,Chargeback Fraud,Manual Review,2021-11-03,Closed,13596.36
+1065,10756,Chargeback Fraud,Manual Review,2019-05-05,Closed,6191.4
+1066,10757,Vishing,AI Alert,2022-08-25,Closed,2339.04
+1067,10758,Chargeback Fraud,AI Alert,2020-12-09,Resolved,11159.32
+1068,10761,Vishing,Customer Complaint,2021-07-02,Investigating,7700.56
+1069,2570,Vishing,Customer Complaint,2021-04-28,Resolved,18936.89
+1070,10763,Smishing,Manual Review,2020-03-13,Investigating,8674.56
+1071,10765,Phishing,Customer Complaint,2025-01-03,Investigating,12736.28
+1072,10766,Account Takeover,Manual Review,2025-10-12,Investigating,4354.93
+1073,10769,Vishing,Customer Complaint,2019-09-07,Investigating,14487.53
+1074,2579,Card Cloning,Customer Complaint,2021-12-12,Resolved,10287.34
+1075,2580,Card Cloning,Manual Review,2025-02-13,Closed,20822.38
+1076,2582,Identity Theft,AI Alert,2022-12-12,Closed,7376.14
+1077,2583,Smishing,AI Alert,2025-10-19,Investigating,28841.9
+1078,2584,Card Cloning,Manual Review,2024-09-04,Closed,206.66
+1079,10774,Vishing,Customer Complaint,2025-07-31,Closed,10222.5
+1080,2587,Smishing,Customer Complaint,2025-01-29,Investigating,10675.47
+1081,2588,Smishing,Manual Review,2023-05-13,Closed,24982.24
+1082,10780,Smishing,Manual Review,2019-09-20,Investigating,3389.1
+1083,2590,Phishing,AI Alert,2022-09-06,Investigating,30703.89
+1084,2592,Phishing,Manual Review,2021-09-27,Closed,5745.71
+1085,2593,Vishing,Customer Complaint,2024-12-30,Investigating,26750.07
+1086,10784,Vishing,Manual Review,2022-03-04,Resolved,9925.45
+1087,10787,Card Cloning,AI Alert,2024-06-28,Resolved,4392.19
+1088,10791,Identity Theft,Customer Complaint,2022-11-07,Investigating,11119.84
+1089,10792,Chargeback Fraud,AI Alert,2022-06-27,Investigating,6691.38
+1090,2601,Card Cloning,AI Alert,2021-10-31,Resolved,4923.11
+1091,2602,Phishing,AI Alert,2022-10-29,Closed,2288.0
+1092,10796,Account Takeover,Manual Review,2023-03-07,Investigating,8286.95
+1093,2607,Card Cloning,Manual Review,2020-11-15,Investigating,6428.92
+1094,10806,Card Cloning,AI Alert,2019-03-28,Closed,18663.87
+1095,2617,Smishing,Manual Review,2025-03-19,Investigating,533.33
+1096,2618,Vishing,Customer Complaint,2022-01-17,Investigating,4134.59
+1097,10814,Card Cloning,AI Alert,2024-05-05,Resolved,9036.92
+1098,2622,Account Takeover,AI Alert,2021-12-19,Closed,2195.98
+1099,2626,Account Takeover,Customer Complaint,2022-03-30,Resolved,7543.66
+1100,10819,Identity Theft,Manual Review,2024-04-14,Investigating,4123.48
+1101,10820,Identity Theft,Manual Review,2020-02-11,Resolved,13428.35
+1102,2629,Chargeback Fraud,Manual Review,2020-12-31,Investigating,4263.06
+1103,10825,Phishing,Customer Complaint,2019-03-04,Investigating,14679.34
+1104,10831,Account Takeover,Manual Review,2024-07-12,Closed,143.72
+1105,10832,Smishing,Customer Complaint,2019-09-06,Closed,24880.76
+1106,10833,Identity Theft,AI Alert,2022-06-04,Investigating,16381.92
+1107,2641,Vishing,Manual Review,2021-11-26,Resolved,10531.74
+1108,2642,Smishing,Customer Complaint,2020-01-03,Investigating,8195.64
+1109,2643,Vishing,Manual Review,2022-07-17,Closed,8800.01
+1110,10842,Chargeback Fraud,AI Alert,2023-06-21,Investigating,18697.19
+1111,10843,Phishing,AI Alert,2019-11-19,Resolved,23501.74
+1112,2658,Vishing,Customer Complaint,2020-01-07,Investigating,8246.46
+1113,10853,Smishing,AI Alert,2025-05-01,Investigating,19695.95
+1114,2662,Identity Theft,Customer Complaint,2019-05-31,Closed,7018.35
+1115,2663,Account Takeover,Manual Review,2024-08-30,Resolved,29717.17
+1116,10854,Card Cloning,Customer Complaint,2024-05-24,Resolved,3422.24
+1117,10860,Card Cloning,Customer Complaint,2020-04-03,Investigating,6522.01
+1118,10869,Smishing,AI Alert,2024-03-24,Closed,9151.88
+1119,2678,Vishing,AI Alert,2020-11-28,Investigating,13068.28
+1120,10872,Vishing,Customer Complaint,2023-08-16,Closed,6564.03
+1121,2680,Smishing,AI Alert,2022-01-01,Resolved,11934.29
+1122,2683,Phishing,Manual Review,2024-10-01,Closed,20666.98
+1123,10876,Account Takeover,AI Alert,2023-08-28,Resolved,1701.41
+1124,2685,Identity Theft,Customer Complaint,2025-06-09,Resolved,8768.48
+1125,10881,Card Cloning,AI Alert,2023-11-13,Investigating,2729.38
+1126,2692,Smishing,Customer Complaint,2021-01-21,Resolved,14751.79
+1127,10884,Card Cloning,Customer Complaint,2023-06-21,Closed,18898.54
+1128,10892,Smishing,Manual Review,2021-12-01,Closed,16183.09
+1129,2704,Card Cloning,AI Alert,2022-02-16,Closed,11904.1
+1130,10898,Phishing,AI Alert,2024-04-08,Closed,6007.95
+1131,2716,Phishing,Manual Review,2024-01-10,Investigating,2561.12
+1132,10909,Identity Theft,Manual Review,2022-02-19,Resolved,11121.21
+1133,10912,Card Cloning,Customer Complaint,2020-01-17,Resolved,20362.74
+1134,2732,Chargeback Fraud,Manual Review,2021-11-16,Closed,12523.41
+1135,2738,Vishing,Manual Review,2021-05-10,Resolved,973.9
+1136,2740,Phishing,AI Alert,2020-01-13,Resolved,9817.3
+1137,2742,Smishing,Customer Complaint,2021-02-27,Closed,22241.56
+1138,2744,Identity Theft,Customer Complaint,2023-12-10,Resolved,6482.07
+1139,2745,Smishing,Customer Complaint,2023-04-22,Investigating,1673.95
+1140,2746,Phishing,Customer Complaint,2023-09-25,Closed,7236.9
+1141,10939,Card Cloning,AI Alert,2023-09-18,Investigating,26850.26
+1142,12092,Phishing,Customer Complaint,2020-04-23,Resolved,20692.33
+1143,2753,Smishing,AI Alert,2024-01-13,Investigating,6722.13
+1144,10945,Vishing,Customer Complaint,2022-01-05,Closed,22862.85
+1145,10947,Chargeback Fraud,AI Alert,2020-01-25,Resolved,2125.12
+1146,10949,Card Cloning,AI Alert,2019-11-15,Resolved,21311.97
+1147,10950,Chargeback Fraud,Manual Review,2025-11-01,Closed,24762.4
+1148,2760,Smishing,Manual Review,2025-09-02,Closed,6274.82
+1149,2762,Vishing,Manual Review,2023-10-05,Resolved,5577.72
+1150,10958,Account Takeover,Customer Complaint,2021-02-07,Investigating,17036.88
+1151,10959,Phishing,Customer Complaint,2020-08-30,Investigating,11041.37
+1152,10960,Card Cloning,Manual Review,2024-03-30,Resolved,21774.99
+1153,2768,Card Cloning,Customer Complaint,2022-09-01,Closed,4814.72
+1154,12089,Account Takeover,Manual Review,2022-01-11,Investigating,7852.36
+1155,10969,Account Takeover,Customer Complaint,2020-07-09,Investigating,21678.04
+1156,10971,Identity Theft,Manual Review,2025-02-04,Closed,1819.75
+1157,2781,Account Takeover,Customer Complaint,2019-01-10,Investigating,30338.89
+1158,10974,Vishing,Customer Complaint,2024-12-15,Investigating,8467.87
+1159,2783,Card Cloning,AI Alert,2019-08-06,Investigating,7055.06
+1160,10976,Vishing,AI Alert,2020-11-09,Resolved,1185.31
+1161,2788,Smishing,Customer Complaint,2020-06-15,Resolved,2172.21
+1162,2791,Phishing,AI Alert,2020-01-19,Closed,2469.75
+1163,10985,Identity Theft,Manual Review,2024-11-02,Resolved,2419.05
+1164,2794,Smishing,Manual Review,2020-01-20,Closed,1502.37
+1165,10988,Card Cloning,Customer Complaint,2020-06-16,Resolved,3835.29
+1166,2802,Phishing,Manual Review,2025-11-01,Resolved,7868.81
+1167,10995,Identity Theft,Customer Complaint,2021-07-28,Closed,3775.24
+1168,2807,Phishing,Customer Complaint,2022-11-14,Closed,945.12
+1169,2808,Smishing,Customer Complaint,2020-12-02,Resolved,3751.52
+1170,11002,Chargeback Fraud,Manual Review,2020-08-12,Investigating,24800.74
+1171,2810,Chargeback Fraud,Manual Review,2025-03-06,Investigating,12912.4
+1172,2814,Identity Theft,AI Alert,2019-07-28,Resolved,2447.5
+1173,12096,Account Takeover,Customer Complaint,2023-09-15,Closed,14580.68
+1174,2817,Vishing,Customer Complaint,2021-01-29,Closed,6176.34
+1175,2818,Chargeback Fraud,Customer Complaint,2019-11-20,Resolved,9947.15
+1176,2819,Identity Theft,Manual Review,2023-03-05,Resolved,1839.59
+1177,2822,Card Cloning,AI Alert,2020-01-16,Resolved,4400.31
+1178,2826,Phishing,Customer Complaint,2020-07-28,Resolved,13163.1
+1179,2828,Chargeback Fraud,Customer Complaint,2024-09-10,Investigating,8267.43
+1180,2829,Phishing,Customer Complaint,2020-10-02,Resolved,10169.86
+1181,11024,Account Takeover,AI Alert,2022-12-28,Investigating,1603.59
+1182,2835,Chargeback Fraud,Manual Review,2022-01-17,Investigating,766.67
+1183,2837,Identity Theft,Manual Review,2023-04-25,Investigating,3773.13
+1184,11031,Phishing,Manual Review,2021-08-29,Closed,385.81
+1185,2839,Smishing,AI Alert,2020-10-06,Resolved,5207.88
+1186,2841,Smishing,Manual Review,2021-07-14,Investigating,889.07
+1187,11036,Card Cloning,AI Alert,2023-08-21,Investigating,4790.58
+1188,11038,Smishing,AI Alert,2021-02-28,Resolved,10776.54
+1189,2852,Card Cloning,AI Alert,2024-04-21,Resolved,15733.97
+1190,11044,Account Takeover,AI Alert,2024-06-04,Investigating,3139.01
+1191,2854,Identity Theft,Customer Complaint,2024-05-04,Investigating,9371.74
+1192,2855,Identity Theft,Manual Review,2022-06-05,Investigating,11972.18
+1193,2858,Chargeback Fraud,Customer Complaint,2019-04-15,Investigating,8225.88
+1194,2860,Smishing,Customer Complaint,2022-08-23,Investigating,12256.56
+1195,11054,Phishing,AI Alert,2020-08-22,Resolved,1175.08
+1196,2868,Vishing,AI Alert,2024-05-15,Closed,192.29
+1197,11061,Account Takeover,Customer Complaint,2021-03-15,Resolved,1521.5
+1198,11060,Phishing,AI Alert,2022-12-26,Resolved,5185.12
+1199,11063,Account Takeover,Customer Complaint,2022-11-13,Closed,4397.33
+1200,2878,Card Cloning,Customer Complaint,2019-12-09,Closed,8674.07
+1201,11072,Identity Theft,Manual Review,2022-11-01,Closed,6146.2
+1202,11073,Card Cloning,Customer Complaint,2023-03-20,Resolved,3266.57
+1203,2881,Chargeback Fraud,Customer Complaint,2023-12-27,Resolved,8716.92
+1204,2882,Account Takeover,Customer Complaint,2025-05-24,Resolved,1191.05
+1205,2884,Vishing,AI Alert,2025-03-28,Investigating,82.82
+1206,2886,Card Cloning,AI Alert,2020-07-24,Investigating,3892.77
+1207,11085,Chargeback Fraud,AI Alert,2019-09-28,Investigating,15093.79
+1208,11086,Chargeback Fraud,Manual Review,2023-11-13,Investigating,12952.31
+1209,11089,Phishing,Customer Complaint,2025-01-03,Closed,13553.14
+1210,11092,Smishing,Manual Review,2019-12-09,Closed,1295.28
+1211,11094,Phishing,Customer Complaint,2019-07-10,Investigating,24055.69
+1212,2905,Vishing,Customer Complaint,2025-06-30,Closed,7857.89
+1213,11097,Card Cloning,Manual Review,2025-09-19,Resolved,1899.12
+1214,11099,Smishing,Customer Complaint,2020-10-11,Closed,1725.23
+1215,11102,Identity Theft,Customer Complaint,2020-05-21,Resolved,1292.01
+1216,2911,Smishing,Manual Review,2023-01-29,Resolved,15592.71
+1217,11103,Card Cloning,Customer Complaint,2025-08-10,Resolved,4852.53
+1218,2913,Identity Theft,Manual Review,2020-03-05,Resolved,35693.61
+1219,11105,Chargeback Fraud,AI Alert,2019-12-28,Closed,6512.09
+1220,11110,Phishing,Manual Review,2020-06-09,Closed,584.65
+1221,11112,Phishing,Manual Review,2022-07-25,Resolved,19411.44
+1222,11114,Smishing,AI Alert,2020-06-25,Resolved,6520.21
+1223,11117,Smishing,AI Alert,2023-12-28,Resolved,3639.59
+1224,11118,Smishing,Customer Complaint,2019-02-17,Investigating,19160.77
+1225,2927,Vishing,Manual Review,2021-04-06,Investigating,9520.05
+1226,2928,Phishing,Manual Review,2022-10-20,Investigating,3608.72
+1227,2929,Card Cloning,Customer Complaint,2022-07-18,Investigating,914.71
+1228,11120,Chargeback Fraud,Customer Complaint,2020-06-19,Resolved,11181.74
+1229,11119,Card Cloning,AI Alert,2023-11-03,Investigating,13417.18
+1230,11121,Chargeback Fraud,Manual Review,2022-12-03,Resolved,27132.36
+1231,2935,Account Takeover,AI Alert,2025-06-02,Closed,2564.45
+1232,2936,Phishing,AI Alert,2025-10-30,Resolved,7042.13
+1233,11130,Vishing,AI Alert,2024-05-26,Investigating,12136.19
+1234,2938,Card Cloning,Manual Review,2020-02-02,Resolved,25191.58
+1235,11136,Card Cloning,Manual Review,2024-02-27,Resolved,6790.14
+1236,2945,Account Takeover,Customer Complaint,2019-08-22,Resolved,19408.69
+1237,11138,Phishing,AI Alert,2019-12-08,Resolved,3795.64
+1238,11137,Identity Theft,Manual Review,2025-05-13,Resolved,37168.82
+1239,11140,Phishing,AI Alert,2023-08-23,Closed,23417.33
+1240,11142,Account Takeover,Customer Complaint,2025-07-01,Investigating,804.24
+1241,2951,Account Takeover,Customer Complaint,2019-01-18,Investigating,2112.0
+1242,2952,Vishing,Manual Review,2020-06-15,Investigating,9434.45
+1243,11147,Chargeback Fraud,Customer Complaint,2023-03-01,Investigating,10273.29
+1244,11148,Card Cloning,AI Alert,2019-07-04,Investigating,3307.34
+1245,2958,Vishing,AI Alert,2025-02-01,Resolved,11031.16
+1246,11153,Phishing,Manual Review,2021-12-05,Closed,10461.64
+1247,11156,Identity Theft,AI Alert,2023-06-08,Resolved,805.7
+1248,2965,Account Takeover,Customer Complaint,2025-05-30,Investigating,582.78
+1249,11159,Card Cloning,AI Alert,2023-12-04,Closed,2118.03
+1250,2971,Vishing,Manual Review,2021-05-09,Investigating,4306.24
+1251,11167,Card Cloning,Customer Complaint,2024-07-25,Investigating,4925.36
+1252,2975,Phishing,Customer Complaint,2023-01-06,Resolved,6857.32
+1253,2977,Chargeback Fraud,Customer Complaint,2025-04-27,Resolved,13347.96
+1254,11171,Vishing,Customer Complaint,2023-05-19,Resolved,18466.79
+1255,2989,Chargeback Fraud,Customer Complaint,2023-12-24,Investigating,1554.07
+1256,2991,Identity Theft,AI Alert,2021-12-28,Resolved,9149.93
+1257,2993,Vishing,Manual Review,2019-09-25,Investigating,37.87
+1258,11186,Identity Theft,Manual Review,2020-02-22,Resolved,8319.64
+1259,2997,Chargeback Fraud,Manual Review,2020-06-03,Resolved,11336.35
+1260,11190,Account Takeover,Customer Complaint,2022-02-27,Investigating,2027.23
+1261,2999,Chargeback Fraud,Manual Review,2025-04-03,Closed,13198.99
+1262,11192,Smishing,AI Alert,2019-10-02,Investigating,5659.11
+1263,3001,Smishing,AI Alert,2019-05-23,Resolved,10517.69
+1264,2998,Account Takeover,Customer Complaint,2024-11-30,Closed,38172.86
+1265,3003,Card Cloning,Customer Complaint,2022-08-02,Closed,356.99
+1266,3010,Phishing,Customer Complaint,2023-02-14,Investigating,12975.12
+1267,3011,Phishing,AI Alert,2022-12-21,Resolved,20341.09
+1268,11202,Card Cloning,AI Alert,2024-12-18,Resolved,20517.57
+1269,11207,Vishing,Customer Complaint,2023-10-09,Investigating,10081.46
+1270,11217,Chargeback Fraud,AI Alert,2021-11-13,Resolved,13638.0
+1271,3027,Account Takeover,Manual Review,2024-11-12,Resolved,3751.37
+1272,11219,Chargeback Fraud,AI Alert,2023-08-24,Closed,31653.23
+1273,11224,Phishing,AI Alert,2024-03-18,Closed,9552.82
+1274,3032,Vishing,Customer Complaint,2025-07-30,Investigating,2689.92
+1275,11225,Smishing,AI Alert,2024-01-19,Investigating,8569.55
+1276,11227,Card Cloning,Manual Review,2024-08-06,Closed,4652.74
+1277,12046,Smishing,Customer Complaint,2020-12-29,Investigating,10570.97
+1278,3039,Card Cloning,AI Alert,2025-04-10,Investigating,7128.51
+1279,3041,Account Takeover,Manual Review,2020-02-20,Closed,3010.11
+1280,11235,Account Takeover,AI Alert,2019-05-25,Resolved,1842.71
+1281,11237,Vishing,AI Alert,2025-02-21,Closed,10681.05
+1282,11240,Account Takeover,Manual Review,2023-02-11,Investigating,953.95
+1283,3050,Chargeback Fraud,Manual Review,2023-04-25,Closed,7940.96
+1284,11243,Phishing,AI Alert,2022-09-01,Closed,8624.59
+1285,3054,Identity Theft,Manual Review,2021-11-25,Investigating,7046.11
+1286,11248,Chargeback Fraud,Customer Complaint,2023-06-26,Resolved,13608.39
+1287,11250,Identity Theft,Manual Review,2022-04-14,Closed,3817.59
+1288,11251,Identity Theft,Manual Review,2019-11-30,Closed,6825.7
+1289,3066,Chargeback Fraud,Customer Complaint,2020-01-05,Investigating,11097.61
+1290,12201,Smishing,Manual Review,2020-11-25,Resolved,5825.88
+1291,3071,Identity Theft,Customer Complaint,2025-09-24,Closed,12976.61
+1292,11266,Smishing,Customer Complaint,2024-01-06,Investigating,19277.57
+1293,11271,Identity Theft,AI Alert,2024-12-12,Closed,10462.75
+1294,3081,Chargeback Fraud,Customer Complaint,2022-01-08,Investigating,8188.94
+1295,3082,Vishing,Customer Complaint,2025-06-24,Closed,1532.44
+1296,3086,Chargeback Fraud,Manual Review,2020-02-25,Resolved,7235.29
+1297,3088,Card Cloning,Customer Complaint,2021-01-17,Resolved,6392.99
+1298,11281,Account Takeover,AI Alert,2020-05-13,Closed,24778.22
+1299,3092,Identity Theft,AI Alert,2025-08-29,Closed,9384.89
+1300,3094,Identity Theft,Customer Complaint,2024-08-15,Investigating,19463.9
+1301,3095,Account Takeover,Manual Review,2025-06-19,Resolved,8294.07
+1302,11292,Card Cloning,Customer Complaint,2020-04-25,Closed,5230.88
+1303,11293,Card Cloning,AI Alert,2025-02-20,Resolved,7610.71
+1304,3102,Smishing,AI Alert,2024-04-10,Closed,4735.75
+1305,3103,Smishing,Customer Complaint,2023-08-15,Resolved,12864.53
+1306,3109,Card Cloning,Customer Complaint,2024-09-28,Closed,8367.27
+1307,11307,Vishing,Manual Review,2021-10-14,Investigating,16715.96
+1308,11309,Identity Theft,AI Alert,2022-07-27,Resolved,8196.78
+1309,3118,Identity Theft,Customer Complaint,2023-06-24,Resolved,23771.45
+1310,3119,Account Takeover,AI Alert,2024-10-14,Investigating,22999.71
+1311,3132,Vishing,AI Alert,2024-03-25,Resolved,8251.21
+1312,11324,Identity Theft,Manual Review,2021-01-04,Closed,14981.8
+1313,3134,Account Takeover,Customer Complaint,2023-09-11,Investigating,3062.32
+1314,3135,Account Takeover,Customer Complaint,2022-02-27,Investigating,2367.25
+1315,11329,Chargeback Fraud,AI Alert,2023-08-22,Closed,6569.55
+1316,3137,Account Takeover,AI Alert,2020-05-28,Investigating,9398.94
+1317,3144,Vishing,AI Alert,2021-07-23,Resolved,11076.93
+1318,11337,Chargeback Fraud,Customer Complaint,2019-04-28,Investigating,9032.44
+1319,3149,Identity Theft,AI Alert,2023-07-06,Closed,3648.37
+1320,3150,Phishing,Customer Complaint,2019-04-25,Closed,8255.46
+1321,11348,Identity Theft,Manual Review,2022-10-22,Closed,10915.62
+1322,3162,Phishing,Manual Review,2021-10-07,Investigating,5441.67
+1323,3164,Account Takeover,Manual Review,2024-10-25,Resolved,8245.16
+1324,11357,Chargeback Fraud,AI Alert,2020-04-21,Investigating,6614.35
+1325,11361,Identity Theft,AI Alert,2022-06-30,Closed,19728.66
+1326,3171,Account Takeover,Manual Review,2024-10-28,Closed,1059.29
+1327,11364,Phishing,AI Alert,2023-10-07,Investigating,9965.57
+1328,3172,Chargeback Fraud,Manual Review,2022-07-28,Resolved,12387.46
+1329,11365,Identity Theft,Manual Review,2025-09-13,Closed,22055.38
+1330,11375,Smishing,Customer Complaint,2023-05-29,Closed,12978.09
+1331,3185,Account Takeover,Customer Complaint,2022-04-12,Closed,6948.81
+1332,3186,Phishing,AI Alert,2022-11-22,Closed,8336.37
+1333,3187,Identity Theft,Manual Review,2023-10-08,Investigating,16937.24
+1334,3188,Chargeback Fraud,Customer Complaint,2024-09-03,Closed,9701.27
+1335,11381,Smishing,AI Alert,2023-01-25,Resolved,4649.05
+1336,12227,Chargeback Fraud,Customer Complaint,2020-09-12,Closed,19828.01
+1337,11379,Phishing,AI Alert,2022-08-15,Resolved,17859.81
+1338,3192,Card Cloning,AI Alert,2021-02-22,Resolved,11175.01
+1339,11385,Identity Theft,Manual Review,2023-07-20,Investigating,3786.26
+1340,3195,Identity Theft,AI Alert,2021-07-28,Closed,11189.24
+1341,11387,Phishing,Manual Review,2024-03-26,Closed,12559.87
+1342,3197,Chargeback Fraud,Customer Complaint,2022-08-04,Closed,11439.03
+1343,11390,Phishing,Customer Complaint,2023-02-12,Investigating,5904.99
+1344,3196,Chargeback Fraud,Manual Review,2023-07-12,Resolved,2368.82
+1345,11392,Phishing,AI Alert,2025-09-04,Closed,18274.86
+1346,3200,Vishing,Manual Review,2024-02-23,Closed,10015.71
+1347,3205,Phishing,AI Alert,2024-05-15,Closed,11719.85
+1348,3214,Vishing,AI Alert,2023-10-12,Closed,6686.47
+1349,3215,Smishing,Manual Review,2025-07-16,Resolved,30742.19
+1350,3216,Phishing,AI Alert,2022-04-13,Investigating,9230.79
+1351,11411,Smishing,Manual Review,2023-11-25,Investigating,9909.26
+1352,3221,Account Takeover,Manual Review,2022-07-18,Resolved,5794.04
+1353,11425,Vishing,Customer Complaint,2024-04-22,Investigating,3258.66
+1354,11426,Phishing,Customer Complaint,2020-10-30,Closed,21328.42
+1355,11427,Smishing,Customer Complaint,2019-08-07,Closed,12848.22
+1356,3238,Account Takeover,Manual Review,2024-04-24,Closed,17452.55
+1357,11432,Chargeback Fraud,AI Alert,2022-09-05,Resolved,14891.89
+1358,11434,Identity Theft,Customer Complaint,2023-08-19,Resolved,8974.61
+1359,3245,Identity Theft,AI Alert,2022-09-29,Resolved,10217.21
+1360,11439,Card Cloning,AI Alert,2019-07-11,Closed,2079.0
+1361,11440,Identity Theft,AI Alert,2020-05-16,Resolved,13851.46
+1362,3247,Identity Theft,AI Alert,2023-04-20,Investigating,8385.99
+1363,3250,Identity Theft,AI Alert,2021-09-16,Resolved,16305.24
+1364,3251,Identity Theft,Manual Review,2023-01-27,Investigating,5372.36
+1365,11444,Vishing,Manual Review,2022-01-23,Resolved,12921.47
+1366,3254,Phishing,AI Alert,2025-08-08,Closed,6645.55
+1367,11449,Chargeback Fraud,Manual Review,2019-12-07,Closed,18993.7
+1368,11451,Smishing,Manual Review,2020-01-21,Resolved,5229.83
+1369,11453,Account Takeover,Customer Complaint,2025-10-27,Investigating,8218.61
+1370,3263,Vishing,Manual Review,2022-02-03,Resolved,37026.38
+1371,11456,Vishing,Manual Review,2019-09-09,Resolved,20726.79
+1372,3264,Smishing,AI Alert,2019-12-20,Investigating,2313.73
+1373,11467,Smishing,AI Alert,2019-02-06,Resolved,4158.71
+1374,11468,Identity Theft,Customer Complaint,2021-03-25,Closed,11027.61
+1375,12226,Chargeback Fraud,AI Alert,2024-12-22,Investigating,14231.64
+1376,3281,Identity Theft,Manual Review,2019-01-28,Resolved,4409.49
+1377,11478,Smishing,Customer Complaint,2019-12-18,Investigating,6174.95
+1378,3286,Chargeback Fraud,Manual Review,2019-04-10,Closed,8522.87
+1379,3290,Account Takeover,AI Alert,2025-08-14,Investigating,7490.66
+1380,11485,Identity Theft,Customer Complaint,2024-11-04,Resolved,4270.28
+1381,11488,Account Takeover,AI Alert,2025-01-21,Closed,7240.76
+1382,3297,Vishing,Customer Complaint,2019-05-18,Resolved,1949.43
+1383,11493,Vishing,Customer Complaint,2021-08-31,Closed,1962.75
+1384,11495,Chargeback Fraud,Customer Complaint,2022-09-11,Investigating,13709.57
+1385,11496,Smishing,Customer Complaint,2024-05-27,Resolved,7153.71
+1386,11497,Account Takeover,Customer Complaint,2019-12-16,Investigating,1972.83
+1387,3313,Phishing,Customer Complaint,2019-03-20,Investigating,31156.41
+1388,11506,Phishing,AI Alert,2019-07-20,Closed,5483.06
+1389,3325,Card Cloning,AI Alert,2025-06-04,Investigating,18163.76
+1390,11518,Card Cloning,AI Alert,2023-06-15,Investigating,13519.31
+1391,3326,Vishing,AI Alert,2021-01-22,Investigating,8021.0
+1392,3328,Phishing,Customer Complaint,2025-05-14,Investigating,2529.19
+1393,11523,Account Takeover,Customer Complaint,2025-03-17,Resolved,4844.03
+1394,3340,Phishing,Manual Review,2021-09-25,Resolved,5138.83
+1395,11536,Account Takeover,Customer Complaint,2022-08-28,Closed,7305.03
+1396,3347,Vishing,Manual Review,2019-11-04,Investigating,5350.31
+1397,3351,Card Cloning,AI Alert,2025-09-11,Resolved,9368.58
+1398,3353,Card Cloning,Customer Complaint,2025-07-25,Investigating,21044.92
+1399,3357,Phishing,Manual Review,2019-01-20,Resolved,9009.89
+1400,11554,Vishing,Manual Review,2019-09-09,Closed,16422.07
+1401,3362,Phishing,Customer Complaint,2019-11-23,Closed,135.65
+1402,11558,Smishing,AI Alert,2020-04-04,Resolved,6355.38
+1403,3367,Chargeback Fraud,Customer Complaint,2020-01-09,Resolved,957.34
+1404,11559,Chargeback Fraud,AI Alert,2019-10-29,Closed,25521.82
+1405,3373,Card Cloning,AI Alert,2019-03-01,Closed,8299.47
+1406,11569,Identity Theft,Customer Complaint,2024-02-23,Resolved,1516.69
+1407,3377,Account Takeover,Customer Complaint,2024-01-13,Resolved,8524.62
+1408,3379,Phishing,AI Alert,2020-04-15,Resolved,7963.3
+1409,3378,Smishing,Manual Review,2022-03-31,Resolved,7593.0
+1410,3385,Vishing,Customer Complaint,2024-09-09,Closed,5784.09
+1411,11578,Chargeback Fraud,Manual Review,2021-09-28,Investigating,1223.7
+1412,11580,Vishing,Manual Review,2025-05-10,Investigating,12787.64
+1413,11582,Card Cloning,AI Alert,2019-12-07,Closed,13003.61
+1414,3394,Card Cloning,AI Alert,2025-08-01,Resolved,3835.32
+1415,3395,Smishing,Manual Review,2021-10-02,Resolved,22135.95
+1416,11588,Vishing,Customer Complaint,2021-11-06,Investigating,11417.25
+1417,11591,Chargeback Fraud,Manual Review,2021-10-31,Closed,73.56
+1418,11593,Chargeback Fraud,Customer Complaint,2023-03-17,Investigating,17659.96
+1419,3402,Smishing,AI Alert,2021-01-22,Resolved,34527.82
+1420,3401,Chargeback Fraud,Manual Review,2022-01-06,Closed,2900.51
+1421,11598,Card Cloning,AI Alert,2020-09-22,Investigating,607.41
+1422,3409,Identity Theft,Manual Review,2022-03-17,Investigating,5950.73
+1423,3412,Phishing,Manual Review,2025-02-14,Investigating,5556.47
+1424,3414,Smishing,Customer Complaint,2019-09-13,Resolved,5366.79
+1425,11606,Vishing,Customer Complaint,2022-09-20,Resolved,14587.7
+1426,11608,Chargeback Fraud,Customer Complaint,2024-07-31,Closed,377.44
+1427,11610,Smishing,AI Alert,2023-09-17,Investigating,17082.48
+1428,11611,Identity Theft,Manual Review,2025-08-20,Investigating,182.05
+1429,11612,Vishing,AI Alert,2022-12-13,Closed,20973.13
+1430,11616,Chargeback Fraud,AI Alert,2025-07-02,Closed,16255.92
+1431,11617,Identity Theft,Manual Review,2022-08-18,Investigating,20810.38
+1432,3427,Chargeback Fraud,AI Alert,2023-07-16,Closed,6925.3
+1433,11619,Identity Theft,Manual Review,2019-11-24,Investigating,13142.84
+1434,3431,Chargeback Fraud,AI Alert,2024-01-13,Closed,9754.29
+1435,11625,Smishing,Customer Complaint,2021-01-19,Resolved,24845.39
+1436,11629,Smishing,Manual Review,2024-12-11,Resolved,4824.38
+1437,3439,Account Takeover,Manual Review,2022-07-13,Resolved,22514.51
+1438,11634,Identity Theft,Manual Review,2022-12-18,Investigating,2592.79
+1439,11636,Card Cloning,AI Alert,2021-01-28,Closed,4716.19
+1440,3448,Vishing,Customer Complaint,2022-08-20,Investigating,385.97
+1441,3450,Phishing,Customer Complaint,2021-11-14,Resolved,1573.62
+1442,3452,Card Cloning,AI Alert,2022-05-03,Investigating,12915.77
+1443,3454,Account Takeover,Manual Review,2020-02-19,Resolved,10370.89
+1444,3457,Vishing,Customer Complaint,2020-10-25,Resolved,6845.69
+1445,3460,Card Cloning,Customer Complaint,2024-03-15,Resolved,20835.35
+1446,12072,Card Cloning,Manual Review,2023-02-05,Investigating,5310.44
+1447,3465,Phishing,Customer Complaint,2022-10-24,Resolved,11681.37
+1448,11658,Identity Theft,Manual Review,2025-01-15,Closed,5080.79
+1449,3467,Account Takeover,AI Alert,2024-10-15,Investigating,6174.96
+1450,3468,Card Cloning,AI Alert,2024-01-04,Resolved,13737.89
+1451,11661,Chargeback Fraud,Customer Complaint,2023-06-09,Investigating,2220.92
+1452,11665,Chargeback Fraud,Manual Review,2021-06-17,Investigating,15918.37
+1453,11666,Identity Theft,AI Alert,2023-03-17,Closed,24519.26
+1454,3473,Card Cloning,AI Alert,2019-03-28,Investigating,2244.82
+1455,11668,Identity Theft,Manual Review,2020-12-20,Resolved,4702.77
+1456,11671,Phishing,Manual Review,2025-06-06,Investigating,24478.64
+1457,3480,Identity Theft,Customer Complaint,2019-10-27,Closed,18466.08
+1458,3484,Smishing,Manual Review,2020-10-01,Investigating,29181.54
+1459,11679,Phishing,Manual Review,2022-06-01,Investigating,5372.91
+1460,3487,Account Takeover,Customer Complaint,2023-05-14,Investigating,10972.26
+1461,3488,Smishing,Customer Complaint,2025-04-01,Resolved,264.81
+1462,11682,Chargeback Fraud,Manual Review,2021-09-08,Investigating,8622.99
+1463,11683,Chargeback Fraud,AI Alert,2022-11-20,Investigating,13197.48
+1464,3491,Smishing,Customer Complaint,2020-11-30,Resolved,18383.21
+1465,3493,Vishing,AI Alert,2022-06-06,Closed,3322.09
+1466,11689,Smishing,AI Alert,2024-08-23,Closed,15632.9
+1467,3499,Smishing,Customer Complaint,2021-06-21,Resolved,24626.73
+1468,11691,Smishing,AI Alert,2025-04-06,Resolved,6633.6
+1469,11695,Vishing,Manual Review,2024-04-14,Investigating,4374.32
+1470,3505,Identity Theft,Customer Complaint,2022-11-02,Closed,16437.75
+1471,3514,Vishing,Manual Review,2019-05-08,Resolved,8407.84
+1472,3516,Phishing,AI Alert,2021-11-19,Closed,1337.23
+1473,3517,Vishing,Customer Complaint,2025-01-31,Closed,6376.28
+1474,3519,Chargeback Fraud,AI Alert,2021-04-05,Investigating,20920.11
+1475,11727,Vishing,Manual Review,2022-10-14,Investigating,4175.44
+1476,11729,Vishing,Customer Complaint,2023-07-03,Investigating,9189.45
+1477,11734,Card Cloning,AI Alert,2019-07-13,Closed,21727.51
+1478,11738,Vishing,Manual Review,2025-06-13,Investigating,14031.32
+1479,11744,Identity Theft,AI Alert,2020-04-18,Resolved,178.23
+1480,11748,Smishing,Customer Complaint,2023-04-15,Closed,6803.85
+1481,3557,Smishing,Customer Complaint,2019-07-18,Closed,5468.9
+1482,11751,Identity Theft,Manual Review,2019-07-31,Closed,8804.95
+1483,3560,Card Cloning,Manual Review,2025-05-22,Investigating,1152.33
+1484,3568,Smishing,Manual Review,2021-02-24,Resolved,18822.61
+1485,3573,Smishing,Manual Review,2024-12-01,Resolved,4253.38
+1486,3575,Card Cloning,Customer Complaint,2020-07-04,Resolved,2336.96
+1487,11768,Vishing,Manual Review,2020-08-02,Investigating,2499.67
+1488,11769,Card Cloning,AI Alert,2025-05-08,Investigating,2624.69
+1489,11774,Account Takeover,AI Alert,2022-04-21,Investigating,32405.85
+1490,11776,Phishing,Manual Review,2020-04-08,Resolved,5436.03
+1491,3587,Vishing,Customer Complaint,2022-08-30,Closed,13681.03
+1492,3591,Phishing,AI Alert,2024-12-03,Closed,24142.75
+1493,11785,Smishing,Manual Review,2022-03-15,Investigating,6381.48
+1494,11787,Phishing,Customer Complaint,2023-06-03,Investigating,16860.74
+1495,3599,Identity Theft,Manual Review,2022-07-14,Closed,19168.2
+1496,11794,Smishing,Customer Complaint,2021-05-18,Closed,2870.33
+1497,3602,Card Cloning,Manual Review,2025-09-07,Investigating,4041.06
+1498,3604,Vishing,Customer Complaint,2021-11-15,Closed,5118.41
+1499,11797,Chargeback Fraud,Manual Review,2019-03-09,Investigating,20119.9
+1500,3607,Card Cloning,Manual Review,2022-04-18,Investigating,37885.25
+1501,11811,Chargeback Fraud,Customer Complaint,2020-07-08,Closed,4859.03
+1502,3619,Vishing,Manual Review,2019-07-27,Resolved,3247.66
+1503,11815,Chargeback Fraud,Manual Review,2020-01-06,Resolved,7306.58
+1504,11816,Chargeback Fraud,Manual Review,2025-04-23,Resolved,6132.24
+1505,3625,Identity Theft,Manual Review,2024-07-13,Resolved,7272.55
+1506,11818,Smishing,Customer Complaint,2025-06-09,Closed,1010.96
+1507,3623,Vishing,Customer Complaint,2024-01-27,Resolved,16789.21
+1508,11817,Account Takeover,Customer Complaint,2024-07-30,Closed,2437.73
+1509,3633,Phishing,Manual Review,2024-09-15,Resolved,1793.16
+1510,3637,Card Cloning,Customer Complaint,2022-11-17,Investigating,1390.71
+1511,11830,Account Takeover,Customer Complaint,2023-05-06,Closed,21447.61
+1512,11832,Vishing,Manual Review,2024-11-14,Closed,5248.27
+1513,3644,Chargeback Fraud,Customer Complaint,2024-11-28,Resolved,13157.68
+1514,12190,Phishing,AI Alert,2020-06-29,Resolved,10655.41
+1515,11839,Chargeback Fraud,AI Alert,2022-09-12,Investigating,25934.64
+1516,3649,Phishing,Manual Review,2024-06-18,Closed,24250.85
+1517,11843,Card Cloning,Customer Complaint,2021-09-18,Investigating,13559.27
+1518,3655,Phishing,AI Alert,2020-01-23,Closed,5202.59
+1519,11852,Identity Theft,Manual Review,2019-10-30,Closed,1492.7
+1520,11853,Card Cloning,Manual Review,2022-08-02,Closed,3330.08
+1521,11855,Vishing,AI Alert,2025-07-08,Closed,3469.81
+1522,3664,Account Takeover,AI Alert,2020-09-15,Closed,13208.15
+1523,3665,Account Takeover,Customer Complaint,2025-07-31,Resolved,12740.56
+1524,3666,Account Takeover,Customer Complaint,2022-06-03,Resolved,1925.83
+1525,3670,Identity Theft,Manual Review,2025-01-10,Closed,8512.99
+1526,3673,Identity Theft,Manual Review,2025-03-19,Closed,2269.76
+1527,3676,Vishing,AI Alert,2019-02-13,Resolved,17614.18
+1528,3681,Card Cloning,AI Alert,2023-07-28,Investigating,17989.53
+1529,11874,Card Cloning,AI Alert,2024-08-22,Resolved,12032.75
+1530,11875,Identity Theft,Manual Review,2020-07-28,Closed,1248.3
+1531,11873,Account Takeover,AI Alert,2022-09-08,Investigating,1161.1
+1532,11877,Identity Theft,Manual Review,2020-12-26,Investigating,16606.2
+1533,11876,Vishing,Manual Review,2019-08-20,Investigating,8050.79
+1534,3685,Phishing,Manual Review,2023-06-29,Resolved,5059.17
+1535,12237,Phishing,Manual Review,2020-06-14,Closed,20297.98
+1536,3693,Chargeback Fraud,AI Alert,2020-09-10,Resolved,12772.16
+1537,3694,Phishing,Customer Complaint,2020-08-31,Closed,19470.78
+1538,3695,Identity Theft,AI Alert,2020-04-18,Closed,4424.93
+1539,3696,Vishing,Manual Review,2025-02-22,Resolved,19157.26
+1540,3698,Chargeback Fraud,Customer Complaint,2022-12-19,Investigating,12494.01
+1541,11890,Account Takeover,AI Alert,2021-11-22,Closed,2759.45
+1542,3702,Identity Theft,Customer Complaint,2025-07-18,Resolved,5880.35
+1543,11895,Vishing,AI Alert,2025-01-05,Closed,1454.54
+1544,3703,Chargeback Fraud,AI Alert,2020-04-19,Investigating,14396.93
+1545,3706,Account Takeover,AI Alert,2021-03-10,Closed,23055.13
+1546,11901,Card Cloning,Manual Review,2022-01-26,Resolved,20367.15
+1547,3709,Card Cloning,Customer Complaint,2022-02-11,Closed,3344.44
+1548,3711,Account Takeover,Customer Complaint,2023-04-12,Closed,5484.6
+1549,3713,Identity Theft,Manual Review,2025-07-16,Resolved,9931.3
+1550,3714,Card Cloning,Customer Complaint,2021-03-16,Closed,8258.26
+1551,3715,Identity Theft,Manual Review,2025-03-22,Resolved,1219.2
+1552,3716,Vishing,AI Alert,2020-05-08,Closed,17014.04
+1553,11907,Vishing,AI Alert,2024-05-10,Closed,10689.86
+1554,11910,Account Takeover,Manual Review,2023-08-19,Closed,6356.13
+1555,3720,Phishing,Customer Complaint,2024-10-10,Closed,755.29
+1556,11913,Vishing,Manual Review,2023-08-13,Resolved,2250.11
+1557,11916,Account Takeover,Manual Review,2019-01-08,Closed,32652.55
+1558,11917,Card Cloning,Manual Review,2021-10-13,Closed,12287.41
+1559,11918,Card Cloning,AI Alert,2023-09-08,Resolved,19633.26
+1560,3724,Card Cloning,Customer Complaint,2022-05-08,Closed,13287.07
+1561,3732,Phishing,Customer Complaint,2021-05-01,Closed,15728.1
+1562,11927,Smishing,Customer Complaint,2021-03-29,Investigating,9649.23
+1563,11928,Identity Theft,AI Alert,2023-12-22,Investigating,7439.21
+1564,3742,Chargeback Fraud,Manual Review,2022-04-16,Closed,4829.64
+1565,11935,Card Cloning,AI Alert,2023-07-28,Investigating,19176.47
+1566,3749,Account Takeover,AI Alert,2025-07-10,Closed,8928.03
+1567,11941,Card Cloning,Manual Review,2021-10-21,Investigating,3224.81
+1568,11944,Chargeback Fraud,Customer Complaint,2020-07-18,Resolved,3818.64
+1569,3753,Phishing,Manual Review,2020-05-07,Closed,3557.14
+1570,11946,Card Cloning,Manual Review,2023-07-07,Resolved,7051.29
+1571,11951,Chargeback Fraud,Customer Complaint,2019-12-14,Resolved,2583.61
+1572,3761,Vishing,Manual Review,2022-07-17,Closed,11637.25
+1573,11956,Account Takeover,AI Alert,2024-04-27,Resolved,27931.22
+1574,11957,Phishing,AI Alert,2025-06-09,Investigating,3105.54
+1575,11958,Smishing,AI Alert,2023-02-09,Resolved,13387.98
+1576,3767,Chargeback Fraud,Customer Complaint,2020-01-17,Resolved,18174.85
+1577,3777,Phishing,AI Alert,2020-06-24,Investigating,3685.67
+1578,11972,Card Cloning,AI Alert,2024-06-19,Investigating,7082.76
+1579,3782,Card Cloning,Manual Review,2019-12-14,Investigating,2356.32
+1580,3783,Account Takeover,AI Alert,2020-02-01,Closed,9938.9
+1581,3786,Chargeback Fraud,AI Alert,2020-03-01,Resolved,21181.87
+1582,11979,Vishing,Customer Complaint,2022-08-09,Closed,18951.66
+1583,3788,Smishing,Customer Complaint,2023-02-03,Closed,5118.07
+1584,11986,Identity Theft,AI Alert,2024-07-06,Closed,5377.47
+1585,3795,Account Takeover,Manual Review,2024-09-06,Investigating,25821.25
+1586,3796,Smishing,Customer Complaint,2021-01-12,Resolved,11803.55
+1587,11991,Smishing,AI Alert,2024-07-30,Investigating,7570.26
+1588,12048,Identity Theft,AI Alert,2022-03-11,Closed,12566.28
+1589,11995,Identity Theft,Customer Complaint,2023-07-04,Resolved,10949.52
+1590,3804,Card Cloning,Manual Review,2021-05-03,Investigating,3071.92
+1591,11997,Identity Theft,Customer Complaint,2021-01-15,Investigating,15363.83
+1592,3807,Phishing,Customer Complaint,2023-06-21,Closed,8134.78
+1593,3808,Vishing,Customer Complaint,2019-04-16,Closed,11483.03
+1594,3813,Phishing,Manual Review,2025-07-11,Closed,7793.1
+1595,3814,Smishing,Manual Review,2022-07-23,Resolved,8178.99
+1596,12007,Account Takeover,Customer Complaint,2025-05-27,Closed,5530.75
+1597,3815,Identity Theft,Customer Complaint,2023-06-16,Investigating,10784.32
+1598,12236,Vishing,Customer Complaint,2021-10-11,Closed,4886.49
+1599,3825,Identity Theft,Manual Review,2025-05-04,Resolved,11862.58
+1600,12017,Chargeback Fraud,Customer Complaint,2023-01-23,Resolved,23939.77
+1601,12019,Phishing,Customer Complaint,2022-01-14,Investigating,7224.69
+1602,3829,Smishing,AI Alert,2021-02-05,Investigating,5278.76
+1603,3830,Identity Theft,Customer Complaint,2022-03-03,Investigating,507.61
+1604,3835,Chargeback Fraud,Customer Complaint,2024-03-16,Resolved,20.91
+1605,3839,Vishing,AI Alert,2019-04-09,Resolved,14653.06
+1606,3840,Identity Theft,Customer Complaint,2023-03-08,Investigating,7108.83
+1607,12033,Phishing,Customer Complaint,2019-04-30,Closed,1422.54
+1608,3842,Smishing,Manual Review,2024-06-18,Closed,9922.61
+1609,12035,Account Takeover,AI Alert,2022-09-06,Resolved,8708.26
+1610,3844,Chargeback Fraud,Customer Complaint,2025-09-04,Investigating,6508.16
+1611,12037,Identity Theft,Customer Complaint,2024-04-28,Investigating,11230.6
+1612,3847,Identity Theft,Manual Review,2021-03-25,Investigating,16799.62
+1613,3849,Smishing,Manual Review,2022-07-29,Resolved,5165.4
+1614,3859,Chargeback Fraud,Manual Review,2023-04-26,Closed,18568.54
+1615,3866,Smishing,AI Alert,2019-01-10,Investigating,8654.34
+1616,3871,Phishing,AI Alert,2021-11-14,Investigating,16589.5
+1617,3889,Identity Theft,AI Alert,2021-08-28,Closed,1307.48
+1618,3910,Card Cloning,Customer Complaint,2020-11-10,Closed,7757.95
+1619,3923,Smishing,Manual Review,2025-01-08,Investigating,3063.52
+1620,12168,Identity Theft,Manual Review,2023-11-13,Closed,11788.09
+1621,3928,Account Takeover,Customer Complaint,2022-06-13,Closed,17263.47
+1622,3943,Smishing,Customer Complaint,2022-07-21,Resolved,17150.34
+1623,3944,Card Cloning,Customer Complaint,2024-01-16,Closed,1934.15
+1624,3956,Identity Theft,Manual Review,2024-11-09,Resolved,8756.73
+1625,3957,Card Cloning,Manual Review,2021-12-28,Closed,15819.67
+1626,3959,Card Cloning,Customer Complaint,2022-02-14,Resolved,1716.3
+1627,3965,Phishing,Manual Review,2024-02-08,Investigating,2059.63
+1628,3973,Chargeback Fraud,Manual Review,2024-01-07,Resolved,1666.38
+1629,3977,Chargeback Fraud,Customer Complaint,2020-10-22,Investigating,1391.32
+1630,3979,Vishing,AI Alert,2025-03-01,Investigating,26696.08
+1631,3981,Card Cloning,Manual Review,2020-07-17,Resolved,22010.05
+1632,3983,Phishing,Customer Complaint,2020-06-10,Investigating,5734.05
+1633,12124,Smishing,Manual Review,2023-08-17,Resolved,10182.06
+1634,3998,Smishing,AI Alert,2019-01-27,Closed,16315.15
+1635,4005,Chargeback Fraud,Customer Complaint,2022-10-20,Investigating,2431.0
+1636,4008,Identity Theft,Customer Complaint,2022-12-14,Closed,2856.52
+1637,4010,Vishing,Customer Complaint,2021-05-15,Closed,4300.49
+1638,4015,Card Cloning,Customer Complaint,2022-07-11,Investigating,4846.99
+1639,4016,Smishing,Manual Review,2022-10-13,Closed,11450.12
+1640,4024,Account Takeover,Customer Complaint,2023-03-24,Closed,6820.69
+1641,4026,Card Cloning,AI Alert,2024-06-28,Resolved,17135.45
+1642,4027,Account Takeover,AI Alert,2025-01-27,Closed,8088.7
+1643,4030,Vishing,Customer Complaint,2023-07-26,Closed,996.36
+1644,4046,Vishing,AI Alert,2020-05-17,Investigating,28608.48
+1645,4050,Phishing,Customer Complaint,2021-04-28,Closed,16597.23
+1646,4052,Account Takeover,AI Alert,2025-07-30,Investigating,6838.11
+1647,4058,Identity Theft,AI Alert,2019-11-16,Investigating,3849.18
+1648,4060,Identity Theft,Manual Review,2019-09-18,Closed,3835.14
+1649,4061,Chargeback Fraud,AI Alert,2024-11-17,Closed,4863.07
+1650,4065,Chargeback Fraud,Manual Review,2019-02-11,Closed,4735.12
+1651,4077,Identity Theft,Manual Review,2021-06-28,Resolved,5671.02
+1652,4087,Chargeback Fraud,AI Alert,2025-06-23,Investigating,2388.81
+1653,4089,Chargeback Fraud,AI Alert,2022-08-18,Resolved,4576.94
+1654,4094,Account Takeover,AI Alert,2021-11-09,Investigating,368.39
+1655,4097,Account Takeover,Customer Complaint,2024-06-08,Closed,11609.34
+1656,4098,Card Cloning,Customer Complaint,2020-06-25,Resolved,18830.05
+1657,4109,Card Cloning,AI Alert,2024-09-07,Investigating,3159.88
+1658,4112,Vishing,AI Alert,2020-12-18,Resolved,13819.12
+1659,4117,Vishing,Manual Review,2019-06-06,Resolved,9319.38
+1660,4122,Vishing,Customer Complaint,2021-10-27,Closed,18362.93
+1661,4126,Identity Theft,Manual Review,2023-11-20,Resolved,402.93
+1662,4127,Chargeback Fraud,Manual Review,2020-08-23,Investigating,3619.32
+1663,4128,Vishing,Customer Complaint,2019-12-13,Closed,15917.41
+1664,4131,Phishing,AI Alert,2023-08-28,Resolved,10796.05
+1665,4132,Card Cloning,AI Alert,2023-05-03,Closed,32368.72
+1666,4133,Card Cloning,Manual Review,2023-11-14,Resolved,4239.91
+1667,4135,Card Cloning,AI Alert,2022-02-17,Investigating,1437.87
+1668,4139,Chargeback Fraud,Manual Review,2025-07-30,Closed,1319.27
+1669,4141,Smishing,AI Alert,2020-10-13,Investigating,16921.54
+1670,4144,Smishing,Customer Complaint,2023-10-24,Resolved,5525.37
+1671,4146,Phishing,AI Alert,2022-02-19,Closed,16472.07
+1672,4152,Phishing,AI Alert,2021-06-13,Resolved,19773.84
+1673,4158,Account Takeover,AI Alert,2025-07-31,Closed,8662.25
+1674,4163,Identity Theft,Manual Review,2022-05-28,Closed,5086.67
+1675,4166,Card Cloning,Manual Review,2020-07-29,Resolved,7562.52
+1676,4170,Identity Theft,Customer Complaint,2021-08-30,Resolved,7239.51
+1677,12054,Phishing,AI Alert,2022-07-02,Investigating,1766.45
+1678,4172,Phishing,AI Alert,2020-05-17,Closed,18209.9
+1679,4175,Identity Theft,Customer Complaint,2019-11-26,Investigating,12465.66
+1680,4176,Chargeback Fraud,Customer Complaint,2025-07-03,Closed,1173.11
+1681,4186,Chargeback Fraud,Manual Review,2022-05-19,Investigating,6861.55
+1682,4190,Phishing,AI Alert,2025-08-01,Investigating,4570.59
+1683,4197,Account Takeover,Customer Complaint,2021-03-10,Resolved,18822.81
+1684,4206,Vishing,Manual Review,2022-10-30,Closed,2894.04
+1685,4217,Chargeback Fraud,Customer Complaint,2024-08-26,Investigating,10254.15
+1686,4218,Phishing,Customer Complaint,2021-09-09,Investigating,1752.52
+1687,4222,Account Takeover,Manual Review,2025-02-08,Closed,3494.32
+1688,4229,Chargeback Fraud,AI Alert,2019-10-09,Resolved,12512.83
+1689,4230,Card Cloning,Manual Review,2023-03-23,Investigating,974.72
+1690,4231,Smishing,Manual Review,2020-04-20,Closed,15527.82
+1691,4234,Account Takeover,AI Alert,2022-02-28,Resolved,1482.95
+1692,4235,Card Cloning,AI Alert,2022-08-23,Resolved,1553.47
+1693,4246,Account Takeover,Customer Complaint,2021-02-16,Resolved,7768.19
+1694,4251,Account Takeover,Customer Complaint,2021-02-15,Resolved,6599.52
+1695,4257,Chargeback Fraud,Manual Review,2023-01-16,Closed,21241.36
+1696,4259,Smishing,AI Alert,2021-02-22,Investigating,21857.34
+1697,4265,Chargeback Fraud,Customer Complaint,2024-12-16,Closed,450.18
+1698,12079,Card Cloning,Customer Complaint,2024-01-07,Closed,1495.55
+1699,4276,Identity Theft,Customer Complaint,2022-11-11,Investigating,787.65
+1700,4283,Vishing,AI Alert,2019-01-02,Resolved,2541.5
+1701,4286,Chargeback Fraud,Customer Complaint,2025-02-28,Investigating,5147.89
+1702,4292,Identity Theft,Manual Review,2021-11-20,Closed,12474.98
+1703,4297,Account Takeover,AI Alert,2024-05-31,Resolved,8455.91
+1704,4298,Vishing,Customer Complaint,2025-08-05,Closed,4342.73
+1705,4299,Card Cloning,AI Alert,2025-05-23,Resolved,4728.53
+1706,4301,Identity Theft,Manual Review,2024-06-24,Closed,6694.36
+1707,4303,Phishing,AI Alert,2023-09-05,Investigating,17414.63
+1708,4306,Smishing,AI Alert,2023-07-09,Investigating,12031.88
+1709,4318,Smishing,Customer Complaint,2021-10-01,Investigating,3972.84
+1710,4322,Phishing,Manual Review,2023-12-31,Resolved,8121.84
+1711,4324,Chargeback Fraud,Manual Review,2025-06-27,Closed,9171.34
+1712,4326,Identity Theft,Manual Review,2024-09-04,Resolved,22546.35
+1713,4330,Smishing,AI Alert,2023-10-10,Closed,7080.78
+1714,4336,Identity Theft,Manual Review,2020-11-01,Resolved,764.45
+1715,4338,Phishing,AI Alert,2022-07-27,Investigating,26298.81
+1716,4354,Chargeback Fraud,Customer Complaint,2021-09-28,Investigating,28499.29
+1717,4355,Chargeback Fraud,AI Alert,2022-01-11,Resolved,2088.66
+1718,4356,Card Cloning,AI Alert,2020-02-12,Investigating,8664.73
+1719,12174,Identity Theft,AI Alert,2021-12-22,Resolved,20278.32
+1720,4377,Phishing,Manual Review,2025-05-24,Investigating,2007.71
+1721,4378,Chargeback Fraud,AI Alert,2020-08-19,Resolved,5205.03
+1722,4381,Account Takeover,Customer Complaint,2020-08-08,Investigating,11596.21
+1723,4382,Chargeback Fraud,AI Alert,2023-04-12,Resolved,9791.79
+1724,4391,Account Takeover,Manual Review,2020-10-16,Investigating,6972.88
+1725,4392,Chargeback Fraud,Manual Review,2019-03-17,Resolved,5640.58
+1726,4400,Account Takeover,AI Alert,2019-08-22,Resolved,6991.67
+1727,4403,Account Takeover,AI Alert,2021-09-10,Closed,10149.57
+1728,4414,Phishing,Customer Complaint,2025-07-02,Investigating,7353.45
+1729,4416,Card Cloning,AI Alert,2019-09-12,Resolved,14384.71
+1730,4426,Chargeback Fraud,Customer Complaint,2019-03-19,Resolved,9044.88
+1731,4429,Phishing,Customer Complaint,2019-02-28,Closed,3024.75
+1732,4434,Smishing,Customer Complaint,2023-12-11,Investigating,10083.59
+1733,4445,Chargeback Fraud,Manual Review,2024-11-24,Resolved,5813.14
+1734,4449,Chargeback Fraud,Customer Complaint,2020-04-23,Resolved,4423.65
+1735,4450,Smishing,Customer Complaint,2023-03-24,Closed,29769.46
+1736,4456,Vishing,Manual Review,2025-02-03,Investigating,10930.34
+1737,4458,Vishing,Customer Complaint,2020-10-22,Closed,10299.17
+1738,4461,Phishing,Customer Complaint,2020-04-25,Resolved,8057.24
+1739,4466,Phishing,Customer Complaint,2024-10-12,Closed,5714.32
+1740,4468,Account Takeover,Customer Complaint,2024-06-26,Closed,18823.56
+1741,4486,Identity Theft,Manual Review,2020-04-23,Closed,8886.51
+1742,4496,Card Cloning,Manual Review,2021-03-21,Closed,6619.05
+1743,4503,Chargeback Fraud,Customer Complaint,2021-12-05,Closed,12089.37
+1744,4504,Vishing,Manual Review,2019-08-10,Closed,22791.41
+1745,4505,Phishing,Customer Complaint,2021-12-30,Investigating,2029.5
+1746,4510,Account Takeover,Manual Review,2021-10-19,Closed,13548.58
+1747,4517,Account Takeover,AI Alert,2021-11-19,Resolved,2272.47
+1748,4526,Chargeback Fraud,Manual Review,2020-07-22,Investigating,15.89
+1749,4529,Identity Theft,AI Alert,2025-05-26,Investigating,20414.85
+1750,4540,Account Takeover,Manual Review,2024-05-28,Resolved,7994.95
+1751,4548,Card Cloning,Manual Review,2021-05-17,Closed,119.36
+1752,4559,Phishing,Manual Review,2020-08-21,Resolved,8536.42
+1753,4567,Smishing,Manual Review,2021-03-18,Resolved,9507.48
+1754,4572,Identity Theft,Manual Review,2021-05-22,Closed,15274.88
+1755,4573,Card Cloning,Customer Complaint,2022-04-17,Resolved,3017.67
+1756,4576,Card Cloning,AI Alert,2024-06-21,Resolved,23964.35
+1757,4577,Identity Theft,Manual Review,2025-01-18,Resolved,12879.65
+1758,12068,Vishing,Manual Review,2019-09-26,Resolved,2774.05
+1759,4580,Phishing,Customer Complaint,2020-07-16,Closed,4333.83
+1760,4581,Identity Theft,Customer Complaint,2023-10-22,Investigating,7681.11
+1761,4582,Account Takeover,Manual Review,2019-05-29,Resolved,5077.98
+1762,4585,Card Cloning,AI Alert,2024-02-19,Closed,20830.41
+1763,4588,Vishing,AI Alert,2025-04-17,Closed,20580.79
+1764,4607,Chargeback Fraud,Manual Review,2024-12-12,Investigating,21680.73
+1765,4615,Phishing,Manual Review,2019-06-04,Resolved,4241.6
+1766,4620,Identity Theft,AI Alert,2023-08-25,Investigating,9373.03
+1767,4621,Phishing,Manual Review,2020-12-04,Resolved,6171.62
+1768,4624,Account Takeover,AI Alert,2022-05-12,Resolved,1159.73
+1769,4630,Phishing,AI Alert,2022-06-01,Resolved,3724.85
+1770,4636,Phishing,Manual Review,2019-05-17,Investigating,11487.64
+1771,4641,Identity Theft,Manual Review,2022-01-01,Investigating,8715.6
+1772,4647,Phishing,Customer Complaint,2021-10-26,Resolved,4798.95
+1773,4648,Smishing,Manual Review,2024-04-22,Closed,1694.43
+1774,4655,Card Cloning,Manual Review,2019-07-21,Resolved,6277.41
+1775,4658,Card Cloning,Manual Review,2023-03-23,Resolved,6791.5
+1776,4662,Account Takeover,AI Alert,2019-02-23,Closed,23929.36
+1777,4668,Chargeback Fraud,Manual Review,2021-08-24,Investigating,6334.61
+1778,4669,Card Cloning,Customer Complaint,2022-10-15,Investigating,13822.83
+1779,4671,Vishing,Customer Complaint,2024-03-18,Investigating,8345.53
+1780,4672,Smishing,Customer Complaint,2024-12-11,Investigating,16819.84
+1781,4673,Card Cloning,AI Alert,2019-06-23,Resolved,12813.89
+1782,4692,Smishing,Customer Complaint,2022-02-14,Closed,10590.57
+1783,4693,Identity Theft,Manual Review,2021-12-13,Investigating,3272.82
+1784,4694,Chargeback Fraud,AI Alert,2024-09-26,Investigating,17455.53
+1785,4697,Chargeback Fraud,Manual Review,2021-12-13,Investigating,18830.22
+1786,4698,Phishing,Customer Complaint,2021-03-04,Closed,5871.7
+1787,12106,Vishing,Customer Complaint,2025-08-30,Closed,2837.72
+1788,4711,Chargeback Fraud,Manual Review,2023-06-07,Resolved,53.42
+1789,4720,Identity Theft,AI Alert,2024-04-28,Resolved,7127.56
+1790,4721,Chargeback Fraud,AI Alert,2024-03-17,Closed,7804.29
+1791,4733,Chargeback Fraud,Customer Complaint,2021-05-14,Closed,5423.45
+1792,4734,Account Takeover,Manual Review,2022-05-11,Resolved,26308.4
+1793,4737,Identity Theft,Manual Review,2020-08-20,Investigating,10237.08
+1794,4743,Chargeback Fraud,AI Alert,2019-04-09,Resolved,1701.33
+1795,4744,Identity Theft,Customer Complaint,2023-03-27,Investigating,12622.39
+1796,4749,Chargeback Fraud,AI Alert,2019-07-05,Investigating,10415.01
+1797,4754,Card Cloning,Manual Review,2024-12-21,Closed,3379.6
+1798,4756,Account Takeover,Customer Complaint,2025-10-05,Investigating,25653.68
+1799,4760,Account Takeover,Customer Complaint,2019-04-13,Investigating,6989.27
+1800,4766,Account Takeover,Manual Review,2021-09-13,Closed,20025.12
+1801,4772,Vishing,Customer Complaint,2019-08-12,Investigating,5236.99
+1802,4777,Identity Theft,AI Alert,2022-01-11,Investigating,18205.83
+1803,4779,Smishing,AI Alert,2024-04-12,Resolved,174.07
+1804,4780,Chargeback Fraud,Customer Complaint,2024-03-24,Closed,7979.37
+1805,4787,Card Cloning,Customer Complaint,2021-02-01,Resolved,2365.26
+1806,4788,Identity Theft,AI Alert,2021-08-27,Resolved,16976.8
+1807,4790,Vishing,Customer Complaint,2024-10-21,Resolved,8225.4
+1808,4793,Phishing,Manual Review,2021-02-06,Investigating,7647.74
+1809,4794,Phishing,Customer Complaint,2019-07-10,Closed,21444.22
+1810,4823,Phishing,Manual Review,2024-11-29,Closed,5492.74
+1811,4827,Smishing,Customer Complaint,2019-12-07,Resolved,15683.69
+1812,4829,Phishing,Customer Complaint,2020-04-14,Investigating,8588.08
+1813,4831,Account Takeover,Manual Review,2021-02-06,Resolved,6505.93
+1814,4832,Chargeback Fraud,Customer Complaint,2020-10-20,Investigating,1547.47
+1815,4833,Chargeback Fraud,AI Alert,2024-01-02,Resolved,2157.76
+1816,4847,Chargeback Fraud,Customer Complaint,2020-03-18,Closed,8617.25
+1817,4852,Account Takeover,AI Alert,2024-03-30,Closed,3881.5
+1818,4855,Card Cloning,Customer Complaint,2019-08-16,Closed,8193.78
+1819,4858,Phishing,AI Alert,2019-06-28,Closed,3917.09
+1820,4863,Smishing,AI Alert,2021-01-17,Closed,2065.81
+1821,4880,Phishing,Customer Complaint,2020-10-13,Closed,30505.86
+1822,4881,Chargeback Fraud,AI Alert,2023-05-09,Closed,9130.43
+1823,4883,Smishing,Customer Complaint,2023-09-04,Closed,14525.04
+1824,4887,Chargeback Fraud,AI Alert,2020-06-29,Resolved,183.52
+1825,4889,Smishing,Manual Review,2025-10-26,Resolved,12825.01
+1826,4891,Chargeback Fraud,Customer Complaint,2024-08-14,Investigating,5278.42
+1827,12092,Chargeback Fraud,Customer Complaint,2023-11-23,Closed,6628.47
+1828,12046,Account Takeover,AI Alert,2021-08-25,Closed,12806.92
+1829,4908,Chargeback Fraud,AI Alert,2019-12-23,Closed,21778.65
+1830,4911,Smishing,AI Alert,2020-09-03,Closed,4815.36
+1831,4914,Chargeback Fraud,Manual Review,2021-04-17,Investigating,16354.13
+1832,4920,Vishing,Manual Review,2020-01-26,Investigating,668.53
+1833,4923,Identity Theft,Manual Review,2025-06-17,Closed,4151.16
+1834,4930,Phishing,Manual Review,2019-10-11,Investigating,6811.3
+1835,4934,Identity Theft,Customer Complaint,2024-02-25,Closed,17642.97
+1836,4935,Chargeback Fraud,Manual Review,2021-03-25,Closed,5729.47
+1837,4936,Chargeback Fraud,Customer Complaint,2024-12-06,Closed,5651.51
+1838,12219,Card Cloning,Customer Complaint,2023-09-01,Investigating,178.52
+1839,4945,Account Takeover,AI Alert,2019-06-14,Resolved,14930.49
+1840,4947,Chargeback Fraud,AI Alert,2022-05-22,Closed,7323.12
+1841,4953,Chargeback Fraud,Customer Complaint,2019-07-31,Closed,20519.3
+1842,12229,Vishing,Customer Complaint,2022-03-18,Investigating,3976.71
+1843,4962,Smishing,Customer Complaint,2019-11-24,Closed,3999.93
+1844,4964,Chargeback Fraud,AI Alert,2023-08-02,Resolved,7152.93
+1845,4966,Identity Theft,AI Alert,2020-01-11,Investigating,4307.11
+1846,4968,Account Takeover,Customer Complaint,2023-09-03,Investigating,4874.05
+1847,4973,Account Takeover,AI Alert,2019-09-27,Investigating,20311.25
+1848,4975,Card Cloning,Customer Complaint,2022-05-30,Closed,864.88
+1849,4977,Card Cloning,Customer Complaint,2021-02-07,Investigating,6948.43
+1850,4994,Phishing,Customer Complaint,2022-08-06,Investigating,14418.2
+1851,5023,Phishing,Customer Complaint,2019-03-02,Closed,18779.2
+1852,5027,Identity Theft,Customer Complaint,2019-03-22,Resolved,7779.06
+1853,5034,Vishing,AI Alert,2022-11-29,Resolved,1626.28
+1854,5038,Card Cloning,AI Alert,2022-11-12,Resolved,28369.2
+1855,5042,Phishing,Customer Complaint,2020-03-29,Resolved,976.77
+1856,5044,Chargeback Fraud,Customer Complaint,2021-05-26,Closed,1735.8
+1857,5047,Account Takeover,Manual Review,2022-05-17,Resolved,27211.27
+1858,5048,Card Cloning,AI Alert,2024-07-31,Resolved,3010.08
+1859,5051,Phishing,Manual Review,2024-10-04,Investigating,14160.85
+1860,5057,Vishing,Customer Complaint,2022-08-17,Resolved,5777.67
+1861,12230,Chargeback Fraud,AI Alert,2019-07-27,Resolved,10011.62
+1862,5078,Smishing,AI Alert,2022-08-06,Closed,7353.52
+1863,5081,Account Takeover,Manual Review,2019-11-26,Closed,2786.37
+1864,5096,Smishing,AI Alert,2021-08-28,Investigating,8409.68
+1865,5101,Chargeback Fraud,Customer Complaint,2023-09-14,Closed,326.19
+1866,5107,Identity Theft,Manual Review,2021-06-22,Closed,2865.55
+1867,12196,Account Takeover,Manual Review,2025-03-18,Closed,1546.77
+1868,5129,Phishing,Customer Complaint,2022-06-30,Closed,14517.05
+1869,5133,Smishing,Manual Review,2022-03-12,Resolved,15940.82
+1870,5135,Vishing,Customer Complaint,2020-07-15,Closed,15992.11
+1871,5144,Vishing,Manual Review,2025-08-23,Resolved,3979.45
+1872,5152,Vishing,AI Alert,2021-06-10,Closed,2516.42
+1873,5155,Phishing,Manual Review,2022-01-02,Closed,23698.16
+1874,5159,Vishing,Manual Review,2025-10-06,Resolved,8872.01
+1875,5165,Account Takeover,Customer Complaint,2019-03-06,Resolved,11068.63
+1876,5168,Vishing,AI Alert,2024-12-31,Closed,16568.47
+1877,5174,Phishing,Manual Review,2023-03-23,Resolved,11767.29
+1878,5178,Smishing,Manual Review,2019-11-16,Resolved,5117.07
+1879,12226,Account Takeover,AI Alert,2020-01-01,Closed,3187.06
+1880,5183,Vishing,Manual Review,2023-01-07,Investigating,17400.98
+1881,5189,Chargeback Fraud,AI Alert,2019-02-15,Closed,10978.67
+1882,5191,Chargeback Fraud,AI Alert,2023-03-10,Resolved,15762.42
+1883,5192,Smishing,Manual Review,2022-10-18,Resolved,7507.6
+1884,5194,Account Takeover,Customer Complaint,2021-08-12,Resolved,5077.91
+1885,5200,Identity Theft,Customer Complaint,2025-08-22,Investigating,16730.93
+1886,5204,Identity Theft,Manual Review,2024-07-01,Investigating,2167.82
+1887,5209,Account Takeover,Manual Review,2022-04-09,Closed,3571.43
+1888,5218,Smishing,Customer Complaint,2021-08-08,Closed,13023.07
+1889,5221,Card Cloning,Customer Complaint,2022-07-05,Closed,3448.23
+1890,5223,Vishing,Customer Complaint,2022-05-20,Investigating,7248.22
+1891,5224,Phishing,Customer Complaint,2019-05-02,Resolved,11479.39
+1892,5233,Smishing,Manual Review,2021-10-26,Resolved,30228.86
+1893,5240,Identity Theft,AI Alert,2024-10-16,Resolved,10566.69
+1894,5245,Chargeback Fraud,Manual Review,2022-11-01,Investigating,2396.14
+1895,5250,Chargeback Fraud,Customer Complaint,2024-05-10,Investigating,1948.1
+1896,5253,Identity Theft,Manual Review,2019-05-11,Closed,17238.12
+1897,5254,Account Takeover,Manual Review,2021-08-05,Investigating,6169.64
+1898,5258,Smishing,AI Alert,2022-11-11,Closed,10338.8
+1899,5269,Vishing,Manual Review,2023-04-14,Closed,24816.54
+1900,5280,Chargeback Fraud,AI Alert,2019-10-09,Resolved,2221.69
+1901,5288,Smishing,Manual Review,2024-10-06,Investigating,8670.89
+1902,5299,Card Cloning,Manual Review,2021-05-30,Closed,6882.49
+1903,5308,Smishing,Manual Review,2021-04-07,Closed,11642.83
+1904,5310,Card Cloning,AI Alert,2019-04-22,Resolved,18360.09
+1905,5315,Vishing,Customer Complaint,2022-03-13,Resolved,2405.6
+1906,5321,Phishing,AI Alert,2025-10-22,Resolved,19579.46
+1907,5328,Phishing,Customer Complaint,2023-04-01,Closed,7584.32
+1908,5336,Identity Theft,AI Alert,2021-01-22,Investigating,4801.81
+1909,5338,Account Takeover,Customer Complaint,2023-12-09,Investigating,26419.17
+1910,5342,Vishing,Customer Complaint,2020-07-17,Resolved,7059.19
+1911,5344,Account Takeover,AI Alert,2020-01-26,Closed,888.17
+1912,5348,Phishing,AI Alert,2020-10-03,Investigating,8606.16
+1913,5353,Vishing,Customer Complaint,2020-05-31,Resolved,13120.54
+1914,5354,Phishing,Manual Review,2021-06-04,Investigating,4287.68
+1915,5360,Identity Theft,Customer Complaint,2021-04-04,Resolved,1051.91
+1916,5364,Identity Theft,Manual Review,2022-06-12,Closed,26955.24
+1917,5367,Vishing,AI Alert,2021-06-15,Resolved,4500.97
+1918,5369,Smishing,Customer Complaint,2021-12-21,Resolved,9526.1
+1919,5370,Phishing,Customer Complaint,2019-05-26,Closed,4801.59
+1920,5374,Phishing,AI Alert,2021-06-23,Investigating,2269.84
+1921,5376,Identity Theft,AI Alert,2025-01-22,Investigating,14514.64
+1922,5378,Phishing,Customer Complaint,2024-07-13,Investigating,23629.19
+1923,5384,Vishing,Manual Review,2025-01-06,Investigating,7956.55
+1924,5391,Chargeback Fraud,AI Alert,2024-08-31,Resolved,3568.85
+1925,5396,Account Takeover,AI Alert,2022-12-20,Investigating,1648.49
+1926,5400,Phishing,AI Alert,2022-07-28,Closed,5083.93
+1927,12139,Phishing,AI Alert,2025-07-10,Investigating,14737.93
+1928,5408,Identity Theft,Customer Complaint,2021-11-30,Investigating,25701.73
+1929,5409,Account Takeover,Customer Complaint,2019-01-02,Closed,14203.53
+1930,5413,Card Cloning,Customer Complaint,2019-08-10,Investigating,11668.78
+1931,5419,Phishing,AI Alert,2020-03-23,Resolved,22945.78
+1932,5431,Vishing,Manual Review,2021-01-02,Resolved,7812.63
+1933,5434,Account Takeover,Manual Review,2023-06-01,Closed,10050.4
+1934,5436,Phishing,Customer Complaint,2022-06-28,Investigating,5537.72
+1935,5440,Vishing,AI Alert,2019-02-06,Investigating,11819.96
+1936,5444,Chargeback Fraud,AI Alert,2022-06-13,Investigating,16373.23
+1937,5453,Vishing,AI Alert,2019-07-30,Closed,14960.7
+1938,5467,Account Takeover,Manual Review,2023-03-19,Resolved,2291.4
+1939,5473,Chargeback Fraud,AI Alert,2020-11-16,Closed,3768.12
+1940,5476,Chargeback Fraud,Manual Review,2021-01-14,Resolved,6004.58
+1941,5481,Phishing,Customer Complaint,2025-06-12,Closed,29555.81
+1942,5483,Chargeback Fraud,AI Alert,2021-07-06,Closed,14219.64
+1943,5487,Card Cloning,Manual Review,2021-05-21,Closed,17738.82
+1944,5491,Account Takeover,Customer Complaint,2020-02-16,Resolved,10608.4
+1945,5494,Phishing,Manual Review,2021-12-28,Investigating,10455.36
+1946,5495,Phishing,AI Alert,2019-05-23,Resolved,10825.29
+1947,5498,Account Takeover,Manual Review,2024-05-17,Closed,15739.65
+1948,5506,Account Takeover,Manual Review,2022-05-11,Resolved,3808.9
+1949,5508,Smishing,Customer Complaint,2022-09-16,Closed,15444.14
+1950,12231,Vishing,Manual Review,2020-08-10,Investigating,527.83
+1951,5513,Identity Theft,Customer Complaint,2021-03-28,Resolved,11734.69
+1952,5515,Account Takeover,Customer Complaint,2021-09-27,Resolved,5912.08
+1953,5517,Phishing,Manual Review,2023-07-23,Investigating,260.56
+1954,5520,Card Cloning,Customer Complaint,2025-07-19,Investigating,9699.92
+1955,5524,Vishing,Customer Complaint,2019-10-09,Investigating,2482.09
+1956,5525,Account Takeover,AI Alert,2022-02-05,Investigating,330.35
+1957,5529,Account Takeover,Manual Review,2022-03-22,Resolved,6138.65
+1958,5538,Card Cloning,Manual Review,2025-10-21,Resolved,7895.2
+1959,5544,Phishing,Manual Review,2025-09-27,Resolved,7931.65
+1960,5545,Card Cloning,AI Alert,2020-12-18,Closed,10413.68
+1961,5547,Identity Theft,Customer Complaint,2021-02-05,Closed,9071.52
+1962,12127,Vishing,AI Alert,2024-12-21,Closed,14925.69
+1963,5550,Card Cloning,Customer Complaint,2025-02-10,Closed,9217.15
+1964,5551,Account Takeover,Manual Review,2025-01-05,Closed,2749.4
+1965,5552,Chargeback Fraud,Customer Complaint,2022-06-11,Investigating,24925.85
+1966,5554,Vishing,Manual Review,2024-02-05,Investigating,7588.4
+1967,5560,Card Cloning,Manual Review,2021-02-24,Resolved,1504.9
+1968,5563,Smishing,Manual Review,2022-03-09,Investigating,14750.79
+1969,5566,Card Cloning,Manual Review,2025-05-05,Investigating,11340.85
+1970,5580,Phishing,AI Alert,2025-04-01,Resolved,11848.1
+1971,5583,Chargeback Fraud,Manual Review,2023-06-21,Investigating,14476.79
+1972,5585,Identity Theft,AI Alert,2024-10-12,Closed,2976.43
+1973,12090,Smishing,Manual Review,2024-04-02,Resolved,2341.36
+1974,5602,Card Cloning,AI Alert,2023-05-28,Closed,5605.8
+1975,5611,Phishing,Manual Review,2023-06-13,Investigating,2677.5
+1976,5614,Phishing,Manual Review,2021-01-05,Closed,7129.28
+1977,5622,Account Takeover,Manual Review,2023-01-13,Closed,45072.49
+1978,5629,Phishing,Customer Complaint,2019-05-14,Investigating,1508.7
+1979,5638,Vishing,Customer Complaint,2024-01-31,Resolved,16793.19
+1980,5647,Account Takeover,AI Alert,2023-01-18,Closed,12137.65
+1981,5656,Account Takeover,Manual Review,2019-12-31,Resolved,5617.05
+1982,5668,Account Takeover,Customer Complaint,2025-08-08,Closed,21667.59
+1983,5670,Phishing,AI Alert,2020-12-27,Investigating,10013.2
+1984,5675,Account Takeover,AI Alert,2024-04-20,Resolved,8346.62
+1985,5679,Vishing,AI Alert,2020-08-11,Closed,16692.74
+1986,5683,Smishing,Customer Complaint,2022-06-04,Investigating,9288.99
+1987,12206,Identity Theft,AI Alert,2023-06-23,Closed,782.24
+1988,5699,Phishing,AI Alert,2022-08-21,Investigating,6088.13
+1989,5701,Vishing,Customer Complaint,2019-03-24,Investigating,12928.09
+1990,5704,Vishing,Manual Review,2025-04-09,Resolved,3675.46
+1991,5705,Account Takeover,Manual Review,2021-09-05,Investigating,28249.76
+1992,5708,Card Cloning,Customer Complaint,2025-07-23,Investigating,13147.25
+1993,5714,Smishing,Manual Review,2020-01-16,Investigating,1029.72
+1994,5721,Chargeback Fraud,Customer Complaint,2024-02-14,Closed,15701.52
+1995,5726,Chargeback Fraud,Customer Complaint,2022-11-22,Investigating,23805.16
+1996,5734,Account Takeover,AI Alert,2024-11-18,Resolved,6156.39
+1997,5739,Identity Theft,Customer Complaint,2020-05-08,Resolved,25794.42
+1998,5744,Smishing,Manual Review,2019-09-24,Closed,9370.71
+1999,5751,Phishing,AI Alert,2022-06-01,Closed,6565.1
+2000,5756,Smishing,Manual Review,2020-07-17,Closed,7323.04
+2001,5759,Phishing,Customer Complaint,2020-03-30,Resolved,5697.86
+2002,5764,Account Takeover,Customer Complaint,2019-09-24,Resolved,19982.11
+2003,5779,Card Cloning,AI Alert,2024-06-08,Investigating,2780.07
+2004,5790,Phishing,AI Alert,2021-06-09,Resolved,14440.02
+2005,5795,Vishing,AI Alert,2023-05-21,Closed,4437.99
+2006,5798,Vishing,Manual Review,2020-07-20,Resolved,8998.46
+2007,5802,Vishing,AI Alert,2023-05-03,Investigating,14935.76
+2008,5811,Card Cloning,Customer Complaint,2023-07-10,Resolved,10518.45
+2009,5813,Card Cloning,Customer Complaint,2025-04-20,Investigating,823.74
+2010,5819,Phishing,Manual Review,2019-11-08,Resolved,3227.84
+2011,5820,Chargeback Fraud,AI Alert,2022-05-11,Investigating,5914.93
+2012,5822,Identity Theft,Customer Complaint,2020-11-16,Closed,11557.57
+2013,5824,Identity Theft,AI Alert,2021-05-04,Closed,10031.73
+2014,5825,Chargeback Fraud,Customer Complaint,2019-10-15,Investigating,17427.96
+2015,5832,Card Cloning,Manual Review,2019-06-24,Investigating,17537.82
+2016,5840,Card Cloning,AI Alert,2020-10-19,Resolved,10135.79
+2017,5847,Smishing,Manual Review,2024-07-14,Closed,24162.18
+2018,5851,Phishing,Customer Complaint,2024-05-28,Investigating,1522.63
+2019,5856,Account Takeover,Manual Review,2021-09-03,Investigating,9085.85
+2020,5862,Phishing,AI Alert,2023-12-10,Resolved,24131.74
+2021,5864,Phishing,Customer Complaint,2020-05-25,Investigating,33.23
+2022,5865,Chargeback Fraud,Customer Complaint,2024-08-17,Resolved,17619.65
+2023,5868,Account Takeover,AI Alert,2019-10-22,Resolved,21612.16
+2024,5869,Identity Theft,Manual Review,2025-09-30,Resolved,16133.47
+2025,5877,Identity Theft,Manual Review,2019-05-30,Resolved,3566.43
+2026,5881,Phishing,AI Alert,2020-06-09,Closed,21242.32
+2027,5885,Chargeback Fraud,Customer Complaint,2020-03-07,Closed,8242.1
+2028,5886,Vishing,Customer Complaint,2019-01-07,Investigating,19393.65
+2029,5892,Vishing,Customer Complaint,2025-01-30,Resolved,20506.1
+2030,5897,Card Cloning,Manual Review,2022-04-08,Closed,7257.84
+2031,5898,Account Takeover,AI Alert,2022-07-17,Investigating,5121.75
+2032,5899,Vishing,Customer Complaint,2022-08-17,Closed,8912.13
+2033,5901,Account Takeover,AI Alert,2022-09-12,Closed,11162.47
+2034,5905,Chargeback Fraud,Customer Complaint,2023-10-07,Resolved,2697.17
+2035,5907,Smishing,Customer Complaint,2019-02-03,Resolved,21941.06
+2036,5912,Account Takeover,AI Alert,2023-11-16,Investigating,25143.12
+2037,5916,Smishing,AI Alert,2021-01-15,Closed,7691.97
+2038,5921,Smishing,AI Alert,2022-02-24,Resolved,15686.54
+2039,5923,Phishing,AI Alert,2022-03-07,Closed,24959.08
+2040,5924,Vishing,AI Alert,2020-05-21,Resolved,838.75
+2041,5925,Account Takeover,Customer Complaint,2020-08-02,Investigating,22219.67
+2042,5929,Smishing,AI Alert,2024-10-23,Investigating,682.63
+2043,5934,Card Cloning,Customer Complaint,2022-10-30,Resolved,15626.61
+2044,5941,Smishing,Manual Review,2024-09-29,Investigating,10082.54
+2045,5942,Chargeback Fraud,AI Alert,2021-05-28,Closed,9105.97
+2046,5945,Card Cloning,AI Alert,2020-07-27,Investigating,3954.27
+2047,5951,Account Takeover,AI Alert,2022-09-18,Resolved,981.6
+2048,5955,Vishing,Customer Complaint,2019-01-27,Resolved,12647.21
+2049,5960,Card Cloning,Manual Review,2025-08-12,Closed,284.96
+2050,5963,Vishing,AI Alert,2019-10-30,Resolved,12811.25
+2051,5965,Card Cloning,AI Alert,2023-03-23,Closed,8569.21
+2052,5980,Phishing,Customer Complaint,2020-02-28,Investigating,19854.24
+2053,5982,Smishing,Manual Review,2020-05-27,Resolved,32820.3
+2054,5989,Account Takeover,Customer Complaint,2023-02-16,Resolved,1011.45
+2055,5994,Chargeback Fraud,Customer Complaint,2021-08-27,Closed,8376.12
+2056,5995,Chargeback Fraud,Manual Review,2025-06-04,Closed,498.14
+2057,6000,Phishing,AI Alert,2019-12-28,Resolved,7006.19
+2058,6003,Vishing,Manual Review,2022-07-01,Investigating,18205.02
+2059,6013,Card Cloning,AI Alert,2021-03-22,Resolved,12473.09
+2060,6027,Card Cloning,AI Alert,2019-07-23,Resolved,21456.36
+2061,6035,Card Cloning,Customer Complaint,2023-11-14,Resolved,3815.26
+2062,6044,Smishing,Customer Complaint,2023-10-24,Resolved,24515.28
+2063,6058,Card Cloning,AI Alert,2022-12-21,Closed,6129.9
+2064,6061,Phishing,Customer Complaint,2023-04-07,Resolved,4787.64
+2065,6062,Smishing,Manual Review,2022-01-02,Resolved,26224.07
+2066,6063,Card Cloning,Manual Review,2021-04-11,Investigating,3023.39
+2067,6079,Identity Theft,AI Alert,2021-12-27,Closed,16634.34
+2068,6080,Account Takeover,AI Alert,2024-04-24,Investigating,4635.92
+2069,6081,Smishing,Manual Review,2020-12-03,Resolved,15783.96
+2070,6088,Phishing,Customer Complaint,2019-03-31,Resolved,23015.64
+2071,6089,Card Cloning,Manual Review,2023-07-24,Closed,6562.36
+2072,6095,Smishing,Manual Review,2022-05-21,Investigating,15332.12
+2073,6103,Identity Theft,Customer Complaint,2020-07-16,Resolved,3173.27
+2074,6104,Chargeback Fraud,Customer Complaint,2023-10-22,Resolved,1968.88
+2075,6109,Smishing,AI Alert,2023-06-20,Investigating,9164.03
+2076,6111,Chargeback Fraud,Manual Review,2019-02-19,Closed,13457.27
+2077,6125,Account Takeover,Customer Complaint,2019-03-11,Closed,9084.48
+2078,6131,Smishing,Customer Complaint,2021-07-03,Resolved,4865.64
+2079,6133,Chargeback Fraud,AI Alert,2020-12-12,Closed,24787.05
+2080,6137,Identity Theft,Customer Complaint,2019-06-17,Investigating,16632.14
+2081,6138,Vishing,AI Alert,2021-12-28,Investigating,20133.27
+2082,6139,Smishing,Customer Complaint,2022-11-13,Investigating,4131.48
+2083,6140,Account Takeover,Customer Complaint,2021-07-01,Resolved,16259.04
+2084,6141,Phishing,Manual Review,2022-06-18,Closed,7842.58
+2085,6149,Chargeback Fraud,AI Alert,2020-03-21,Resolved,13948.09
+2086,6156,Card Cloning,AI Alert,2022-09-25,Closed,22007.47
+2087,6161,Account Takeover,AI Alert,2022-11-13,Resolved,10195.01
+2088,6162,Card Cloning,Customer Complaint,2021-08-10,Resolved,13127.49
+2089,6170,Phishing,AI Alert,2020-12-26,Closed,5118.22
+2090,6174,Identity Theft,Manual Review,2020-05-10,Investigating,2311.74
+2091,6178,Identity Theft,AI Alert,2019-09-14,Closed,29863.57
+2092,6180,Chargeback Fraud,AI Alert,2022-03-10,Resolved,13864.77
+2093,6185,Identity Theft,Customer Complaint,2023-10-21,Investigating,13465.7
+2094,6196,Card Cloning,Manual Review,2024-09-03,Investigating,4025.56
+2095,6204,Vishing,Manual Review,2024-02-12,Closed,38848.92
+2096,6212,Chargeback Fraud,Customer Complaint,2021-04-20,Resolved,429.34
+2097,6219,Phishing,AI Alert,2025-09-19,Investigating,4031.78
+2098,6222,Chargeback Fraud,Customer Complaint,2024-01-29,Investigating,12564.01
+2099,6224,Phishing,Customer Complaint,2023-12-14,Resolved,2797.13
+2100,6226,Vishing,AI Alert,2020-12-29,Investigating,2039.58
+2101,6231,Chargeback Fraud,Customer Complaint,2023-01-15,Investigating,9491.4
+2102,6245,Identity Theft,Customer Complaint,2020-04-26,Closed,28627.1
+2103,6247,Identity Theft,Customer Complaint,2020-07-19,Resolved,240.86
+2104,6252,Phishing,AI Alert,2019-10-18,Resolved,14319.21
+2105,6253,Account Takeover,AI Alert,2019-08-01,Resolved,11469.08
+2106,6259,Account Takeover,AI Alert,2021-08-06,Resolved,2123.67
+2107,6261,Chargeback Fraud,Manual Review,2023-12-11,Closed,3616.56
+2108,6265,Phishing,Manual Review,2023-03-17,Closed,19166.2
+2109,6270,Phishing,AI Alert,2023-05-03,Investigating,20456.7
+2110,6275,Smishing,Manual Review,2025-06-12,Closed,25760.76
+2111,6280,Smishing,Customer Complaint,2025-06-16,Investigating,9090.41
+2112,6289,Smishing,Customer Complaint,2024-05-20,Closed,22009.41
+2113,12064,Phishing,Customer Complaint,2019-11-03,Closed,19498.36
+2114,6305,Phishing,Customer Complaint,2023-10-31,Closed,12740.69
+2115,6306,Vishing,AI Alert,2021-08-27,Resolved,13539.48
+2116,6307,Phishing,Manual Review,2023-11-21,Resolved,12386.55
+2117,6312,Chargeback Fraud,AI Alert,2023-12-06,Closed,14016.58
+2118,6318,Smishing,AI Alert,2020-07-03,Investigating,3562.33
+2119,6319,Phishing,Customer Complaint,2022-02-16,Investigating,28848.0
+2120,6323,Vishing,Customer Complaint,2024-09-28,Investigating,12481.11
+2121,6327,Identity Theft,Customer Complaint,2021-09-17,Investigating,7741.33
+2122,6331,Account Takeover,Customer Complaint,2022-07-31,Investigating,3102.73
+2123,6338,Chargeback Fraud,AI Alert,2019-06-28,Resolved,7014.81
+2124,6343,Account Takeover,AI Alert,2019-11-21,Investigating,4786.71
+2125,6346,Card Cloning,Customer Complaint,2024-10-18,Closed,3039.57
+2126,6356,Chargeback Fraud,AI Alert,2020-12-10,Closed,14002.46
+2127,6374,Chargeback Fraud,Customer Complaint,2022-12-01,Closed,10742.07
+2128,6395,Phishing,Manual Review,2020-04-12,Closed,5683.03
+2129,6397,Card Cloning,AI Alert,2024-02-12,Closed,3201.63
+2130,6404,Chargeback Fraud,AI Alert,2020-04-24,Investigating,20761.59
+2131,6410,Identity Theft,AI Alert,2024-07-24,Closed,3611.0
+2132,6420,Vishing,Manual Review,2020-01-02,Resolved,7941.7
+2133,6435,Identity Theft,Manual Review,2022-05-11,Investigating,5583.43
+2134,6446,Identity Theft,Manual Review,2024-09-08,Investigating,1319.19
+2135,6458,Chargeback Fraud,Customer Complaint,2025-08-22,Closed,12531.84
+2136,6461,Card Cloning,Customer Complaint,2022-01-16,Closed,21130.55
+2137,6464,Phishing,Manual Review,2023-03-27,Investigating,7648.59
+2138,6469,Identity Theft,Manual Review,2025-03-21,Investigating,9832.42
+2139,6477,Vishing,Customer Complaint,2020-12-07,Resolved,12727.46
+2140,6481,Smishing,Manual Review,2019-01-13,Investigating,10543.81
+2141,6483,Vishing,AI Alert,2021-11-13,Resolved,12647.76
+2142,6497,Card Cloning,AI Alert,2023-01-27,Resolved,11505.98
+2143,6498,Account Takeover,Customer Complaint,2021-03-14,Resolved,5768.36
+2144,6499,Account Takeover,Customer Complaint,2021-10-30,Investigating,7969.29
+2145,6500,Vishing,Manual Review,2022-01-25,Closed,11188.67
+2146,6514,Chargeback Fraud,Customer Complaint,2023-12-26,Closed,2499.35
+2147,6515,Card Cloning,Customer Complaint,2024-04-15,Closed,5579.86
+2148,6517,Vishing,Manual Review,2021-03-24,Closed,5954.07
+2149,6519,Account Takeover,AI Alert,2019-07-21,Closed,3694.81
+2150,6529,Chargeback Fraud,Manual Review,2023-05-25,Investigating,29936.41
+2151,6530,Smishing,Customer Complaint,2025-06-14,Investigating,14938.62
+2152,6531,Vishing,Manual Review,2020-06-13,Resolved,1933.48
+2153,6542,Smishing,AI Alert,2021-03-09,Investigating,11576.97
+2154,6544,Identity Theft,Manual Review,2019-02-13,Investigating,6306.91
+2155,6546,Smishing,AI Alert,2019-02-25,Investigating,5532.5
+2156,6557,Chargeback Fraud,Customer Complaint,2021-05-02,Investigating,308.48
+2157,6561,Phishing,AI Alert,2020-06-02,Investigating,3556.23
+2158,6563,Identity Theft,Customer Complaint,2019-12-14,Investigating,14493.62
+2159,6564,Vishing,Customer Complaint,2023-10-29,Closed,13784.15
+2160,6568,Card Cloning,AI Alert,2020-03-23,Closed,1280.56
+2161,6573,Vishing,Manual Review,2024-03-23,Resolved,24045.92
+2162,6579,Vishing,Customer Complaint,2020-03-20,Closed,9062.95
+2163,6586,Phishing,Manual Review,2021-04-09,Resolved,8165.48
+2164,6587,Account Takeover,Customer Complaint,2022-10-07,Resolved,21989.08
+2165,6593,Smishing,Manual Review,2025-03-05,Closed,13165.51
+2166,6597,Card Cloning,AI Alert,2025-01-22,Closed,6610.59
+2167,6598,Smishing,Customer Complaint,2019-12-17,Investigating,16002.75
+2168,6604,Phishing,Manual Review,2019-01-16,Closed,2353.64
+2169,6606,Smishing,Customer Complaint,2025-04-14,Resolved,29542.31
+2170,6611,Phishing,Customer Complaint,2022-12-22,Investigating,18200.28
+2171,6617,Vishing,Manual Review,2020-09-12,Investigating,4249.66
+2172,6621,Smishing,AI Alert,2019-05-19,Closed,25338.81
+2173,6624,Phishing,Customer Complaint,2025-03-03,Resolved,10836.98
+2174,6632,Phishing,Manual Review,2022-06-23,Resolved,23330.7
+2175,6642,Identity Theft,Manual Review,2020-06-26,Investigating,17214.57
+2176,6646,Smishing,Customer Complaint,2022-12-15,Closed,9875.86
+2177,6648,Smishing,AI Alert,2021-06-24,Investigating,15125.58
+2178,6651,Vishing,Manual Review,2022-09-07,Investigating,14670.74
+2179,6652,Phishing,Manual Review,2020-06-10,Resolved,17132.31
+2180,6653,Phishing,Manual Review,2019-07-16,Investigating,11493.07
+2181,6654,Vishing,Manual Review,2025-05-16,Closed,686.48
+2182,6662,Card Cloning,Customer Complaint,2024-12-05,Investigating,6434.16
+2183,6665,Smishing,Customer Complaint,2020-05-28,Investigating,3613.93
+2184,12152,Identity Theft,Customer Complaint,2023-03-15,Resolved,10214.09
+2185,6682,Smishing,Manual Review,2025-01-21,Closed,15843.56
+2186,6686,Account Takeover,Customer Complaint,2021-02-17,Resolved,6782.93
+2187,6687,Vishing,Manual Review,2022-05-03,Investigating,18097.03
+2188,6693,Identity Theft,AI Alert,2023-06-26,Closed,14088.52
+2189,6698,Phishing,AI Alert,2021-11-18,Closed,10952.43
+2190,6701,Card Cloning,AI Alert,2022-11-04,Closed,1877.14
+2191,6709,Vishing,Customer Complaint,2020-11-26,Investigating,5648.98
+2192,6721,Identity Theft,Manual Review,2025-08-03,Investigating,5594.87
+2193,6723,Card Cloning,Customer Complaint,2024-09-02,Resolved,8926.38
+2194,6726,Vishing,AI Alert,2021-10-24,Closed,5020.64
+2195,6730,Chargeback Fraud,Customer Complaint,2022-01-28,Investigating,18503.56
+2196,6740,Vishing,AI Alert,2024-09-03,Investigating,3240.75
+2197,6741,Identity Theft,Customer Complaint,2019-11-18,Resolved,4754.93
+2198,6743,Smishing,AI Alert,2021-12-28,Investigating,12927.59
+2199,6746,Identity Theft,Customer Complaint,2023-02-10,Investigating,7765.53
+2200,6758,Identity Theft,Manual Review,2025-07-10,Resolved,5940.35
+2201,6760,Smishing,AI Alert,2025-08-28,Closed,1750.14
+2202,6766,Card Cloning,AI Alert,2020-07-22,Closed,16357.97
+2203,6767,Identity Theft,AI Alert,2025-09-26,Investigating,24178.17
+2204,6787,Phishing,AI Alert,2025-03-20,Investigating,8528.01
+2205,6795,Identity Theft,Customer Complaint,2023-02-14,Resolved,1972.54
+2206,6796,Card Cloning,Customer Complaint,2024-04-07,Closed,3372.78
+2207,6799,Smishing,Customer Complaint,2022-05-21,Closed,16523.05
+2208,6800,Vishing,Manual Review,2023-08-23,Closed,2897.29
+2209,6802,Account Takeover,Manual Review,2022-03-14,Closed,17585.61
+2210,6805,Phishing,AI Alert,2020-10-24,Investigating,14856.43
+2211,6810,Card Cloning,AI Alert,2019-11-22,Closed,6300.33
+2212,6822,Identity Theft,Customer Complaint,2020-03-24,Closed,11532.93
+2213,6826,Vishing,Manual Review,2023-12-25,Closed,1984.04
+2214,6828,Phishing,AI Alert,2020-01-27,Closed,4080.04
+2215,6829,Vishing,Customer Complaint,2021-11-28,Closed,4667.06
+2216,6830,Smishing,Customer Complaint,2022-03-22,Investigating,1220.81
+2217,6837,Card Cloning,Customer Complaint,2025-02-16,Resolved,8784.06
+2218,6839,Vishing,Customer Complaint,2022-07-06,Resolved,17037.06
+2219,6840,Chargeback Fraud,Customer Complaint,2023-02-18,Investigating,7541.5
+2220,6842,Smishing,Manual Review,2020-07-26,Resolved,1434.59
+2221,6844,Phishing,Manual Review,2019-11-26,Resolved,14880.61
+2222,6853,Account Takeover,Manual Review,2020-07-15,Resolved,11883.65
+2223,6857,Phishing,Manual Review,2025-06-27,Resolved,7008.5
+2224,6862,Vishing,AI Alert,2021-09-07,Closed,6947.48
+2225,6867,Card Cloning,Customer Complaint,2019-07-30,Resolved,9958.48
+2226,6870,Chargeback Fraud,Customer Complaint,2021-06-28,Investigating,19291.86
+2227,6877,Smishing,Manual Review,2023-08-20,Resolved,20596.12
+2228,6883,Identity Theft,AI Alert,2024-01-26,Closed,4015.19
+2229,6887,Phishing,Customer Complaint,2021-05-26,Resolved,21579.85
+2230,6888,Identity Theft,Customer Complaint,2023-09-26,Resolved,16185.88
+2231,6889,Chargeback Fraud,Customer Complaint,2023-03-27,Closed,2830.61
+2232,6891,Phishing,Customer Complaint,2021-08-02,Resolved,19136.89
+2233,6894,Identity Theft,Manual Review,2020-04-21,Investigating,19526.95
+2234,6899,Chargeback Fraud,Customer Complaint,2024-11-22,Investigating,24214.26
+2235,6911,Chargeback Fraud,AI Alert,2020-04-24,Closed,9785.23
+2236,6918,Identity Theft,Customer Complaint,2025-06-13,Closed,13748.68
+2237,6920,Vishing,Customer Complaint,2020-04-25,Closed,7655.34
+2238,6921,Card Cloning,AI Alert,2025-07-07,Resolved,16434.97
+2239,6924,Chargeback Fraud,Customer Complaint,2023-10-21,Investigating,12660.86
+2240,6925,Account Takeover,Manual Review,2024-03-02,Closed,389.69
+2241,12229,Card Cloning,Customer Complaint,2022-03-07,Closed,992.11
+2242,6931,Phishing,AI Alert,2022-07-31,Resolved,10968.51
+2243,6934,Identity Theft,AI Alert,2019-11-01,Investigating,7525.76
+2244,6940,Account Takeover,Manual Review,2022-03-01,Investigating,6152.03
+2245,6942,Identity Theft,Manual Review,2022-10-21,Resolved,444.41
+2246,6946,Account Takeover,AI Alert,2024-10-03,Resolved,9496.32
+2247,6951,Vishing,Manual Review,2022-09-10,Closed,18530.99
+2248,6957,Chargeback Fraud,AI Alert,2024-07-06,Investigating,173.35
+2249,6963,Vishing,Customer Complaint,2019-06-24,Investigating,2451.2
+2250,6965,Vishing,Customer Complaint,2022-11-21,Resolved,3627.4
+2251,6968,Account Takeover,AI Alert,2022-06-16,Closed,10065.12
+2252,6973,Phishing,Customer Complaint,2022-08-17,Closed,22947.21
+2253,6980,Vishing,Customer Complaint,2024-10-29,Investigating,13368.33
+2254,6982,Identity Theft,AI Alert,2025-10-21,Resolved,18120.29
+2255,6989,Smishing,AI Alert,2024-01-13,Closed,807.73
+2256,6992,Card Cloning,Manual Review,2022-06-18,Closed,4376.39
+2257,6993,Phishing,Manual Review,2024-02-25,Investigating,35067.9
+2258,7006,Chargeback Fraud,Customer Complaint,2024-06-30,Resolved,21448.13
+2259,7008,Identity Theft,Customer Complaint,2025-08-31,Resolved,9950.44
+2260,7014,Identity Theft,Manual Review,2019-08-26,Investigating,16633.6
+2261,7017,Vishing,AI Alert,2022-06-20,Resolved,13007.32
+2262,7023,Smishing,Manual Review,2020-03-11,Investigating,10749.96
+2263,7025,Identity Theft,Customer Complaint,2023-12-21,Resolved,15963.41
+2264,7027,Smishing,Customer Complaint,2023-08-14,Investigating,8552.92
+2265,7028,Phishing,Manual Review,2021-09-01,Investigating,439.71
+2266,12166,Identity Theft,Customer Complaint,2022-10-15,Resolved,10065.44
+2267,7034,Phishing,AI Alert,2019-05-23,Investigating,26085.73
+2268,7036,Identity Theft,Customer Complaint,2023-03-06,Closed,10587.88
+2269,7048,Card Cloning,Manual Review,2020-04-17,Resolved,9835.91
+2270,7052,Phishing,AI Alert,2020-03-28,Resolved,3772.45
+2271,7053,Vishing,AI Alert,2020-08-18,Resolved,5423.07
+2272,7056,Identity Theft,Customer Complaint,2022-12-29,Investigating,12893.18
+2273,7059,Card Cloning,Customer Complaint,2022-07-22,Resolved,1547.06
+2274,7062,Chargeback Fraud,Manual Review,2025-04-26,Resolved,21.28
+2275,7068,Smishing,Manual Review,2025-05-26,Closed,8791.63
+2276,7069,Smishing,AI Alert,2022-10-26,Resolved,4301.67
+2277,7074,Account Takeover,Customer Complaint,2022-02-08,Resolved,4713.01
+2278,7075,Account Takeover,Customer Complaint,2019-07-18,Closed,12831.06
+2279,7079,Account Takeover,AI Alert,2025-09-09,Resolved,2186.11
+2280,7087,Identity Theft,AI Alert,2024-03-10,Closed,8836.56
+2281,7089,Card Cloning,Customer Complaint,2023-02-12,Closed,15975.6
+2282,7090,Card Cloning,AI Alert,2025-02-13,Closed,3241.23
+2283,7101,Phishing,Manual Review,2019-02-27,Resolved,3710.11
+2284,7109,Smishing,Customer Complaint,2021-06-08,Closed,19332.41
+2285,7115,Vishing,Manual Review,2019-07-06,Closed,1763.79
+2286,7123,Chargeback Fraud,Manual Review,2020-01-07,Resolved,2745.35
+2287,7124,Account Takeover,AI Alert,2021-05-04,Resolved,3333.84
+2288,7126,Chargeback Fraud,Manual Review,2019-04-18,Resolved,322.59
+2289,7128,Smishing,Customer Complaint,2019-09-04,Closed,9023.74
+2290,7129,Account Takeover,Manual Review,2025-04-29,Investigating,4505.1
+2291,7132,Account Takeover,AI Alert,2019-05-08,Investigating,5706.85
+2292,7135,Smishing,Manual Review,2023-06-08,Closed,123.51
+2293,7137,Smishing,AI Alert,2025-03-25,Investigating,10570.82
+2294,7139,Card Cloning,Customer Complaint,2024-06-17,Closed,4906.87
+2295,7141,Chargeback Fraud,Manual Review,2023-05-27,Investigating,8635.43
+2296,7146,Account Takeover,Customer Complaint,2019-08-22,Resolved,17.78
+2297,7157,Account Takeover,Manual Review,2023-01-02,Closed,6345.57
+2298,7167,Smishing,Customer Complaint,2024-07-16,Investigating,2384.62
+2299,7170,Card Cloning,AI Alert,2021-05-05,Closed,8513.08
+2300,7172,Phishing,Customer Complaint,2025-02-02,Resolved,19811.65
+2301,7176,Smishing,AI Alert,2023-08-30,Closed,10600.3
+2302,7177,Card Cloning,Customer Complaint,2023-12-20,Investigating,7724.93
+2303,7180,Smishing,Customer Complaint,2025-03-23,Closed,8082.03
+2304,7189,Account Takeover,Manual Review,2022-02-01,Closed,16327.47
+2305,7199,Identity Theft,Manual Review,2020-03-26,Closed,6275.26
+2306,7203,Card Cloning,AI Alert,2025-09-20,Investigating,25864.19
+2307,7210,Card Cloning,Customer Complaint,2024-10-17,Investigating,4333.75
+2308,7226,Phishing,AI Alert,2021-04-10,Investigating,6705.29
+2309,7228,Account Takeover,Manual Review,2025-01-12,Resolved,5194.19
+2310,7233,Identity Theft,AI Alert,2020-03-25,Resolved,16798.58
+2311,7234,Smishing,AI Alert,2020-04-17,Investigating,4279.47
+2312,7240,Chargeback Fraud,Manual Review,2022-11-08,Investigating,13408.72
+2313,7241,Phishing,Customer Complaint,2023-05-23,Closed,4209.14
+2314,7250,Phishing,Manual Review,2024-06-15,Resolved,2592.61
+2315,7256,Card Cloning,Customer Complaint,2020-05-01,Closed,22213.87
+2316,7273,Smishing,Manual Review,2023-01-27,Investigating,905.73
+2317,7279,Card Cloning,AI Alert,2021-02-22,Investigating,23477.5
+2318,7282,Card Cloning,Manual Review,2023-05-24,Closed,10008.41
+2319,7287,Vishing,Manual Review,2021-07-17,Investigating,28506.1
+2320,7290,Vishing,Manual Review,2020-07-14,Resolved,12783.55
+2321,7291,Identity Theft,Manual Review,2019-09-26,Investigating,19299.13
+2322,7293,Phishing,Customer Complaint,2023-07-16,Closed,13408.58
+2323,7294,Identity Theft,Manual Review,2023-11-18,Closed,2103.1
+2324,7299,Vishing,AI Alert,2021-08-31,Investigating,8238.86
+2325,7301,Chargeback Fraud,AI Alert,2022-07-04,Resolved,7047.76
+2326,7303,Phishing,AI Alert,2023-09-23,Closed,13252.88
+2327,7305,Account Takeover,AI Alert,2021-08-25,Closed,9620.66
+2328,7318,Identity Theft,AI Alert,2019-06-21,Investigating,2323.53
+2329,7324,Identity Theft,AI Alert,2019-12-14,Resolved,11130.44
+2330,7328,Chargeback Fraud,AI Alert,2024-03-11,Closed,9753.77
+2331,7330,Phishing,Manual Review,2025-05-18,Investigating,6758.9
+2332,7336,Chargeback Fraud,AI Alert,2019-07-22,Closed,31567.2
+2333,7339,Phishing,Customer Complaint,2019-10-03,Closed,3831.32
+2334,7343,Vishing,AI Alert,2021-03-16,Investigating,14251.74
+2335,7347,Card Cloning,Customer Complaint,2020-01-27,Investigating,16133.65
+2336,7355,Smishing,Customer Complaint,2025-10-24,Resolved,20273.58
+2337,7357,Account Takeover,AI Alert,2023-12-14,Closed,12109.8
+2338,7363,Chargeback Fraud,AI Alert,2019-08-01,Closed,10154.67
+2339,7364,Phishing,Manual Review,2021-06-05,Closed,25507.62
+2340,7368,Account Takeover,Customer Complaint,2024-10-02,Closed,16887.52
+2341,7369,Chargeback Fraud,AI Alert,2024-04-01,Resolved,3713.15
+2342,7372,Card Cloning,Customer Complaint,2022-10-11,Closed,41710.82
+2343,7373,Chargeback Fraud,AI Alert,2021-11-23,Resolved,25002.81
+2344,7378,Card Cloning,Manual Review,2024-05-12,Resolved,16105.25
+2345,7383,Card Cloning,Manual Review,2019-02-23,Investigating,5175.58
+2346,7396,Smishing,AI Alert,2022-08-18,Resolved,4491.66
+2347,7401,Phishing,AI Alert,2023-08-05,Resolved,8770.55
+2348,7405,Vishing,Manual Review,2022-03-03,Closed,14321.21
+2349,7408,Identity Theft,Customer Complaint,2019-01-20,Investigating,2230.34
+2350,7414,Phishing,AI Alert,2019-02-05,Resolved,19642.94
+2351,7416,Card Cloning,Customer Complaint,2019-05-24,Closed,3042.9
+2352,7436,Account Takeover,AI Alert,2025-08-27,Closed,9495.78
+2353,7438,Card Cloning,Customer Complaint,2022-03-17,Investigating,2693.76
+2354,7454,Identity Theft,AI Alert,2023-01-10,Investigating,6178.29
+2355,7459,Smishing,AI Alert,2023-11-06,Resolved,11413.37
+2356,7465,Identity Theft,AI Alert,2022-09-02,Resolved,746.11
+2357,7468,Chargeback Fraud,Manual Review,2020-12-15,Resolved,12091.65
+2358,7481,Chargeback Fraud,Manual Review,2022-07-03,Resolved,11205.89
+2359,7482,Vishing,Manual Review,2023-06-26,Resolved,33122.68
+2360,7484,Identity Theft,Manual Review,2020-12-18,Investigating,2001.07
+2361,7485,Vishing,Manual Review,2024-12-03,Resolved,9796.7
+2362,7492,Smishing,Manual Review,2021-04-20,Resolved,10995.62
+2363,7494,Account Takeover,Customer Complaint,2024-03-26,Investigating,24189.77
+2364,7496,Account Takeover,AI Alert,2020-07-13,Closed,17205.81
+2365,7497,Account Takeover,AI Alert,2021-12-13,Investigating,16078.9
+2366,7500,Vishing,Customer Complaint,2021-08-10,Investigating,35450.96
+2367,7505,Phishing,AI Alert,2020-06-11,Resolved,4818.27
+2368,7506,Phishing,AI Alert,2023-03-23,Closed,12705.52
+2369,7510,Chargeback Fraud,Customer Complaint,2024-04-20,Investigating,22766.88
+2370,7511,Account Takeover,Customer Complaint,2021-08-02,Closed,6602.94
+2371,7512,Smishing,Customer Complaint,2021-09-28,Investigating,12522.83
+2372,7541,Identity Theft,AI Alert,2021-03-21,Closed,899.72
+2373,7543,Smishing,AI Alert,2021-02-13,Resolved,18655.84
+2374,7547,Phishing,Manual Review,2019-06-11,Resolved,5291.19
+2375,7551,Smishing,AI Alert,2019-06-14,Resolved,891.52
+2376,7552,Account Takeover,Manual Review,2025-05-20,Investigating,20174.66
+2377,7560,Chargeback Fraud,AI Alert,2025-02-05,Resolved,9607.18
+2378,7565,Vishing,AI Alert,2025-01-12,Investigating,5880.16
+2379,7599,Card Cloning,Manual Review,2022-02-01,Resolved,18131.78
+2380,7604,Card Cloning,AI Alert,2023-03-11,Investigating,6692.45
+2381,7605,Phishing,Customer Complaint,2021-02-13,Investigating,25180.52
+2382,7606,Phishing,Manual Review,2024-09-30,Investigating,257.79
+2383,7608,Identity Theft,Customer Complaint,2022-08-10,Investigating,13082.6
+2384,7610,Identity Theft,Customer Complaint,2022-06-13,Resolved,10465.65
+2385,7611,Phishing,AI Alert,2024-07-31,Closed,2467.75
+2386,7625,Vishing,Customer Complaint,2022-07-12,Investigating,18252.98
+2387,7628,Phishing,Manual Review,2021-03-27,Investigating,8400.58
+2388,7630,Chargeback Fraud,Manual Review,2019-07-07,Resolved,2348.91
+2389,7643,Vishing,AI Alert,2025-08-14,Investigating,6997.05
+2390,7645,Card Cloning,Customer Complaint,2021-01-24,Resolved,3455.93
+2391,7654,Identity Theft,AI Alert,2020-02-10,Resolved,5220.42
+2392,7655,Vishing,AI Alert,2023-06-15,Resolved,11854.38
+2393,7664,Chargeback Fraud,Customer Complaint,2019-08-21,Resolved,397.98
+2394,7665,Chargeback Fraud,Manual Review,2024-08-28,Investigating,25134.26
+2395,7669,Smishing,Manual Review,2019-04-06,Investigating,17155.6
+2396,7671,Phishing,AI Alert,2022-10-31,Closed,7437.1
+2397,7687,Chargeback Fraud,AI Alert,2020-09-16,Closed,22474.71
+2398,7688,Card Cloning,Manual Review,2023-10-10,Resolved,5102.31
+2399,7693,Vishing,AI Alert,2023-01-30,Investigating,5720.14
+2400,7695,Vishing,AI Alert,2024-10-18,Closed,6264.71
+2401,7703,Identity Theft,Customer Complaint,2023-04-15,Investigating,7338.19
+2402,7706,Vishing,Manual Review,2025-06-05,Closed,1283.99
+2403,7708,Account Takeover,Manual Review,2020-04-16,Closed,306.03
+2404,7711,Smishing,AI Alert,2023-02-15,Investigating,2261.86
+2405,7712,Identity Theft,AI Alert,2021-02-17,Investigating,1883.7
+2406,7713,Vishing,AI Alert,2024-09-22,Resolved,2117.1
+2407,7718,Identity Theft,Manual Review,2021-10-08,Closed,4498.75
+2408,7722,Vishing,AI Alert,2021-09-17,Closed,20558.03
+2409,7730,Smishing,AI Alert,2022-08-18,Investigating,29313.72
+2410,7733,Account Takeover,Manual Review,2022-07-23,Closed,4450.16
+2411,7745,Card Cloning,Customer Complaint,2024-06-04,Resolved,5465.01
+2412,7747,Identity Theft,Customer Complaint,2023-04-02,Closed,5540.29
+2413,7749,Account Takeover,AI Alert,2021-02-03,Investigating,10004.44
+2414,7756,Smishing,AI Alert,2020-09-28,Closed,5539.51
+2415,7758,Card Cloning,Customer Complaint,2022-12-21,Investigating,2347.34
+2416,7771,Phishing,Customer Complaint,2020-07-17,Resolved,9706.82
+2417,7774,Account Takeover,Manual Review,2024-01-09,Investigating,2296.98
+2418,7780,Card Cloning,Manual Review,2025-08-29,Investigating,242.25
+2419,7782,Vishing,Customer Complaint,2024-10-07,Resolved,3261.22
+2420,7784,Smishing,Customer Complaint,2025-01-14,Resolved,11503.74
+2421,7787,Identity Theft,AI Alert,2023-10-13,Resolved,2760.48
+2422,7790,Smishing,Customer Complaint,2021-03-28,Resolved,8823.45
+2423,7792,Card Cloning,AI Alert,2019-09-03,Resolved,4667.99
+2424,7796,Account Takeover,AI Alert,2019-03-20,Resolved,12118.89
+2425,7803,Card Cloning,Manual Review,2020-08-04,Resolved,5443.18
+2426,7807,Phishing,Manual Review,2024-08-17,Investigating,12339.7
+2427,7808,Chargeback Fraud,Manual Review,2022-08-17,Investigating,2106.48
+2428,7810,Vishing,AI Alert,2020-02-08,Investigating,4608.12
+2429,7812,Smishing,Manual Review,2021-07-29,Investigating,13015.01
+2430,7813,Chargeback Fraud,AI Alert,2021-05-16,Investigating,13057.38
+2431,7815,Account Takeover,Manual Review,2024-04-14,Investigating,6483.35
+2432,7820,Smishing,Manual Review,2023-07-20,Closed,30044.61
+2433,7823,Identity Theft,AI Alert,2024-07-10,Closed,459.66
+2434,7839,Phishing,Manual Review,2024-01-18,Resolved,4589.37
+2435,7840,Phishing,Manual Review,2022-12-03,Closed,9722.0
+2436,7846,Smishing,AI Alert,2024-04-09,Resolved,18745.63
+2437,7848,Smishing,Manual Review,2022-01-15,Closed,2847.66
+2438,7850,Card Cloning,Manual Review,2022-02-12,Closed,1731.67
+2439,7858,Vishing,Customer Complaint,2019-04-04,Closed,30900.24
+2440,7861,Card Cloning,AI Alert,2023-07-28,Resolved,5794.7
+2441,7862,Phishing,AI Alert,2020-10-22,Closed,9637.54
+2442,7863,Identity Theft,AI Alert,2021-03-09,Investigating,12919.37
+2443,7870,Chargeback Fraud,AI Alert,2023-11-15,Closed,11236.93
+2444,7876,Card Cloning,Customer Complaint,2019-07-30,Resolved,6573.59
+2445,7881,Smishing,Customer Complaint,2022-09-04,Investigating,21580.61
+2446,7887,Smishing,AI Alert,2025-04-16,Closed,5166.07
+2447,7893,Smishing,Manual Review,2024-08-30,Resolved,7265.65
+2448,7901,Account Takeover,Manual Review,2024-05-26,Investigating,4210.32
+2449,7902,Card Cloning,AI Alert,2021-11-19,Investigating,12270.41
+2450,7908,Vishing,AI Alert,2019-12-30,Resolved,10812.86
+2451,7911,Account Takeover,Manual Review,2024-10-06,Resolved,10533.33
+2452,7915,Chargeback Fraud,Manual Review,2022-10-22,Closed,8627.08
+2453,7917,Card Cloning,AI Alert,2021-08-26,Resolved,8363.67
+2454,7938,Smishing,Customer Complaint,2025-04-18,Investigating,11186.08
+2455,7946,Smishing,AI Alert,2020-03-29,Resolved,8188.09
+2456,12181,Account Takeover,Customer Complaint,2019-07-26,Investigating,21611.41
+2457,7955,Card Cloning,Manual Review,2022-08-07,Resolved,8654.56
+2458,7968,Smishing,Manual Review,2020-11-30,Resolved,14068.63
+2459,7971,Account Takeover,AI Alert,2023-08-25,Closed,3099.05
+2460,7972,Vishing,Manual Review,2023-09-29,Closed,2350.36
+2461,7976,Identity Theft,Manual Review,2022-08-05,Closed,9122.4
+2462,7979,Smishing,Manual Review,2021-10-06,Resolved,36180.17
+2463,7992,Smishing,Customer Complaint,2020-11-02,Investigating,16504.6
+2464,7993,Account Takeover,AI Alert,2021-06-27,Closed,5761.59
+2465,7998,Account Takeover,Customer Complaint,2021-11-09,Closed,3435.1
+2466,8000,Card Cloning,Manual Review,2024-12-03,Investigating,8968.58
+2467,8003,Account Takeover,Customer Complaint,2021-10-22,Investigating,13670.76
+2468,8006,Card Cloning,Manual Review,2022-07-16,Closed,14144.1
+2469,8008,Chargeback Fraud,AI Alert,2024-02-06,Investigating,10883.51
+2470,8009,Account Takeover,Manual Review,2020-12-17,Closed,11642.58
+2471,8026,Vishing,Customer Complaint,2021-10-28,Resolved,7061.78
+2472,8027,Card Cloning,Manual Review,2021-09-30,Resolved,8886.81
+2473,8028,Account Takeover,Manual Review,2019-04-12,Investigating,8450.29
+2474,8030,Account Takeover,Manual Review,2023-01-05,Resolved,853.01
+2475,8036,Identity Theft,AI Alert,2023-07-06,Closed,16059.36
+2476,8037,Vishing,Customer Complaint,2023-04-01,Resolved,21427.4
+2477,8039,Vishing,Customer Complaint,2023-02-17,Resolved,5716.01
+2478,12064,Phishing,Manual Review,2025-09-05,Closed,2990.8
+2479,8049,Card Cloning,AI Alert,2020-10-07,Resolved,4617.61
+2480,8071,Account Takeover,AI Alert,2019-12-31,Closed,18238.54
+2481,8082,Card Cloning,Manual Review,2020-04-03,Investigating,4088.21
+2482,8087,Smishing,AI Alert,2019-07-25,Resolved,18820.74
+2483,8093,Identity Theft,Manual Review,2024-01-03,Investigating,15513.38
+2484,8096,Account Takeover,Manual Review,2025-05-05,Resolved,533.53
+2485,8098,Chargeback Fraud,Customer Complaint,2023-05-03,Resolved,2344.63
+2486,8102,Card Cloning,Customer Complaint,2024-07-27,Closed,8025.45
+2487,8103,Card Cloning,Manual Review,2021-02-11,Closed,24986.28
+2488,8108,Phishing,AI Alert,2022-08-30,Closed,1208.77
+2489,8116,Identity Theft,Manual Review,2021-10-23,Resolved,26544.4
+2490,12115,Phishing,Customer Complaint,2022-06-14,Closed,22111.73
+2491,8134,Card Cloning,Customer Complaint,2021-01-21,Resolved,19268.13
+2492,8143,Phishing,AI Alert,2024-11-17,Investigating,6640.17
+2493,8144,Phishing,AI Alert,2021-05-08,Closed,11237.54
+2494,8146,Vishing,Customer Complaint,2023-02-10,Closed,10887.49
+2495,8154,Smishing,Manual Review,2025-10-25,Closed,6362.25
+2496,8156,Account Takeover,AI Alert,2021-06-15,Investigating,3505.91
+2497,8162,Identity Theft,Customer Complaint,2024-09-11,Closed,10902.92
+2498,8179,Vishing,AI Alert,2025-07-13,Investigating,21524.74
+2499,8183,Phishing,Manual Review,2020-06-30,Closed,5839.43
+2500,8188,Vishing,Customer Complaint,2024-11-02,Resolved,37011.08
